@@ -1,0 +1,11 @@
+{
+	"id": "daggerforge",
+	"name": "DaggerForge",
+	"version": "2.1.10",
+	"minAppVersion": "1.8.10",
+	"description": "Easy access to Daggerheart's content and creating your own.",
+	"author": "Waleed Alnaimi",
+	"authorUrl": "https://github.com/Torutu",
+	"fundingUrl": "https://ko-fi.com/waleedalnaimi",
+	"isDesktopOnly": false
+}

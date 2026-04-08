@@ -1,0 +1,14 @@
+{
+  "backups": [
+    {
+      "id": "backup-1774907264332",
+      "timestamp": 1774907264332,
+      "version": "1.4.9",
+      "description": "Automatic backup before update to 1.4.11",
+      "size": 1679360,
+      "path": "G:\\Documents\\Emberdawn\\Writality Novel\\backups\\backup-1774907264332"
+    }
+  ],
+  "maxBackups": 10,
+  "lastBackupDate": 1774907264332
+}

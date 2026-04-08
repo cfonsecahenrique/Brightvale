@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Characters/Ancestries  ",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
+    },
+    {
+      "query": "path:Characters/NPCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Factions_and_Organizations/Noble Houses/Old\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 25343
+      }
+    },
+    {
+      "query": "path:Factions_and_Organizations/Guilds  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "path:Locations/Brightvale  ",
+      "color": {
+        "a": 1,
+        "rgb": 5897984
+      }
+    },
+    {
+      "query": "path:History_and_Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Mysteries_and_Themes  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Factions_and_Organizations/Noble Houses/Recent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2864110
+      }
+    },
+    {
+      "query": "path:Bestiary  ",
+      "color": {
+        "a": 1,
+        "rgb": 5702917
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.98854166666667,
+  "lineSizeMultiplier": 1.91197916666667,
+  "collapse-forces": false,
+  "centerStrength": 0.15625,
+  "repelStrength": 12.2916666666667,
+  "linkStrength": 0.833333333333333,
+  "linkDistance": 130,
+  "scale": 0.5087618855792602,
+  "close": false
+}
