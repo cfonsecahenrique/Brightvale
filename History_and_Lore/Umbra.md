@@ -33,3 +33,11 @@ The subversion of a mind to the Dark, known as **Hollowing**, is the total erasu
 ### V. The Prophylactic Paradox
 
 The **Embermark** produces a holy counter-hymn that nullifies the Warp. However, this protection is a treacherous balance; to push back the Dark, the Emberborne must flare their internal fire, risking **Shatter-Warping**—where the body is broken by the very Light intended to save it.
+
+### VI. The Umbra's Hunger for Magic
+
+The [[Umbra]] is not indiscriminate. It gravitates toward **magical beings and magical expression** — toward anything that carries the Aetherweave. The greater the arcane potency, the faster the shadow comes. During the great Spell-Wars that followed the [[Apostasy]], the most powerful wizards were consumed first, their vast reserves of channelled energy drawing the [[Umbra]] like a beacon of their own. Dragons, unicorns, and other inherently magical creatures suffered the same fate — their very nature made them irresistible to the dark.
+
+This affinity explains a pattern that the [[Slayers]] and the [[Emberguard]] have long observed: the [[Umbra]] does not produce mindless husks. An Umbra-touched creature loses its mind — its memory, its identity, its capacity for reason — but **retains its instincts**. A corrupted wizard still casts spells, drawing on muscle memory and arcane reflex with terrifying precision. A corrupted dragon still breathes fire, still wheels through the sky in combat formations etched into its flesh by generations of draconic evolution. The body remembers what the soul has forgotten.
+
+Most dangerous of all are the **Fallen Generals** — former military commanders and tacticians whose strategic instincts survived the Hollowing intact. Through pure reflex and ingrained battlefield intuition, they organize and lead hordes of Umbra-touched creatures with a coordination that should be impossible for beings without consciousness. They are not thinking. They are *performing* — executing the patterns of a lifetime's training on an empty stage. The fact that this performance is indistinguishable from genuine tactical intelligence is what makes them a constant, existential threat to every settlement in the Vale.

@@ -7,7 +7,7 @@ The current year is **400 AA**.
 | Year (AA) | Event | Significance |
 |:---|:---|:---|
 | **0** | **The [[Apostasy]]** | The end of the golden age. The crimson veil chokes the world. |
-| **c. 5** | **The Sacrifice** | The Dawnfather’s soul creates the **Beacon**. Survivors establish the first haven in [[Medsen]]. |
+| **c. 5** | **The Sacrifice** | The Dawnfather's soul creates the **Beacon**. Survivors establish the first haven in [[Medsen]]. |
 | **25** | **The Eastern Hearth** | Founding of **[[Hvergi]]** in the eastern mountain-roots as Dwarven refugees consolidate mining operations. |
 | **164** | **The First Archive** | Facing the memory-loss effects of [[Umbra]]-exposure, **Arch-Mage [[First Steward Elowen the Wise]]** orders the formal recording of all history. |
 | **165** | **Founding: Scholars' Guild** | Initial organization dedicated to reclaiming lost Armisian knowledge. |
@@ -16,14 +16,21 @@ The current year is **400 AA**.
 | **270** | **The Scholastic Schism** | [[First Steward Elowen the Wise]] resigns following disputes over the "Deep-Weave" study. **Arch-Scholar Solas** assumes leadership. |
 | **271** | **The Academy's Dawn** | The Scholars' Guild rebrands as the **[[Aetherweaver Academy]]**, focusing on teaching Aetherweaving to all capable initiates. |
 | **275** | **The Rise of [[Aurore]]** | The village of [[Aurore]] begins to grow organically into a bustling town as scholars and students flock to the base of [[Aurore]]'s Peak. |
-| **288** | **Ascension: Queen Wendreda** | Death of King Cynred; **Wendreda the Graceful** begins a period of cultural prosperity and urban expansion in [[Medsen]]. |
-| **300** | **The Warding Expansion** | **High-Aetherweaver Brynstan** enhances [[Medsen]]'s magical boundaries, doubling the safe living zone. |
-| **310** | **Ascension: King Oswin I** | Death of Queen Wendreda; succeeded by her brother, a man of martial obsession. |
+| **284** | **Death of Cynred the Bitter** | End of the Bitter's 116-year reign. His grandson, **King Aldhelm**, inherits a realm corroded by institutional neglect and deepening factional resentment. |
+| **293** | **[[The Brightblood War]] Begins** | Civil war erupts between the Crown's Coalition and the Reform Coalition. Noble Houses, Guilds, and the [[Dwarvenkind|Dwarves]] of [[Hvergi]] fracture along political lines. The [[Explorers' Guild]] remains neutral. Mercenary Orcish war-clans and Elven glade-companies are employed by both sides. |
+| **294** | **The Amber Court Peace (Failed)** | **Senna Iyengar** convenes emergency peace talks at the Amber Court. A loyalist envoy is assassinated within the Court's walls on the twelfth day, collapsing the ceasefire and resuming the war. |
+| **295** | **The Flicker** | The Beacon dims as civil strife disrupts the [[Caretakers of the Beacon\|Caretakers']] rituals and fractures the population's collective faith. The wards weaken across the Vale. [[Umbra]]-touched activity surges in the outer regions. |
+| **296** | **Fall of [[Emberfort]]** | **Lord-Warden Theron** — a legendary [[Emberguard]] general Hollowed decades prior — leads a massed Horde through [[Emberfort]]'s depleted defenses. The fortress is nearly destroyed after nine days of fighting. |
+| **297** | **Battle of Three Bridges** | Suns and Ravens unite against the Horde at Three Bridges — the first settlement into the Vale from [[Emberfort]], thirty kilometres southeast of [[Medsen]]. **King Aldhelm** leads the combined force; his Sun-Born radiance sears the Horde and breaks Theron's hold. Aldhelm dies of his wounds three days later in the Dawnfather Temple. |
+| **297** | **Ascension: Queen Wendreda** | *The Graceful.* Aldhelm's consort is crowned. She pardons the Reform Coalition's lesser members and publicly sacrifices the most nefarious rebel leaders — including **Drago Von Zoltraak** — to the Beacon. The fire burns bright and steady. |
+| **297–308** | **The Golden Reprieve** | A decade of recovery under Wendreda's rule. Diminished population means no food shortage. The Beacon's strengthened light fuels a renaissance in aetheric research. **Lumen Censers** and **Ashline** wards are developed. [[Emberfort]] is rebuilt and fortified. |
+| **300** | **The Warding Expansion** | **High-Aetherweaver Brynstan** enhances [[Medsen]]'s magical boundaries, doubling the safe living zone — a direct product of the Golden Reprieve's research surge. |
+| **328** | **Ascension: King Oswin I** | *The Venturer.* Wendreda's brother; a man of martial obsession who redirects the realm's ambitions outward. |
 | **329** | **Founding: [[Explorers' Guild]]** | **King Oswin**, known as "The Venturer," formalizes exploration of the Wastes. **Ekbert, Prince of Glass**, is named first Grand Explorer. |
 | **349** | **Ascension: King Raedfryd** | Death of King Oswin. **Raedfryd, Exarch of Cinders**, claims the throne. |
 | **353** | **The Glass Tragedy** | Ekbert dies in the Wastes; succeeded by **Lorenzo** as Grand Explorer. |
 | **354-356** | **The Great Famine** | A three-year period of crop failure, usually attributed to Raedfryd's heavy-handed mismanagement of [[Medsen]]'s resources. |
-| **356** | **The Cinder Sacrifice** | Pressured by a starving population, **King Raedfryd** sacrifices himself into the Beacon’s Great Pyre. Sunlight surge restores the crops. |
+| **356** | **The Cinder Sacrifice** | Pressured by a starving population, **King Raedfryd** sacrifices himself into the Beacon's Great Pyre. Sunlight surge restores the crops. |
 | **357** | **Birth of the Council** | In the wake of Raedfryd's death, the **Council of Five** is formed to check [[The Monarchy|the monarchy]] and lead [[Medsen]]. |
 | **357** | **Ascension: King Edric I** | *(The Hollow Crown)* The first Sun-Born king to reign entirely under Council authority. The crown becomes ceremonial. |
 | **366** | **Crypt of King Zothu** | First discovery of a major pre-[[Apostasy]] crypt in the lowlands. |

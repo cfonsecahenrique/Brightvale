@@ -3,9 +3,11 @@
 This document provides a summary of the current worldbuilding progress for the **Brightvale** campaign setting. The setting is structured as a dark fantasy, post-apocalyptic world recovering from a cataclysmic event, focused around a single safe valley.
 
 ## Core Lore & History
-*   **The [[Apostasy]]**: The central cataclysmic event. A crimson veil choked the sky, leading to winters and darkness. It spawned the [[Umbra]] and Revenants, corrupting the land.
-*   **The [[Umbra]]**: Described in detail in scholar Ehre's treatise. It's a sentient, parasitic miasma that induces "Flesh-Discord" and mutates flora and fauna. It seeks to erase boundaries of life, leading to "Hollowing" and turning people into Revenants.
-*   **The Dawnfather & The Beacon**: A legendary hero who sacrificed himself to create the Beacon, a pillar of holy fire protecting the valley (Brightvale) from the [[Umbra]]. The Embermark is a related prophylactic magic.
+*   **The [[Apostasy]]**: The central cataclysmic event. A crimson veil choked the sky, leading to winters and darkness. It spawned the [[Umbra]] and Revenants, corrupting the land. The world moves in cyclical Ages, each ending in cataclysm — the Apostasy is the most recent collapse.
+*   **The [[Umbra]]**: A sentient, parasitic miasma that gravitates toward magical beings and expression. It induces "Flesh-Discord" and mutates flora and fauna. Umbra-touched creatures retain their combat instincts and magical prowess despite losing all sense of self.
+*   **The Dawnfather & The Beacon**: A legendary hero who sacrificed himself to create the Beacon, a pillar of holy fire protecting the valley from the [[Umbra]]. The Beacon's true nature and the economy built on its ash (**Ashgeld**) hold darker secrets.
+*   **[[Religions]]**: Three primary theological positions vie for authority — the Orthodox, the Stoic, and the Pragmatist — each shaping how the Beacon is understood and who controls it.
+*   **[[The Brightblood War]]**: A devastating civil war (293–297 AA) between Crown loyalists and a reform coalition of Noble Houses. Ended when a Horde invasion forced both sides to unite at the Battle of Three Bridges, at the cost of King Aldhelm's life. The aftermath — the Golden Reprieve — produced the Lumen Censers and Ashline wards.
 
 ## Locations
 The setting is centered on **Brightvale**, a protected plateau.
@@ -49,7 +51,7 @@ The society is a tug-of-war between Noble Houses and Guilds.
 *   **[[Lunarciel]]**: A famous documented weapon.
 
 ## Themes & Mysteries
-*   **Major Themes**: The true nature of the [[Apostasy]], the Dawnfather, the [[Umbra]], reconquering the world, the diminished Faewilds, and the discovery of the Undercity.
+*   **Major Themes**: The true nature of the [[Apostasy]], the Dawnfather, the [[Umbra]], reconquering the world, the diminished Faewilds, the discovery of the Undercity, and [[The Beacon|the Beacon's secrets]].
 *   **Minor Themes**:
     *   *Modern Vampires of the Vale*: A cult trying to resurrect a vampire lord's lover.
     *   *Dragon Eggs*: Searching for remnants of [[dragons]].
