@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/indexed-db/
+.obsidian/plugins/obsidian-git/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups
+backups/
+backup-metadata.json
+
+# Database
+writality-data.db
