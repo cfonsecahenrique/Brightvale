@@ -5,3 +5,8 @@ Most **[[Elves (Faefolk)|Elves]]** reside in secluded settlements, sequestered w
 
 ## Related
 - [[Elves (Faefolk)]]
+
+## Connections
+*   **East ([[Three Bridges]]):** Concealed forest paths leading out of the glade toward the village.
+*   **North ([[Medsen]]):** A route through the Whisperwood Valley toward the capital.
+*   **West ([[Aurore]]):** A path leading through the Whisperwood Valley toward the arcane peaks.

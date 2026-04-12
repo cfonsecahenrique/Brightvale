@@ -3,7 +3,7 @@
 **Motto:** *"The blood remembers what the mind forgets."*
 **Status:** Old Armisian House
 **Seat:** The Ashen Hall (Medsen)
-**Heraldry:** A pale dragon's scale pierced by a spear on a field of deep charcoal and bone-white.
+**Heraldry:** A silver lion rampant holding a pale dragon's scale on a field of deep charcoal and bone-white.
 
 **Overview:** 
 Carrying recessive draconic resonance from an ancient union with the extinct House Rjioha, Kaewdyn’s "Ashen-Heirs" share a striking pale physiology and can physically sense the Umbra’s malignant resonance. Choosing to weaponize this terrifying sensitivity, Kaewdyn is the definitive warrior house. Mandatory, grueling service in the Emberguard precedes any claim to Kaewdyn leadership.

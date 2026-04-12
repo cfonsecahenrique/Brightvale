@@ -3,7 +3,7 @@
 **Motto:** *"We remember the sky."*
 **Status:** Old Armisian House
 **Seat:** The Solarium (Medsen)
-**Heraldry:** A radiant sun half-submerged below a horizon line on a field of pale gold and faded white.
+**Heraldry:** A golden eagle soaring above a radiant sun half-submerged below a horizon line on a field of pale gold and faded white.
 
 **Overview:** 
 Formerly the Armisian Empire's agricultural nobility, the Aurelians worship the sun as the practical source of all life. Defined by grief dressed as optimism, they run the Vale's major seed vaults and experimental greenhouses, stubbornly cultivating crops to thrive under the beacon-light instead of the faded sun.

@@ -11,7 +11,7 @@ The **Brightblood War** is the defining trauma of Brightvale's middle history �
 
 ## Causes
 
-For 116 years, **King Cynred the Bitter** ruled [[Medsen]] through calculated neglect — closing borders, refusing audiences, allowing institutions to atrophy. When he died in **284 AA**, his grandson **King Aldhelm** inherited a realm structurally intact and spiritually hollowed. Aldhelm's sweeping reform agenda — redistributing Crown resources, auditing tax ledgers, reviewing all land claims — was necessary and catastrophically implemented. He moved too fast, consulted no one, and antagonized everyone.
+For 116 years, **King Cynred the Bitter** ruled [[Medsen]] through calculated neglect — closing borders to survivors, refusing audiences, allowing institutions to atrophy. When he died in **284 AA**, his grandson **King Aldhelm** inherited a realm structurally intact and spiritually hollowed. Aldhelm's sweeping reform agenda — redistributing Crown resources, auditing tax ledgers, reviewing all land claims — was necessary and catastrophically implemented. He moved too fast, consulted no one, and antagonized everyone.
 
 By **293 AA**, the political fracture had become irreparable.
 

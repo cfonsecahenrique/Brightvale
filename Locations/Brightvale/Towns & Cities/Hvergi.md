@@ -33,3 +33,7 @@ The tunnel's existence is generating tension with [[Medsen]]. Rumours have reach
 - [[House Thalum]]
 - [[Medsen]]
 - [[Aetherweaver Academy]]
+
+## Connections
+*   **Southwest ([[Crossroads]]):** The main Mountain Road leading down to the center of Brightvale.
+*   **Southwest ([[Medsen]]):** A direct path connecting the dwarven roots to the capital via the Frost-Veil Peaks.

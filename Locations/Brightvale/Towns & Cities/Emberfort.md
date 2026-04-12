@@ -16,3 +16,7 @@ The fort's lower town is a chaotic collection of smithies, reagent markets, and 
 *   **The Gate of Souls**: The massive iron-bound doors that open onto the Venturer's Trail.
 *   **The Pit**: A sunken training arena used by [[Slayers]] and [[Emberguard]].
 *   **The Crow's Nest**: A high observatory maintained by the Explorers to monitor the weather and [[Umbra]]-flux in the lowlands.
+
+## Connections
+*   **Northwest ([[Three Bridges]]):** The Venturer's Trail, descending from the fortress toward the first center of civilization.
+*   *The Wastes / Umbralands (South, external to valley)*
