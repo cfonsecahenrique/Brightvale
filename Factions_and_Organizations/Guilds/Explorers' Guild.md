@@ -19,7 +19,7 @@ The [[Explorers' Guild]] has the highest mortality rate of any institution in Br
 
 ### Current Leader: Grand Explorer [[Grand Explorer Mira Ravenna]]
 
-The Guild is currently led by **Grand Explorer [[Grand Explorer Mira Ravenna]]**, a veteran whose name is synonymous with the "Humanity-Loss" gamblers. [[Grand Explorer Mira Ravenna]] is a charismatic but reckless leader who pushes the **Council of Five** to be far more aggressive in reclaiming the ruins of the Old World.
+The Guild is currently led by **Grand Explorer [[Grand Explorer Mira Ravenna]]**, a veteran whose name is synonymous with the "Humanity-Loss" gamblers. [[Grand Explorer Mira Ravenna]] is a charismatic but reckless leader who pushes the **Council of Seven** to be far more aggressive in reclaiming the ruins of the Old World.
 
 [[Grand Explorer Mira Ravenna]]’s survival in the most [[Umbra]]-dense regions has come at a steep price. She has participated in the "Memory-Bargains," a desperate technique where a traveler can sacrifice non-essential (and sometimes essential) personal memories to the [[Umbra]]-resonance to avoid Hollowing. [[Grand Explorer Mira Ravenna]] has already sacrificed several key memories, including the face of her own child, to ensure she could lead her team back home. She carries this weight with a sharp, dark humor and an unwavering sense of duty.
 

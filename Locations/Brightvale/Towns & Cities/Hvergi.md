@@ -24,7 +24,7 @@ The project has two motivations:
 1. **Strategic autonomy.** The Dwarves want to control one of Brightvale's exits. Currently, all routes out of the Vale pass through territory monitored by [[Medsen]]'s institutions — the [[Emberguard]], the [[Explorers' Guild]], the [[House Thalum|Thalum]]-maintained infrastructure. A Dwarven-controlled passage would give Hvergi independent access to the outside world, free of human oversight.
 2. **The northern hope.** The Hvergi elders believe — based on geological surveys, wind patterns through the mountain stone, and oral traditions passed down from the first generation — that the lands to the northeast may be **less saturated with [[Umbra]]** than the southern Wastes. Whether this is genuine evidence or wishful cartography is debated within the enclave itself, but the mining continues.
 
-The tunnel's existence is generating tension with [[Medsen]]. Rumours have reached the [[Council of Five|Council]], and [[House Thalum]]'s surveyors have noticed unexplained seismic activity in the eastern rock. The Dwarves have responded to inquiries with polite deflection and administrative stalling. How long this can hold is an open question.
+The tunnel's existence is generating tension with [[Medsen]]. Rumours have reached the [[Council of Seven|Council]], and [[House Thalum]]'s surveyors have noticed unexplained seismic activity in the eastern rock. The Dwarves have responded to inquiries with polite deflection and administrative stalling. How long this can hold is an open question.
 
 ---
 

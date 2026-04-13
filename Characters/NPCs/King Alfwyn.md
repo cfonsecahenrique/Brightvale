@@ -16,10 +16,10 @@ The prevailing theories on his state are:
 3.  **Profound Grief/Fear:** He has seen something in the depths of the Beacon — perhaps the true nature of the Dawnfather's sacrifice — that has shattered his will to lead.
 
 ### Governance
-He occupies a symbolic seat on the **Council of Five**, but never attends. His **High Steward** acts as his proxy, managing the administrative tasks of [[the monarchy]] and ensuring the "Sun-Born" mythos continues to provide a sense of stability to the populace. 
+He occupies a symbolic seat on the **Council of Seven**, but never attends. His **High Steward** acts as his proxy, managing the administrative tasks of [[the monarchy]] and ensuring the "Sun-Born" mythos continues to provide a sense of stability to the populace. 
 
 ### Related
 - [[The Monarchy]]
-- [[Council of Five]]
+- [[Council of Seven]]
 - [[Medsen]]
 - [[Brightvale Beacon]]

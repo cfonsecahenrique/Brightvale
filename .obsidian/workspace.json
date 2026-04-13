@@ -11,14 +11,10 @@
             "id": "96358dbe0b1c622d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Brightvale/Towns & Cities/Aeldenbarrow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aeldenbarrow"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -200,6 +196,7 @@
   },
   "active": "96358dbe0b1c622d",
   "lastOpenFiles": [
+    "Locations/Brightvale/Towns & Cities/Aeldenbarrow.md",
     "Locations/Brightvale/Villages/Orska.md",
     "History_and_Lore/Economy.md",
     "Factions_and_Organizations/Noble Houses/Recent/House Kaze.md",
@@ -225,7 +222,6 @@
     "Factions_and_Organizations/Noble Houses/Recent/House Ashwood.md",
     "Mysteries_and_Themes/Major/The Beacon.md",
     "History_and_Lore/Religions.md",
-    "Factions_and_Organizations/Noble Houses/Recent/House Drevorn.md",
     "tree.txt",
     "Untitled.base",
     "read_readmes.py",

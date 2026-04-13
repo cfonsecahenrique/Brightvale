@@ -12,7 +12,7 @@ Reckless, charismatic, and profoundly fatalistic. [[Grand Explorer Mira Ravenna]
 [[Grand Explorer Mira Ravenna]] is a veteran of the "Memory-Bargains"—a forbidden or perhaps just desperate practice known to some experienced Venturers. To survive the mental pressure of the most [[Umbra]]-dense regions, she has "gambled" pieces of her soul. She has traded away deep, personal memories to create a buffer against Hollowing. Most notably, she can no longer remember the face of her own child—a sacrifice she made to navigate her team out of a collapsing spell-scar. She views these losses as a necessary cost of her duty ("The Price of Pathfinding").
 
 ### Ambitions
-[[Grand Explorer Mira Ravenna]] is a loud voice on the **Council of Five** (representing the interessi of the Venturers). She is an "Aggressionist," believing that Brightvale's best chance for long-term survival is to retake the Old World ruins and the knowledge they contain, rather than simply hiding behind the Beacon's light.
+[[Grand Explorer Mira Ravenna]] is a loud voice on the **Council of Seven** (representing the interessi of the Venturers). She is an "Aggressionist," believing that Brightvale's best chance for long-term survival is to retake the Old World ruins and the knowledge they contain, rather than simply hiding behind the Beacon's light.
 
 ### Related
 - [[Explorers' Guild]]

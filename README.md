@@ -17,7 +17,7 @@ The world is defined by **The [[Apostasy]]**, a cataclysmic event that brought t
 
 ## ⚔️ Factions & Power Dynamics
 The political landscape of Brightvale is a complex web of old blood and new industry:
-- **The Council of Five**: Modern governance struggling against ancient tradition.
+- **The Council of Seven**: Modern governance struggling against ancient tradition.
 - **The Noble Houses**: From the martial strength of **House Ravenne** to the arcane secrets of **House Aerincorvus**.
 - **The Guilds**: Practical masters of the Vale, including the **[[Slayers]]**, the **[[Explorers' Guild]]**, and the **[[Emberguard]]**.
 

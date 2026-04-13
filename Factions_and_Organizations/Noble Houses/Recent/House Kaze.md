@@ -19,4 +19,4 @@ Recognizing that information is power, the Orcenfolk of House Kaze established B
 
 They constructed a series of highly secure, closely guarded stable-checkpoints along all major valley roads, primarily the long stretch between the garrison of [[Emberfort]] and the capital city of [[Medsen]]. By keeping fresh, superbly bred horses ready at each checkpoint and utilizing riders of unmatched skill, the Kaze network can carry a vital message or small, high-value parcel across the nearly 30 kilometers from Emberfort to Medsen in less than four hours. 
 
-In a world where bureaucratic delays or delayed military reports can lead to an Umbra breach or political ruin, this unmatched swiftness made the Kaze indispensable to the [[Council of Five]] and the [[Emberguard]], cementing their elevation to nobility. 
+In a world where bureaucratic delays or delayed military reports can lead to an Umbra breach or political ruin, this unmatched swiftness made the Kaze indispensable to the [[Council of Seven]] and the [[Emberguard]], cementing their elevation to nobility. 

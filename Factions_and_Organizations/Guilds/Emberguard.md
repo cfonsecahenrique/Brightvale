@@ -9,7 +9,7 @@ The guild is headquartered in the **[[Emberfort]]**, the massive bastion that gu
 ### Role and Function
 
 *   **Border Defense:** They are the first line of defense against mountain-dwelling horrors and [[Umbra]]-tainted beasts that stray too close to the plateau.
-*   **Civil Policing:** Within the settlements, they act as the law of the **Council of Five**, resolving disputes, enforcing rations, and ensuring the "Sanctity of Light" is maintained.
+*   **Civil Policing:** Within the settlements, they act as the law of the **Council of Seven**, resolving disputes, enforcing rations, and ensuring the "Sanctity of Light" is maintained.
 *   **Mobilization:** When a threat is detected, the [[Emberguard]] acts as the central coordinator. They determine if the threat can be handled by their rank-and-file or if specialized assistance from the **[[Slayers]]** or contracted **Venturers** is required.
 
 ### Institutional Traits

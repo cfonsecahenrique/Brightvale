@@ -117,7 +117,7 @@ A nineteen-year-old Ashen-Heir whose draconic sensitivity warned him of the Hord
 
 ## Legacy
 
-The monarchy survived, but the precedent that it could be challenged made the later formation of the [[Order in the Vale|Council of Five]] (**357 AA**) inevitable. The Reform Coalition's demands were not granted by Wendreda. They were enacted, slowly and imperfectly, over the following century.
+The monarchy survived, but the precedent that it could be challenged made the later formation of the [[Order in the Vale|Council of Seven]] (**357 AA**) inevitable. The Reform Coalition's demands were not granted by Wendreda. They were enacted, slowly and imperfectly, over the following century.
 
 The Beacon's flickering established a truth: it responds to the state of the civilization it protects. Discord weakens it. Unity strengthens it. And in the rebuilt walls of [[Emberfort]], painted in Ashline wards, the Enduring wrote one rule:
 

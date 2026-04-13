@@ -9,6 +9,7 @@ The current year is **400 AA**.
 | **0** | **The [[Apostasy]]** | The end of the golden age. The crimson veil chokes the world. |
 | **c. 5** | **The Sacrifice** | The Dawnfather's soul creates the **Beacon**. Survivors establish the first haven in [[Medsen]]. |
 | **25** | **The Eastern Hearth** | Founding of **[[Hvergi]]** in the eastern mountain-roots as Dwarven refugees consolidate mining operations. |
+| **c. 87** | **The Seared Oracles** | A radical sect of Beacon followers is condemned for uncovering a blazing truth. They are sealed alive beneath the Dawnfather Temple, where the divine aura slowly burns their souls away. Their exact discoveries are deliberately struck from official records. |
 | **164** | **The First Archive** | Facing the memory-loss effects of [[Umbra]]-exposure, **Arch-Mage [[First Steward Elowen the Wise]]** orders the formal recording of all history. |
 | **165** | **Founding: Scholars' Guild** | Initial organization dedicated to reclaiming lost Armisian knowledge. |
 | **168** | **Ascension: Cynred the Bitter** | **King Cenwald** (The Writer) passes away; his heir Cynred begins a long, isolationist reign over [[Medsen]]. |
@@ -31,7 +32,7 @@ The current year is **400 AA**.
 | **353** | **The Glass Tragedy** | Ekbert dies in the Wastes; succeeded by **Lorenzo** as Grand Explorer. |
 | **354-356** | **The Great Famine** | A three-year period of crop failure, usually attributed to Raedfryd's heavy-handed mismanagement of [[Medsen]]'s resources. |
 | **356** | **The Cinder Sacrifice** | Pressured by a starving population, **King Raedfryd** sacrifices himself into the Beacon's Great Pyre. Sunlight surge restores the crops. |
-| **357** | **Birth of the Council** | In the wake of Raedfryd's death, the **Council of Five** is formed to check [[The Monarchy|the monarchy]] and lead [[Medsen]]. |
+| **357** | **Birth of the Council** | In the wake of Raedfryd's death, the **Council of Seven** is formed to check [[The Monarchy|the monarchy]] and lead [[Medsen]]. |
 | **357** | **Ascension: King Edric I** | *(The Hollow Crown)* The first Sun-Born king to reign entirely under Council authority. The crown becomes ceremonial. |
 | **366** | **Crypt of King Zothu** | First discovery of a major pre-[[Apostasy]] crypt in the lowlands. |
 | **369** | **Tomb of Cinders** | Discovery of a massive buried necropolis, leading to increased [[Slayers]] activity. |

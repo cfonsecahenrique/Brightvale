@@ -1,7 +1,7 @@
 # The False Sun-Born Theory
 
 **Category:** Major Mystery / Political Rumor  
-**Associated Factions:** The Monarchy, The Council of Five, The Caretakers of the Beacon, The Emberguard  
+**Associated Factions:** The Monarchy, The Council of Seven, The Caretakers of the Beacon, The Emberguard  
 
 ## Overview
 The foundation of Brightvale’s monarchy rests entirely on the divine right of the **Sun-Born**—the supposedly direct bloodline descendants of the Dawnfather himself. Because the Dawnfather's soul powers the Beacon, his bloodline is said to have an intrinsic, divine affinity for manipulating the Beacon's light and its holy fire to protect the valley.
@@ -26,6 +26,6 @@ Several historical and arcane anomalies feed this heretical rumor:
 ## Implications & Story Hooks
 If proven true, this theory would trigger a total collapse of Brightvale's political and religious status quo.
 
-- **The Fall of the Sun-Born:** The **Council of Five**, the Guilds, and particularly ambitious Houses like [[House Ravenna]] would have the undeniable religious justification they need to strip the Monarchy of its remaining power.
+- **The Fall of the Sun-Born:** The **Council of Seven**, the Guilds, and particularly ambitious Houses like [[House Ravenna]] would have the undeniable religious justification they need to strip the Monarchy of its remaining power.
 - **The True Heir:** If the current line is a sham, does a true legitimate descendant of the Dawnfather still exist somewhere in the sprawling slums of [[Medsen]], or perhaps hiding among the ranks of the [[Explorers' Guild]]?
 - **The Brightblood War Connection:** Some claim that the reformist Noble Houses during the [[The Brightblood War]] had actually discovered this truth, and the war was an attempt to dethrone the pretender. The "Horde invasion" that conveniently ended the conflict might have been orchestrated by the Crown to force a truce and bury the secret forever.

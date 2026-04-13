@@ -20,4 +20,4 @@ Ashwood is in constant friction with resource-hungry factions who dismiss their 
 **Story Hooks:**
 - A perfectly circular patch of dead, "emptied" trees is generating strange resonance in protected woods, drawing Kaewdyn scouts.
 - A Thalum-backed lumber operation has legally secured rights next to an Ashwood enclave; Ashwood suspects the paperwork is a cover for a hostile land-grab.
-- A secretive hidden glade druid suddenly contacts Ashwood, demanding unprecedented political access to the Council of Five.
+- A secretive hidden glade druid suddenly contacts Ashwood, demanding unprecedented political access to the Council of Seven.

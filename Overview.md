@@ -18,7 +18,7 @@ The setting is centered on **Brightvale**, a protected plateau.
 
 ## Factions & Organizations
 The society is a tug-of-war between Noble Houses and Guilds.
-*   **The Council of Five**: Governing body of Brightvale.
+*   **The Council of Seven**: Governing body of Brightvale.
 *   **The Monarchy**: Symbolic rule of the **Sun-Born** kings, currently led in seclusion by **[[King Alfwyn]]** via his **High Steward**. (Detailed in [[Kings of Brightvale]])
 *   **Noble Houses**: Remnants of the Armisian Empire. They operate on a feudal system.
     *   **Old Houses**: Aerincorvus, Aurelian, Iyengar, Kaewdyn, Lugner, Von Zoltraak.

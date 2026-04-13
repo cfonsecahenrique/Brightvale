@@ -9,7 +9,7 @@
 The widely resented Drevorns achieved nobility not by blood or valor, but by outperforming the old elite in logistics during the initial Apostasy crisis. Evolving from mere merchants storing grain during the collapse, they now control Brightvale’s critical physical assets, trade routes, and a towering ledger of noble debt. They treat nobility as a business, viewing information and obligation as strict inventory.
 
 **Strife & Ambition:** 
-Despised by Old Houses for supposedly "buying" their status, Drevorn wields cold debt to neutralize social scorn. The ruthless current head, Corvin Drevorn, holds one intense ambition: securing a Drevorn appointment on the hallowed Council of Five within his lifetime by leveraging twenty years of accumulated favors. 
+Despised by Old Houses for supposedly "buying" their status, Drevorn wields cold debt to neutralize social scorn. The ruthless current head, Corvin Drevorn, holds one intense ambition: securing a Drevorn appointment on the hallowed Council of Seven within his lifetime by leveraging twenty years of accumulated favors. 
 
 **Key Relationships:**
 - **Old Houses:** Widespread contempt from established lineages (Von Zoltraak, Iyengar), which Drevorn manages via financial blackmail.
