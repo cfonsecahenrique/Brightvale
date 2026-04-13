@@ -3,5 +3,5 @@
 Crowned by a singular, imposing summit in the geographic heart of the Vale, this smaller mountain range acts as a natural conductor for the valley's ambient magical currents. It is the site of the **Aethertower**, a vertical masterpiece of cobalt stone that serves as the primary hub for advanced magical research and the industrial-scale production of **Lumen**. Directly below the Tower, carved into the sheer cliffs, sits the sprawling **Aetherweavers' Academy**. The surrounding peaks are frequently bathed in the shimmering violet and blue curtains of winter Auroras, which are believed to replenish the ley lines that converge at the tower's base.
 
 ## Connections
-*   **Northeast ([[Crossroads]]):** A path winding through the Arcane Peaks toward the center of the valley.
+*   **Northeast ([[Veikryss]]):** A path winding through the Arcane Peaks toward the center of the valley.
 *   **West ([[Aeldenbarrow]]):** A scenic route passing through the Whisperwood Valley.

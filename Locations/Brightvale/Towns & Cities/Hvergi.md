@@ -35,5 +35,6 @@ The tunnel's existence is generating tension with [[Medsen]]. Rumours have reach
 - [[Aetherweaver Academy]]
 
 ## Connections
-*   **Southwest ([[Crossroads]]):** The main Mountain Road leading down to the center of Brightvale.
+*   **Southwest ([[Veikryss]]):** The main Mountain Road leading down to the center of Brightvale.
 *   **Southwest ([[Medsen]]):** A direct path connecting the dwarven roots to the capital via the Frost-Veil Peaks.
+*   **South ([[Orska]]):** A steep climbing path descending towards the high-altitude village of Orska.

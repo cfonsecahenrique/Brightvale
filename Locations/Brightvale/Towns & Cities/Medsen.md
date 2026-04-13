@@ -15,6 +15,6 @@ The city is organized into distinct tiers, representing the social hierarchy of 
 [[Medsen]] is the seat of the **Council of Five**, where the ultimate authority of the Vale is weighed. Despite its symbolic importance to [[the Monarchy]], the city’s daily administration is a complex web of Guild influence and Noble house maneuvering.
 
 ## Connections
-*   **Southeast ([[Crossroads]]):** The wide Crown Highway heading to the central hub of the valley.
+*   **Southeast ([[Veikryss]]):** The wide Crown Highway heading to the central hub of the valley.
 *   **Northeast ([[Hvergi]]):** A treacherous but direct path through the Frost-Veil Peaks.
 *   **South ([[Aeldenbarrow]]):** A winding road leading through the Whisperwood Valley.

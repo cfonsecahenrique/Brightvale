@@ -4,29 +4,31 @@ This document serves as an adjacency list mapping the physical connections (road
 
 ## Adjacency List
 
-*   **[[Crossroads]]**
+*   **[[Veikryss]]**
     *   [[Medsen]] (Northwest)
     *   [[Hvergi]] (Northeast)
     *   [[Aurore]] (Southwest)
     *   [[Three Bridges]] (South)
 
 *   **[[Three Bridges]]**
-    *   [[Crossroads]] (North)
+    *   [[Veikryss]] (North)
     *   [[Halfling Hearthlands]] (West)
     *   [[Emberfort]] (Southeast via the Venturer's Trail)
     *   [[Aeldenbarrow]] (West / Forest traces via the Canopy Walk)
+    *   [[Orska]] (Northeast)
 
 *   **[[Medsen]]** 
-    *   [[Crossroads]] (Southeast via the Crown Highway)
+    *   [[Veikryss]] (Southeast via the Crown Highway)
     *   [[Hvergi]] (Northeast via the Frost-Veil Peaks path)
     *   [[Aeldenbarrow]] (South through the Whisperwood Valley)
 
 *   **[[Hvergi]]**
-    *   [[Crossroads]] (Southwest via the Mountain Road)
+    *   [[Veikryss]] (Southwest via the Mountain Road)
     *   [[Medsen]] (Southwest via the Frost-Veil Peaks path)
+    *   [[Orska]] (South)
 
 *   **[[Aurore]]**
-    *   [[Crossroads]] (Northeast via the Arcane Peaks path)
+    *   [[Veikryss]] (Northeast via the Arcane Peaks path)
     *   [[Aeldenbarrow]] (West via the Whisperwood Valley)
 
 *   **[[Emberfort]]**
@@ -40,3 +42,7 @@ This document serves as an adjacency list mapping the physical connections (road
     *   [[Three Bridges]] (East via concealed forest paths)
     *   [[Medsen]] (North through the Whisperwood Valley)
     *   [[Aurore]] (West via the Whisperwood Valley)
+
+*   **[[Orska]]**
+    *   [[Hvergi]] (North)
+    *   [[Three Bridges]] (Southwest)

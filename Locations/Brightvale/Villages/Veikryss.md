@@ -1,7 +1,7 @@
-# Crossroads
+# Veikryss
 
 ## Overview
-Crossroads is a vital merchant town situated precisely in the center of Brightvale. As its name implies, it acts as the primary hub where all major arteries of the valley meet, buzzing with merchants, traveling guildsmen, and Venturers on their way to or from the capital. 
+Veikryss is a vital merchant town situated precisely in the center of Brightvale. As its name implies, it acts as the primary hub where all major arteries of the valley meet, buzzing with merchants, traveling guildsmen, and Venturers on their way to or from the capital. 
 
 ## Connections
 *   **Northwest ([[Medsen]]):** The wide crown highway heading straight to the massive capital city of Medsen and the Beacon.

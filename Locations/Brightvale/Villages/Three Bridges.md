@@ -18,7 +18,8 @@ However, the sheer bloodshed and emotional resonance of the war attracted a mass
 The ensuing **Battle of Three Bridges** was an absolute massacre, but the unified defense held the line and saved the interior of Brightvale from the Umbra. The battle famously cost the life of the reigning monarch, **King Aldhelm**, who died defending the Ironspan alongside the very rebels who had sought to dethrone him. His royal sacrifice forced a bitter but enduring truce—dubbed the Golden Reprieve—that established the current, uneasy political balance between the Monarchy, the Council of Five, and the Noble Houses. Today, a charred stone monument to King Aldhelm and the unified fallen stands at the center of the village crossroads.
 
 ## Connections
-*   **North ([[Crossroads]]):** A heavy merchant road leading to Crossroads, a major town situated in the center of Brightvale.
+*   **North ([[Veikryss]]):** A heavy merchant road leading to Veikryss, a major town situated in the center of Brightvale.
 *   **West (Halfling Hearthlands):** The road west heads straight into the sacred valley via the Sacred Valley road.
 *   **West / Northwest ([[Aeldenbarrow]]):** Forest traces and concealed paths via the Canopy Walk.
 *   **Southeast ([[Emberfort]]):** The Venturer's Trail, a rocky mountain path ascending toward the fortress of Emberfort.
+*   **Northeast ([[Orska]]):** A trail ascending into the high-altitude mountain pastures of Orska.
