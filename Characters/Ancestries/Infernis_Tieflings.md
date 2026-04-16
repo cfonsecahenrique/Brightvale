@@ -14,12 +14,11 @@ Despite their "cursed" appearance, the [[Infernis_Tieflings|Infernis]] are often
 
 ### Naming Traditions and Faith
 
-The [[Infernis_Tieflings|Infernis]] are broadly divided by their relationship to the **Beacon's Light**.
+Tieflings are as much a race as people with red hair, they are simply a forced mutation on random people, with genetic traits passed down through generations.
+Thus, there are no "true" tiefling communities and naming conventions.
+Their names usually follow Human naming conventions.
+At most, those who devote their life to The Beacon may take on Latinate names to signify their devotion to the Light, such as:
+*Dante, Maximus, Beatrice, Gabriel, Vergil, Lucia, Augustus, Lucian, Cassius, Sylvia, Orpheus.*
 
-**Devout (Latin):** *Dante, Maximus, Beatrice, Gabriel, Vergil, Lucia, Augustus, Lucian, Cassius, Sylvia, Orpheus.*
-Followers who have fully embraced the [[Medsen]] priesthood, often taking Latinate names to signify their devotion to the Light.
-
-**Non-Devout (Eastern):** *Azi, Nayar, Thyazi, Thalia, Shadia, Kari, Neera, Kaza.*
-Those who retain the older "fantasy-eastern" names of their original clans or who live outside the strictures of the [[Medsen]] church.
 
 [[Infernis_Tieflings|Tiefling]] communities are rare, with most [[Infernis_Tieflings|Infernis]] evenly distributed among [[Humankind|Human]] settlements. 
