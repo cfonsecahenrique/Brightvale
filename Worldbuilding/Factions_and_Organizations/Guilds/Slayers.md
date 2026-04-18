@@ -24,6 +24,14 @@ The internal culture of the [[Slayers]] is a tapestry of various martial traditi
 While all [[Slayers]] are taught to fight with precision and lethal efficiency, those who follow the Orcish tradition believe that artistic expression (be it through the grace of their movements, the etchings on their gear, or the "Verse" itself) is the only barrier between being a protector and succumbing to **Hollowing**. This spiritual erosion — where the warrior's soul is replaced by the mindless violence they seek to destroy — is a constant threat to those who have undergone the Ingress of Ash. To the [[Orcenfolk]] among the [[Slayers]], a warrior who fights without soul is no better than the beasts in the Wastes.
 
 
+### Admission
+
+Joining the [[Slayers]] is not a matter of signing a ledger or passing a sparring test. Admission is earned in the field.
+
+A candidate must first **Venture into the Wastes at least once** and return with a **new piece of knowledge about the Umbra-touched** — something the Guild does not already know. This could be a detailed sketch of a previously undocumented creature, a description of how a specific monstrosity moves or opens its attacks, an observed weakness or exploitable pattern. Hearsay is not enough; the knowledge must be specific, firsthand, and actionable.
+
+Upon return, the candidate presents their findings directly to guild members at **[[Emberfort#The Pit|The Pit]]**. The assembled Slayers listen, question, and then vote on whether the candidate has demonstrated the quality of mind the Guild demands. Surviving the Wastes matters; knowing what you saw there matters more.
+
 ### Current Leader: First Slayer [[Makjar One-Eyed, First Slayer]]
 
 **First Slayer [[Makjar One-Eyed, First Slayer]], Slayer of Rotbloods**, is the current head of the guild. Having survived the Ingress of Ash decades ago, she is a living testament to the guild's brutal success. 

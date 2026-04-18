@@ -11,9 +11,3 @@
 Thumbs.db
 desktop.ini
 
-# Backups
-backups/
-backup-metadata.json
-
-# Database
-writality-data.db

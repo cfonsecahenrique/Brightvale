@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p Worldbuilding/Characters/Ancestries Worldbuilding/Characters/NPCs Players/Player_Characters)",
+      "Bash(mv Characters/Ancestries/* Worldbuilding/Characters/Ancestries/)",
+      "Bash(mv Characters/NPCs/* Worldbuilding/Characters/NPCs/)",
+      "Bash(mv Characters/Player_Characters/* Players/Player_Characters/)",
+      "Bash(rmdir Characters/Ancestries Characters/NPCs Characters/Player_Characters Characters)"
+    ]
+  }
+}

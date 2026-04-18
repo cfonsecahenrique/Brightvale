@@ -12,9 +12,19 @@ More than just a military outpost, [[Emberfort]] is the heart of the **Venturer*
 
 The fort's lower town is a chaotic collection of smithies, reagent markets, and taverns. The air is always thick with the smell of coal smoke and the ozone-tang of magical gear being repaired. It is a place of high stakes and short lives, where the wealth recovered from the Old World ruins flows freely before being sent up to the noble courts of [[Medsen]].
 
+### The Lower Town Markets
+
+The most active commercial district in Emberfort is the **Lower Town Markets** — a dense, loud stretch of stalls, storefronts, and makeshift workshops that caters almost exclusively to Venturers and the people who outfit them.
+
+*   **Ashwick's Provisions**: The go-to stop for any Venturer heading into the Wastes. Run by **Bruna Ashwick**, a no-nonsense [[Dwarvenkind|Dwarf]] with a reputation for stocking exactly what you need and not a single thing you don't. She keeps a tight inventory of adventuring gear, rope, torches, ration packs, field medkits, and basic alchemical supplies. Bruna has heard every sob story from every underfunded Venturer who's passed through, and she's not moved by any of them.
+*   **The Last Ember**: The most frequented inn in Emberfort, known for its battered furniture, surprisingly decent stew, and the kind of atmosphere where people don't ask too many questions. It draws a nightly crowd of Venturers, off-duty Emberguard, and the occasional wandering merchant. Rumours, contracts, and bad decisions are its most popular exports.
+
+### The Pit
+
+Further into the Lower Town stands **The Pit** — a sunken, open-air arena that serves as the permanent headquarters of the **[[Slayers]]' Guild** in Emberfort. It is where recruits are drilled, where guild business is conducted, and where candidates present themselves for admission.
+
 ### Key Features
 *   **The Gate of Souls**: The massive iron-bound doors that open onto the Venturer's Trail.
-*   **The Pit**: A sunken training arena used by [[Slayers]] and [[Emberguard]].
 *   **The Crow's Nest**: A high observatory maintained by the Explorers to monitor the weather and [[Umbra]]-flux in the lowlands.
 
 ## Connections
