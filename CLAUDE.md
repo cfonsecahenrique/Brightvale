@@ -12,7 +12,7 @@ This is an **Obsidian vault** — a worldbuilding and lore repository for **Brig
 
 - Open the root directory as an Obsidian vault to get wikilink navigation, graph view (`Ctrl+G`), and plugin support.
 - All internal links use Obsidian wikilink syntax: `[[Note Name]]`. When creating or renaming files, update these links — Obsidian can do this automatically (`alwaysUpdateLinks: true` is set in `.obsidian/app.json`).
-- Start reading at `Overview.md` for a world summary, or `README.md` for a quick orientation.
+- Start reading at `Worldbuilding/Overview.md` for a world summary, or `README.md` for a quick orientation.
 
 ## Content Architecture
 
@@ -39,14 +39,15 @@ The vault is split into four top-level sections:
 
 - **The Apostasy**: A cataclysm that spawned the Umbra (a sentient, parasitic shadow miasma), ending the Armisian Empire. The main mystery of the setting.
 - **The Beacon**: A divine artifact protecting Brightvale from the Umbra, powered by sacrificed souls. It is slowly dimming — the central tension.
-- **The Umbra**: Corrupts living things into Revenants and mutants. Prolonged exposure mutates survivors (see `Rules_and_Mechanics/Umbra_Augmentation_and_Humanity.md`).
+- **The Umbra**: Corrupts living things into Revenants and mutants. Prolonged exposure mutates survivors (see `Worldbuilding/Rules_and_Mechanics/Umbra_Augmentation_and_Humanity.md`).
 - **The Wastes**: Everything beyond Brightvale's walls. Venturers (player characters) are sent on expeditions here.
 - **The Council of Seven**: Practical rulers of the Vale. The King (currently Alfwyn) is a symbolic figurehead. The Guilds and Noble Houses compete for Council influence.
 
 ## Obsidian Plugins in Use
 
-- **Dataview** — Query and aggregate note metadata with code blocks.
-- **Excalidraw** — Embedded diagrams and visual notes.
-- **obsidian-5e-statblocks / statblock-sidekick** — D&D-style stat block rendering for Bestiary entries.
-- **daggerforge** — Daggerheart system tooling.
+- **daggerforge** — Daggerheart system tooling and stat block support.
+- **dataview** — Query and aggregate note metadata with code blocks.
 - **infranodus-graph-view** — Advanced graph visualization.
+- **obsidian-5e-statblocks** — D&D-style stat block rendering for Bestiary entries.
+- **obsidian-excalidraw-plugin** — Embedded diagrams and visual notes.
+- **statblock-sidekick** — Additional stat block support for Daggerheart.
