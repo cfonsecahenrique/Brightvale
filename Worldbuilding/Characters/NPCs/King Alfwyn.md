@@ -22,4 +22,4 @@ He occupies a symbolic seat on the **Council of Seven**, but never attends. His 
 - [[The Monarchy]]
 - [[Council of Seven]]
 - [[Medsen]]
-- [[Brightvale Beacon]]
+- [[The Beacon]]

@@ -118,3 +118,6 @@ Excerpt: The Thawed Silence
 Type
 
 ex
+
+---
+**Related:** [[Slayers]], [[Umbra]], [[Revenant]], [[The Beacon]]

@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -46,7 +46,7 @@
       "query": "path:History_and_Lore  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13395456
       }
     },
     {
@@ -69,6 +69,20 @@
         "a": 1,
         "rgb": 5702917
       }
+    },
+    {
+      "query": "path:\"Factions_and_Organizations/Noble Houses/Extinct\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6908265
+      }
+    },
+    {
+      "query": "path:Rules_and_Mechanics  ",
+      "color": {
+        "a": 1,
+        "rgb": 39321
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +95,6 @@
   "repelStrength": 12.2916666666667,
   "linkStrength": 0.833333333333333,
   "linkDistance": 130,
-  "scale": 1.0707993294878928,
+  "scale": 0.7637748871162776,
   "close": true
 }

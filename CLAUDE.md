@@ -43,6 +43,46 @@ The vault is split into four top-level sections:
 - **The Wastes**: Everything beyond Brightvale's walls. Venturers (player characters) are sent on expeditions here.
 - **The Council of Seven**: Practical rulers of the Vale. The King (currently Alfwyn) is a symbolic figurehead. The Guilds and Noble Houses compete for Council influence.
 
+## Linking Heuristics
+
+When adding wikilinks to notes, follow these rules to keep the graph readable and clustered rather than a flat spaghetti of cross-links.
+
+### Hub notes (gravity wells)
+These are the graph's structural centers. Every thematically related note should link to at least one of them:
+- `[[The Apostasy]]` — root cause of everything; link from any note touching the cataclysm, the Umbra, lost history, or the Armisian Empire.
+- `[[The Beacon]]` — central tension; link from Caretakers, Religions, King Alfwyn, mysteries involving the dimming.
+- `[[Umbra]]` — link from all Bestiary entries, Mysteries, and any note about corruption or the Wastes.
+- `[[The Council of Seven]]` — link from all Noble Houses, Guilds, major NPCs, and political notes.
+- `[[Medsen]]` — link from NPCs, Noble Houses (most are seated here), and political/religious institutions.
+
+### Rules per note type
+- **Noble Houses** — must link to `[[The Council of Seven]]` and their seat city. Key Relationships should be wikilinks, not just bold text.
+- **NPCs** — link to their faction/guild + their home city + 1–2 relevant lore articles.
+- **Bestiary entries** — link to `[[Umbra]]` and/or `[[Apostasy]]` as their origin; link to any guild that hunts or studies them.
+- **Locations** — link to factions present there + any relevant NPCs based there.
+- **Mysteries** — link to their root cause hub (`[[Apostasy]]` or `[[The Beacon]]`); link to the guild most likely to investigate.
+- **Short fiction** — add a `**Related:**` footer with links to factions, creatures, and concepts that appear.
+
+### General principles
+- **Specific → General, not the reverse.** `House Lugner` links to `The Council of Seven`; the Council note doesn't need to enumerate all 14 houses back.
+- **Cap at ~3–4 direct links per note.** Hub + 1–2 thematically close peers. More links turns every node into a hairball center.
+- **Convert Key Relationships to wikilinks.** Bold text like `**Aetherweaver Academy:**` in a house file should be `**[[Aetherweaver Academy]]:**` so the edge appears in the graph.
+- **Use the exact filename.** The Council file is `The Council of Seven.md` — use `[[The Council of Seven]]`, not `[[Council of Seven]]`.
+- **Stubs need at least 2 hub links** before they're useful graph nodes.
+
+### Graph color groups (graph.json)
+- Ancestries: cyan `#00FFE1`
+- NPCs: amber `#E0B152`
+- Noble Houses/Old: blue `#0062FF`
+- Noble Houses/Recent: light blue `#2BB3EE`
+- Noble Houses/Extinct: gray `#696969`
+- Guilds: yellow `#FFEA00`
+- Locations/Brightvale: green `#59FF00`
+- History_and_Lore: orange `#CC6600`
+- Mysteries_and_Themes: violet `#5252E0`
+- Bestiary: dark red `#570505`
+- Rules_and_Mechanics: teal `#009999`
+
 ## Obsidian Plugins in Use
 
 - **daggerforge** — Daggerheart system tooling and stat block support.

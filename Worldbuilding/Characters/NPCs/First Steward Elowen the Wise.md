@@ -4,3 +4,5 @@
 ## Related
 - [[Elves (Faefolk)]]
 - [[Lunarciel]]
+- [[The Council of Seven]]
+- [[Medsen]]
