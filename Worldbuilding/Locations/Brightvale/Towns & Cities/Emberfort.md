@@ -28,5 +28,5 @@ Further into the Lower Town stands **The Pit** — a sunken, open-air arena that
 *   **The Crow's Nest**: A high observatory maintained by the Explorers to monitor the weather and [[Umbra]]-flux in the lowlands.
 
 ## Connections
-*   **Northwest ([[Three Bridges]]):** The Venturer's Trail, descending from the fortress toward the first center of civilization.
-*   *The Wastes / Umbralands (South, external to valley)*
+*   **Northwest ([[Three Bridges]]):** The Venturer's Trail, ascending from the fortress, into the plateau, toward the first center of civilization.
+* Southeast ([[The Somber Gorge]]): First location outside of Brightvale's protection, trailling down into the Umbralands.

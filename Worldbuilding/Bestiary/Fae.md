@@ -4,6 +4,8 @@ The [[Fae]] are beings of the Otherworld — the Faewilds — whose fundamental 
 
 This immunity is not understood. The [[Aetherweaver Academy]] has no theoretical framework for it. The [[Caretakers of the Beacon|Caretakers]] consider it theologically inconvenient. [[House Aerincorvus]], which has spent three generations documenting Fae-contact anomalies, considers it the single most strategically significant fact in the Vale — and the one most consistently ignored.
 
+Besides, though immune, descriptions of Umbra-touched Fae, or Fae-touched Umbra (depending on the lens) have been documented in the past, suggesting, they have the power to assimilate the mutations of Umbra if desired.
+
 ---
 
 ## The Light Fae
@@ -23,7 +25,8 @@ A Dark Fae does not spread the [[Umbra]]. It plays with it. It shapes it. It use
 Reports of Dark Fae activity in the Wastes are rare and difficult to verify — but the few credible accounts describe events that do not match standard [[Umbra]]-corruption patterns: mutations that are too precise, horrors that are too theatrical, destruction that seems designed to be witnessed.
 
 ---
-
+![[Pasted image 20260420135106.png]]
+Image of an Umbra-Touched Faerie
 ## Related
 - [[The Faewilds]]
 - [[House Aerincorvus]]

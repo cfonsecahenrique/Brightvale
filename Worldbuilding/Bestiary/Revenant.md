@@ -14,3 +14,6 @@ A far more horrific variation exists, whispered about in the taverns of [[Emberf
 Unlike standard Revenants, an Arch-Revenant retains their mortal powers, their arcane or martial prowess, and a chillingly keen intellect. They are completely devoid of their original humanity and memories, operating entirely as generals for the Umbra. 
 
 Arch-Revenants act as nodes, commanding localized hordes of beasts, standard Revenants, and Rotlords with terrifying military precision. Recent reports from the [[Explorers' Guild]] indicate that these Arch-Revenants are actively coordinating and pushing their armies slowly, inevitably, closer to Emberdawn.
+
+Image of an Arch-Revenant: 
+![[Pasted image 20260420134740.png]]

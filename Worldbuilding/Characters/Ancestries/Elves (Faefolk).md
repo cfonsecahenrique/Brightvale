@@ -4,6 +4,7 @@
 
 **Naming Traditions (Celtic):** *Cillian, Ciara, Eira, Maeve, Aodhán, Faolan, Fíadh, Elowen, Enriel, Cirdan, Hwynfer, *Taliesin*.*
 
+![[Pasted image 20260420134820.png]]
 ## Elven Magic — The Formulaic Tradition
 
 Elven magic is built on **reason**. Where human mages historically reached for raw instinct or faith, Elven practitioners study the underlying logic of a phenomenon until the spell becomes an inevitable conclusion rather than an act of will. To make water boil, an Elven mage understands heat transfer. To move air, they understand pressure and void. The magic follows from the understanding.

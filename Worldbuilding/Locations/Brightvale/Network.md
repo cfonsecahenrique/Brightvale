@@ -2,6 +2,7 @@
 
 This document serves as an adjacency list mapping the physical connections (roads, trails, and paths) between the major locations within Brightvale to help visualize the valley's geography.
 
+![[Pasted image 20260420134406.png]]
 ## Adjacency List
 
 *   **[[Veikryss]]**
