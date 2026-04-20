@@ -1,6 +1,6 @@
 # The [[Explorers' Guild]]
 
-The **[[Explorers' Guild]]** is the most precarious and respected organization for those who call themselves **Venturers**. They are the trailblazers, scavengers, and cartographers of the end-times. While the [[Emberguard]] protects the present and the [[Slayers]] cull the threats of the future, the [[Explorers' Guild]] is obsessed with the past and the "Beyond."
+While many equate the term **Venturer** with the **[[Explorers' Guild]]**, it is actually a title claimed by members of all five major organizations who take to the Wastes. The Explorers' Guild, however, acts as the administrative and logistical hub for these expeditions. They are the trailblazers, scavengers, and cartographers of the end-times, obsessed with the past and the "Beyond." In the field, while the [[Emberguard]] focus on defense and the [[Slayers]] cull the elite threats, the Explorers' primary concern is the map and the prize.
 
 ### Role and Function
 

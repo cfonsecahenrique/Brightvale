@@ -1,6 +1,6 @@
 # [[Emberguard]]
 
-The **[[Emberguard]]** is the primary internal safety and policing organization of Brightvale. While the **[[Slayers]]** hunt the great abominations in the Wastes and **Venturers** explore the unknown ruins, the [[Emberguard]] is the shield that ensures the peace within the Beacon's light.
+The **[[Emberguard]]** is the primary internal safety and policing organization of Brightvale. While their comrades—whether fellow Guards, specialist [[Slayers]], or independent **Venturers** from the other guilds—brave the Wastes to cull abominations and explore ruins, the Emberguard themselves serve as the shield that ensures the peace within the Beacon's light. In the field, however, many Guards take up the mantle of Venturer as frontline support for expeditions.
 
 ### Base of Operations: The [[Emberfort]]
 

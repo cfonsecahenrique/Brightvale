@@ -66,7 +66,7 @@ Joining the Slayers is not a matter of signing a ledger or passing a sparring te
 ## The Explorers' Guild
 ### *Trailblazers of the End-Times*
 
-The Explorers' Guild is where the Venturers officially live. They set the task boards, maintain the checkpoint network in the Wastes, record the maps, and push the Council to be more aggressive about reclaiming what was lost. They are obsessed with the past — the ruins, the relics, and the buried knowledge of the Armisian Empire — and with the possibility that the world beyond the valley might, someday, be survivable again.
+The Explorers' Guild serves as the administrative backbone for all expeditions into the Wastes. While **Venturers** belong to many different guilds—Slayers, Caretakers, Aetherweavers, and even Emberguards—it is the Explorers' Guild that sets the task boards, maintains the checkpoint network, records the maps, and pushes the Council to be more aggressive about reclaiming what was lost. They are obsessed with the past — the ruins, the relics, and the buried knowledge of the Armisian Empire — and with the possibility that the world beyond the valley might, someday, be survivable again.
 
 ### What They Do
 - **Waste Mapping** — The geography of the Wastes shifts constantly under Umbra-flux and lingering spell-scars. Keeping accurate maps is a survival matter for every expedition that follows.

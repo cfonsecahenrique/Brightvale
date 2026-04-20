@@ -1,10 +1,10 @@
 # The Call of the Wilds
 
-The [[Venturers]] exist because [[Brightvale]] cannot survive in isolation. Given recent turns of events, to stay inside is to slowly starve; to go outside is to risk a fate worse than death. Expeditions are not executed by the Vanguard — [[Slayers]], [[Emberguard]], and [[Explorers' Guild|Explorers]] — alone, but are often accompanied by members of the [[Aetherweaver Academy|Aetherweave]] and/or [[Caretakers of the Beacon|Light Bearers]], bringing support from arcane and divine magic and drastically enhancing their survivability rates.
+The **Venturers** are the lifeblood of Brightvale's survival—a diverse community of specialists from all five major Guilds who brave the Wastes. Every Venturer belongs to their respective order: the [[Slayers]], [[Emberguard]], [[Explorers' Guild|Explorers]], [[Aetherweaver Academy|Aetherweavers]], or [[Caretakers of the Beacon|Light Bearers]]. While each Guild has its own internal objectives, and most high-stakes combat is handled by the Slayers, the label of "Venturer" applies to anyone who steps beyond the safety of the plateau.
 
 ## Task Boards
 
-The [[Explorers' Guild]], with the approval of the [[Order in the Vale|Council]], sets boards of tasks to be taken by groups of Venturers, who among themselves decide the composition of their adventuring parties. Large parties bring manpower but attract more attention and more complex survival logistics, so the [[Explorers' Guild]] sets the optimal number at **4–6 members** for the completion of announced tasks.
+The [[Explorers' Guild]], acting as the administrative coordinator for all Waste operations, sets the boards of tasks with the approval of the [[Order in the Vale|Council]]. These boards are open to all Venturers, who among themselves decide the composition of their adventuring parties. Optimal parties balance specialties from different Guilds. The [[Explorers' Guild]] recommends a group size of **4–6 members** for maximum effectiveness and manageable survival logistics.
 
 ## Expedition Structure
 

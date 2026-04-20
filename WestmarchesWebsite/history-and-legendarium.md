@@ -31,7 +31,7 @@
 
 **Hollowing** — The full subversion of a soul by the Umbra. Total erasure of self.
 
-**Flesh-Discord / The Warp** — The physical mutation caused by prolonged Umbra exposure. Ranges from skin-shedding to complete bodily transformation.
+**The Warping of Flesh** — The physical mutation caused by prolonged Umbra exposure. Ranges from skin-shedding to complete bodily transformation.
 
 **Ashgeld** — The standard currency. Coins pressed from Beacon ash; warm to the touch, faintly luminous in total darkness. Stable, backed by the most reliable institution in the Vale.
 
@@ -41,23 +41,19 @@
 
 **The Venturer's Trail** — The primary mountain pass descending from the plateau into the Wastes, guarded at its head by Emberfort.
 
-**Ashlines** — Beacon ash mixed into paint, applied to fortifications to generate passive Umbra wards.
+**Ashlines** — Beacon ash mixed into paint, applied to fortifications, armour and shields to generate passive Umbra wards.
 
 **Sun-Born** — The royal bloodline, claiming divine descent from the Dawnfather. The current king, Alfwyn, is Sun-Born — or claims to be.
 
 **The Brightblood War** — The civil war (293–297 AA) that nearly destroyed Brightvale from the inside. A wound the Vale has not finished healing.
 
-**Memory-Bargain** — A last-resort survival technique: sacrificing personal memories to the Umbra's resonance to avoid Hollowing. The memories do not return.
-
-**The Malignant Echo** — The low, constant vibration emitted by the Umbra and Umbra-touched creatures. Extended exposure without protection degrades the mind.
-
-**Embermark** — The silvery-gray ritual mark burned into Emberguard members by the Beacon's Cold-Flame. Provides minor resistance to the Malignant Echo.
+**Embermark** — The silvery-gray ritual mark burned into some Emberguard members by the Beacon's Flame. Some people are born with it.
 
 ---
 
 ## Part Two — A History of the Enduring
 
-*The official timeline as maintained by the scribes of Medsen. What is not recorded here is considered lost.*
+*The official timeline as maintained by the scribes of Medsen. What is not recorded here is considered lost. Depending on how knowledgeable your character is, you may be more or less familiar with the older details.*
 
 ---
 

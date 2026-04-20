@@ -1,6 +1,6 @@
 # [[Slayers]]
 
-The **[[Slayers]]** are the elite martial arm of Brightvale — a guild of survivors turned into superhuman monster-slaying machines. While the [[Emberguard]] protects the walls and the Aetherweavers study the celestial light, the [[Slayers]] are the only ones who truly know the Wastes. They are the specialists of "Remnant Hunting," trained through methods so arduous and dangerous that only a fraction of initiates survive to take the oath.
+The **[[Slayers]]** are the elite martial arm of Brightvale—a guild of survivors trained to become superhuman monster-slayng machines. While other **Venturers** from the [[Explorers' Guild]] map the terrain and the [[Caretakers]] preserve the Light, the Slayers are the specialists of "Remnant Hunting," focusing exclusively on the lethality of the Wastes. They are the frontline elite, trained through methods so arduous that only a fraction survive to take the oath.
 
 ### The Ingress of Ash
 
