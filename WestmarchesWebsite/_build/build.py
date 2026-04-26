@@ -474,9 +474,9 @@ CSS = r"""
   .section-head { text-align: center; margin-bottom: 3rem; }
   .section-head .lede { font-style: italic; color: var(--paper-2); font-size: 1.1rem; max-width: 38em; margin: 0 auto; }
   .grid { display: grid; gap: 1.5rem; }
-  .grid-2 { grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); }
-  .grid-3 { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
-  .grid-4 { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+  .grid-2 { grid-template-columns: repeat(auto-fit, minmax(min(380px, 100%), 1fr)); }
+  .grid-3 { grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); }
+  .grid-4 { grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
   .card {
     background: linear-gradient(180deg, var(--bg-2) 0%, var(--bg-3) 100%);
     border: 1px solid var(--hairline); border-radius: 4px;
@@ -511,7 +511,7 @@ CSS = r"""
   .ancestry .names { color: var(--paper-dim); font-size: .95rem; font-style: italic; }
   .ancestry .names span { color: var(--ember); font-style: normal; font-family: 'Cinzel', serif; letter-spacing: .1em; font-size: .82rem; text-transform: uppercase; }
   .communities {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(min(290px, 100%), 1fr));
     gap: .8rem; margin-top: 1.5rem;
   }
   .chip {
@@ -525,7 +525,7 @@ CSS = r"""
     text-transform: uppercase; margin-bottom: .3em;
   }
   .chip-desc { color: var(--paper-2); font-size: .98rem; line-height: 1.5; }
-  .standings { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.2rem; }
+  .standings { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 1.2rem; }
   .standing { position: relative; padding-top: 2.5rem; }
   .standing::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: var(--ember-dim); }
   .standing-recent::before { background: #2a72b3; }
@@ -631,7 +631,7 @@ CSS = r"""
   .creature:hover { transform: scale(1.02); border-color: var(--umbra); filter: saturate(1.05); }
   .map-section { text-align: center; }
   .place-gallery {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr));
     gap: 1.2rem; margin-top: 3.5rem;
   }
   .place-card { overflow: hidden; padding: 0; }
@@ -679,7 +679,7 @@ CSS = r"""
   }
   .resources { background: linear-gradient(180deg, var(--bg-2), var(--bg)); }
   .resource-list {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr));
     gap: 1rem; max-width: 880px; margin: 2rem auto 0;
   }
   .resource-list .card { padding: 1.2rem 1.4rem; }
@@ -715,7 +715,12 @@ CSS = r"""
     section { padding: 4rem 0; }
     .wrap { padding: 0 1.2rem; }
     h2 { font-size: 1.6rem; }
-    .quote-break, .umbra-section { background-attachment: scroll; }
+  }
+  /* Touch devices: kill background-attachment:fixed (causes repaint on every scroll frame)
+     !important is required to override the inline styles on step2, step3, quote-breaks. */
+  @media (hover: none) {
+    * { background-attachment: scroll !important; }
+    .modal-overlay, .lightbox-overlay { backdrop-filter: none; }
   }
   .reveal { opacity: 0; transform: translateY(20px); transition: opacity .8s ease, transform .8s ease; }
   .reveal.in { opacity: 1; transform: translateY(0); }
