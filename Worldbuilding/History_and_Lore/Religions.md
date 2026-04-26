@@ -8,7 +8,7 @@ Faith in Brightvale is not a single doctrine. It is a spectrum of belief centred
 
 ### The Orthodoxy — *"The Light is Divine and Must Not Be Touched"*
 
-The dominant position, held by the [[Caretakers of the Beacon]] and a significant portion of the common population. The Beacon is the literal residue of the Dawnfather's divine sacrifice — sacred fire, holy beyond mortal comprehension. Its flickering is not a mechanical failure; it is a **sign of displeasure**, a divine response to the sins or failings of the Enduring. To study it, to tamper with it, to treat it as a mechanism rather than a miracle, is blasphemy.
+The dominant position, held by the [[Caretakers of the Beacon]] and a significant portion of the common population. The Beacon is the literal residue of the Dawnfather's divine sacrifice — sacred fire, holy beyond mortal comprehension. Its flickering is not a mechanical failure; it is a **sign of displeasure**, a divine response to the sins or failings of the Enduring. To study it, to tamper with it, to treat it as a mechanism rather than a miracle, is blasphemy. 
 
 The faithful weathered famines with prayer. They will weather the flickering the same way.
 

@@ -8,9 +8,9 @@
 
 ## Before the Apostasy
 
-Before the founding of Brightvale, the Dwarves were sidelined communities who had settled along the Armisian Empire's coastline. They arrived from across unknown seas — no one, including the Dwarves themselves, can say precisely where — bringing with them seafaring expertise, deep mining knowledge, and a robust trade culture that the Empire found useful but never fully trusted.
+The Dwarves arrived on the Armisian coastline **less than a century before the [[Apostasy]]** — recent enough that the first generation to settle had made the crossing themselves. They came from across a sea whose name they carried in their own tongue, bringing seafaring expertise, deep mining knowledge, and a robust trade culture that the Empire found useful but never fully trusted.
 
-They also brought a strong tradition of militarization. Dwarven communities conducted **Vikingr-like raids** on coastal settlements before diplomatic relations were established, and the memory of those raids persisted in Armisian records long after the raiding stopped. Eventually, non-belligerent relations formed between the two cultures — trade agreements, shared mining operations, cautious cooperation — but a baseline of mutual distrust remained. The Empire considered the Dwarves useful outsiders. The Dwarves considered the Empire arrogant landlords. Neither was entirely wrong.
+They also brought a strong tradition of militarization. Dwarven communities conducted **Vikingr-like raids** on coastal settlements before diplomatic relations were established, and the memory of those raids persisted in Armisian records long after the raiding stopped. Given how little time elapsed before the Apostasy struck, the rapprochement between the two cultures was still unfinished: trade agreements had been struck, shared mining operations had begun, but the baseline of mutual distrust had never had time to fully dissolve. The Empire considered the Dwarves useful outsiders. The Dwarves considered the Empire arrogant landlords who had barely acknowledged them before the world ended. Neither was entirely wrong.
 
 ## During the Apostasy
 
