@@ -32,7 +32,7 @@ import base64, pathlib, re
 HERE = pathlib.Path(__file__).parent
 IMG_DIR = HERE / "images"
 WEBSITE_DIR = HERE.parent          # WestmarchesWebsite/ — where the .md files live
-OUT = HERE.parent / "Welcome_to_Brightvale.html"
+OUT = HERE.parent.parent / "index.html"
 
 def b64(name):
     with open(IMG_DIR / f"{name}.jpg", "rb") as f:
