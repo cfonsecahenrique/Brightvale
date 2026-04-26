@@ -24,7 +24,7 @@ See **Ancestries & Cultures** for the full details on each.
 
 ### Community
 
-Your community is where and how you grew up — the environment that shaped you before you became a Venturer. In Daggerheart terms, this is your **Community card** (Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Skyborne, Underborne, Wanderborne, Wildborne).
+Your community is where and how you grew up — the environment that shaped you before you became a Venturer. In Daggerheart terms, this is your **Community card** (Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Slyborne, Underborne, Wanderborne, Wildborne).
 
 When choosing your community, think about where in Brightvale your character was raised:
 
@@ -33,7 +33,7 @@ When choosing your community, think about where in Brightvale your character was
 - An **Orderborne** character probably grew up within the structure of the Emberguard, the Caretakers, or another institutional framework.
 - A **Ridgeborne** character hails from the mountain edges — Hvergi, the mining camps, or the remote plateau settlements.
 - A **Seaborne** character carries the cultural memory of the Dwarven Great Sea or the lost Armisian coastlines — a heritage of water in a world that has none.
-- A **Skyborne** character may have grown up in Aurore's elevated tiers, or among communities that still watch the sky for signs of the Beacon's health.
+- A **Slyborne** character may have grown up in a group that operates outside of the law, including all manner of criminals, grifters and con artists. Members of slyborne communities are brought together by their disparate goals and their clever means of achieving them. Many people in these communities have an array of unscrupulous skills: forging, thievery, smuggling, and violence. People of any social class can be slyborne, from those who have garnered vast wealth and influence to those without a coin to their name. To the outside eye, slyborne might appear to be ruffians with no loyalty, but these communities possess some of the strictest codes of honor which, when broken, can result in a terrifying end for the transgressor.
 - An **Underborne** character knows Medsen's lower districts, its tunnels, its underside — or the places people don't talk about.
 - A **Wanderborne** character moved between settlements — Orcish relay riders, traveling merchants, displaced families who never quite settled.
 - A **Wildborne** character grew up outside the walls: Aeldenbarrow's druidic enclaves, the Hearthlands' outer edges, or somewhere the Beacon's light barely reaches.
@@ -124,6 +124,7 @@ Once you have your Heritage, your social standing, your guild, and your class, y
 - **What does your guild mean to you?** A family? A paycheck? A cause? An obligation you're trying to escape?
 - **What do you carry from your heritage?** A name? A grudge? A tradition? A gap where a memory used to be?
 - **What are you afraid of in the Wastes?** Everyone is afraid of something. The ones who say otherwise haven't been out long enough.
+- What is Brightvale to you? A prison? A haven? Home?
 
 You can find some inspiration in the Rumours and Hooks document.
 The Wastes will test every answer you give here.

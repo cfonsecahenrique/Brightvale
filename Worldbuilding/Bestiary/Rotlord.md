@@ -12,3 +12,7 @@ Rotlords appear as towering, lumbering cathedrals of rotting flesh, brittle blac
 A Rotlord does not hunt in the traditional sense; it simply *assimilates*. It acts as a mobile amplifier for the Umbra, broadcasting the shadow's song into the surrounding environment and causing spontaneous mutation and Flesh-Discord in any living thing that gets too close. 
 
 Fighting a Rotlord is an undertaking usually reserved for entire companies of [[Slayers]] supported by heavy artillery or [[Aetherweaver Academy|Aetherweaver]] strikes. Proximity to the beast means dealing with suffocating spores, grasping tentacle-roots, and the sheer crushing weight of a monster that feels no pain.
+
+
+Has numerous tentacles instead of legs. Wields a massive nasty hook that uses to pull victims in closer, to then bite with its horrific face-sized mouth.
+![[Pasted image 20260420134545.png]]

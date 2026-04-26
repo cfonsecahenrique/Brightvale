@@ -111,7 +111,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 Your character’s **heritage** combines two elements: **[ancestry](https://daggerheartsrd.com/ancestries/)** and **[community](https://daggerheartsrd.com/communities/)**.
 
 - A character's **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features**. Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
-- Your character’s **community** represents their culture or environment of origin and grants them a **community feature**. Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Skyborne, Underborne, Wanderborne, Wildborne.
+- Your character’s **community** represents their culture or environment of origin and grants them a **community feature**. Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Slyborne, Underborne, Wanderborne, Wildborne.
 
 ## STEP 3
 

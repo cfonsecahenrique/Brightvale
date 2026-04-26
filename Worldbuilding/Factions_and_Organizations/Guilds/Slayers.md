@@ -2,6 +2,7 @@
 
 The **[[Slayers]]** are the elite martial arm of Brightvale—a guild of survivors trained to become superhuman monster-slayng machines. While other **Venturers** from the [[Explorers' Guild]] map the terrain and the [[Caretakers]] preserve the Light, the Slayers are the specialists of "Remnant Hunting," focusing exclusively on the lethality of the Wastes. They are the frontline elite, trained through methods so arduous that only a fraction survive to take the oath.
 
+![[Pasted image 20260425125951.png]]
 ### The Ingress of Ash
 
 The training of a Slayer is as much a transformation as it is an education. It begins with the **Trial of the Shadow-Kissed**, where initiates are exposed to controlled, concentrated doses of [[Umbra]]-resonance and alchemical mutagens derived from the Beacon’s light. This process, known as "The Ingress of Ash," radically accelerates their physical capabilities, granting them superhuman reflexes, enhanced sensory perception, and a minor immunity to the [[Umbra]]'s corrupting influence. Those who survive are no longer entirely [[Humankind|human]]; they are finely tuned instruments of destruction, capable of tracking a Rotlord by the scent of its rot or parrying a blow that would shatter stone.

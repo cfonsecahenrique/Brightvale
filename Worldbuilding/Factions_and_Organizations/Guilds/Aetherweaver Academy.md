@@ -6,6 +6,7 @@ Directly below the Academy’s foundations clings the **Town of [[Aurore]]**, a 
 
 Above the Academy, crowning the very summit of the peak and often piercing the cloud layer, stands **The Tower**. Built in the same majestic, soaring style, it serves as the secluded sanctuary for the Arch-Aetherweavers and is topped by a grand, multi-lensed observatory of ancient glass and brass. From this height, the masters study celestial movements and the vibrant winter Auroras—shimmering curtains of violet light believed to be direct manifestaciones of the **Weave** itself. Their observations are critical, as they interpret these celestial shifts to predict fluctuations in the [[Umbra]]’s strength and the overall health of the valley’s spiritual defenses.
 
+![[Pasted image 20260425130040.png]]
 ### Two Patrons, One Institution
 
 The Academy is the battleground for the Vale's most significant arcane ideological conflict. Two noble houses fund it from opposing positions, and the tension shapes every research decision made within its halls.

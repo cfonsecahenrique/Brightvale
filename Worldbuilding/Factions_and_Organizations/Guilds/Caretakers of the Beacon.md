@@ -3,4 +3,6 @@ Commonly referred to as The Caretakers, the Order of the Eternal Hearth is the m
 
 Leader: High Caretaker Kaelen ([[Infernis_Tieflings|Infernis]]). Severe and radiant. Kaelen and the high-ranking priests are often partially blind from staring into the Beacon's heart. They believe the city survives only through divine sacrifice and often clash with the Scholars over the "mechanical" nature of the Beacon.
 
+![[Pasted image 20260420135252.png]]
+
 **Related:** [[The Beacon]], [[Medsen]], [[Apostasy]], [[The Council of Seven]]

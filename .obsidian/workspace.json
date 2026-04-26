@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87bc016531c2b67b",
+        "id": "cef6170c6fe25ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "2f71cabe15e21662",
+            "id": "d336fb2fac5d6502",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WestmarchesWebsite/introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "introduction"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -171,8 +167,17 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon",
-              "title": "History_and_Lore/Timeline.md"
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
+            }
+          },
+          {
+            "id": "11ead233eb3cf4c2",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
             }
           }
         ],
@@ -198,53 +203,53 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2f71cabe15e21662",
+  "active": "d336fb2fac5d6502",
   "lastOpenFiles": [
-    "README.md",
-    "CLAUDE.md",
-    "Worldbuilding/History_and_Lore/Scholastic Schism.md",
-    "Worldbuilding/Worldbuilding session notes.md",
-    "Worldbuilding/Factions_and_Organizations/The Council of Seven.md",
-    "Factions_and_Organizations/The Council of Seven.md",
-    "Worldbuilding/Overview.md",
+    "WestmarchesWebsite/_build/images/other_villages.jpg",
+    "WestmarchesWebsite/_build/images/hearthlands.jpg",
+    "WestmarchesWebsite/_build/images/hvergi.jpg",
+    "Worldbuilding/History_and_Lore/Umbra.md",
+    "Worldbuilding/Locations/The Wastes/Ideas of Places in the Wastes.md",
+    "Worldbuilding/Bestiary/Griffin.md",
+    "Worldbuilding/Locations/The Wastes/image.png",
+    "WestmarchesWebsite/_build/images/emberfort.jpg",
+    "images/vale.png",
+    "images/monster 7.png",
+    "images/monster 8.png",
+    "images/monster 6.png",
+    "images/monster 5.png",
+    "images/monster 4.png",
+    "Pasted image 20260420134504.png.md",
     "WestmarchesWebsite/character-creation.md",
-    "Factions_and_Organizations",
-    "images/Pasted image 20260420135106.png",
-    "Worldbuilding/Locations/Brightvale/Towns & Cities/Aurore.md",
-    "images/Pasted image 20260420135448.png",
-    "Worldbuilding/Locations/Brightvale/Towns & Cities/Aeldenbarrow.md",
-    "images/Pasted image 20260420135409.png",
-    "Worldbuilding/History_and_Lore/Apostasy.md",
-    "images/Pasted image 20260420135252.png",
-    "Worldbuilding/Bestiary/Fae.md",
-    "Worldbuilding/Characters/Ancestries/Elves (Faefolk).md",
-    "images/Pasted image 20260420134820.png",
-    "images/Pasted image 20260420134801.png",
-    "images/Pasted image 20260420134740.png",
-    "images/Pasted image 20260420134704.png",
-    "images/Pasted image 20260420134545.png",
-    "images/Pasted image 20260420134516.png",
-    "Worldbuilding/Bestiary/Manticore.md",
-    "Worldbuilding/Bestiary/Dragons.md",
-    "Worldbuilding/Bestiary/Revenant.md",
-    "Worldbuilding/Bestiary/Krumpus.md",
+    "WestmarchesWebsite/_build/images/test.txt",
+    "WestmarchesWebsite/_build/images/-strip",
+    "Worldbuilding/Rules_and_Mechanics/Daggerheart SRD.md",
+    "WestmarchesWebsite/_build/build.py",
+    "WestmarchesWebsite/_build/images",
+    "WestmarchesWebsite/_build",
+    "Worldbuilding/Factions_and_Organizations/Guilds/Aetherweaver Academy.md",
+    "Worldbuilding/Factions_and_Organizations/Guilds/Slayers.md",
+    "Worldbuilding/Factions_and_Organizations/Guilds/Explorers' Guild.md",
+    "Worldbuilding/Factions_and_Organizations/Guilds/Caretakers of the Beacon.md",
+    "Worldbuilding/Factions_and_Organizations/Guilds/Emberguard.md",
+    "Worldbuilding/Bestiary/Various unnamed Umbra-touched monsters.md",
+    "Worldbuilding/Locations/Brightvale/Towns & Cities/Medsen.md",
+    "Worldbuilding/Locations/The Wastes/Ruins of the Imperial City of Armis-Caen.md",
+    "Worldbuilding/History_and_Lore/Untitled.md",
+    "Worldbuilding/Bestiary/Umbra-Touched Fiends.md",
+    "Worldbuilding/Bestiary/Rotlord.md",
     "Worldbuilding/Bestiary/Thousand-Legs.md",
+    "Worldbuilding/Bestiary/Stilt Stabbers.md",
     "Worldbuilding/Bestiary/Shatter-Wing Angel.md",
     "Worldbuilding/Bestiary/Rotblood.md",
-    "Worldbuilding/Bestiary/Stilt Stabbers.md",
-    "Worldbuilding/Locations/Brightvale/Network.md",
-    "Worldbuilding/Locations/The Somber Gorge.md",
-    "Worldbuilding/Locations/Brightvale/Towns & Cities/Medsen.md",
-    "Worldbuilding/Locations/Brightvale/Towns & Cities/Emberfort.md",
+    "Worldbuilding/Bestiary/Krumpus.md",
+    "Worldbuilding/Bestiary/Revenant.md",
+    "Worldbuilding/Bestiary/Fae.md",
+    "Worldbuilding/Bestiary/Dragons.md",
+    "WestmarchesWebsite/Welcome_to_Brightvale.html",
+    "Worldbuilding/Locations/The Wastes",
+    "Factions_and_Organizations",
     "CLAUDE.md.tmp.12216.1776554276244",
-    "Short_Stories/Aurrag's Expedition Report.md.tmp.12216.1776554215203",
-    "Worldbuilding/History_and_Lore/The Blinded Ones.md.tmp.12216.1776554213375",
-    "Worldbuilding/History_and_Lore/Scholastic Schism.md.tmp.12216.1776554180834",
-    "Worldbuilding/Mysteries_and_Themes/Minor/Tournaments.md.tmp.12216.1776554177461",
-    "Worldbuilding/Mysteries_and_Themes/Minor/The Lost Legion.md.tmp.12216.1776554174886",
-    "Worldbuilding/Mysteries_and_Themes/Major/The Undercity.md.tmp.12216.1776554171515",
-    "Worldbuilding/Items/Lunarciel.md.tmp.12216.1776554166250",
-    "Worldbuilding/Locations/Brightvale/Towns & Cities/Aurore.md.tmp.12216.1776554165086",
-    "Worldbuilding/Bestiary/Rotlord.md"
+    "Short_Stories/Aurrag's Expedition Report.md.tmp.12216.1776554215203"
   ]
 }

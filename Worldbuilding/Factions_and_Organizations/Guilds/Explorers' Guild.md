@@ -1,7 +1,7 @@
 # The [[Explorers' Guild]]
 
 While many equate the term **Venturer** with the **[[Explorers' Guild]]**, it is actually a title claimed by members of all five major organizations who take to the Wastes. The Explorers' Guild, however, acts as the administrative and logistical hub for these expeditions. They are the trailblazers, scavengers, and cartographers of the end-times, obsessed with the past and the "Beyond." In the field, while the [[Emberguard]] focus on defense and the [[Slayers]] cull the elite threats, the Explorers' primary concern is the map and the prize.
-
+![[Pasted image 20260425121656.png]]
 ### Role and Function
 
 *   **Waste-Mapping:** The geography of the Wastes below is notoriously unstable, shifted by [[Umbra]]-flux and lingering spell-scars. The Explorers are tasked with mapping these "shifting sands" to ensure any descent from the plateau has a chance of returning.

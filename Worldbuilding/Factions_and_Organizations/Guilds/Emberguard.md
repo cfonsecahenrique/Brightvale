@@ -2,6 +2,7 @@
 
 The **[[Emberguard]]** is the primary internal safety and policing organization of Brightvale. While their comrades—whether fellow Guards, specialist [[Slayers]], or independent **Venturers** from the other guilds—brave the Wastes to cull abominations and explore ruins, the Emberguard themselves serve as the shield that ensures the peace within the Beacon's light. In the field, however, many Guards take up the mantle of Venturer as frontline support for expeditions.
 
+![[Pasted image 20260425121423.png]]
 ### Base of Operations: The [[Emberfort]]
 
 The guild is headquartered in the **[[Emberfort]]**, the massive bastion that guards the southern entrance to the Vale at the end of the **Venturer’s Trail**. From this vantage point, they monitor the mountain passes for both incoming refugees and descending monsters. While their main force is concentrated at the fort, they maintain "Glow-Stations" (small outposts) along the valley’s major routes and within [[Medsen]] itself.
