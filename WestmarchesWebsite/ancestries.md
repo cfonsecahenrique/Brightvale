@@ -53,15 +53,43 @@ Cillian, Ciara, Eira, Maeve, Aodhán, Faolan, Fíadh, Elowen, Enriel, Cirdan, Hw
 ## Dwarvenkind
 ### *The Rune-Keepers*
 
-Dwarven culture in Brightvale remembers a **Great Sea**. Inscriptions in Hvergi record a maritime history that the plateau makes permanently impossible — a heritage of longships, coastal raids, and open water that the mountains have ended. The Dwarves do not treat this as tragedy. They treat the Vale as a shore to hold until the tides of shadow recede, and they hold it with the same stubborn competence they brought to every shore before this one.
+Dwarven culture in Brightvale is built around a single conviction: this is not home. The Dwarves arrived on the Armisian coastline **less than a century before the Apostasy** — recent enough that the first generation to settle had made the crossing themselves. They knew where they had come from. They had names for the headlands. They remembered the smell of the water.
 
-Before the Apostasy, Dwarves were sidelined communities along the Armisian Empire's coast — useful, mistrusted, considered outsiders who happened to know how to mine. They joined the Dawnfather's march north, contributed their expertise in mountain terrain and sustained labour under miserable conditions, and helped carve the path through the Teardrop Mountains into the plateau. Once settled, the old distrust resurfaced. The Dwarves pulled toward isolationism, establishing **Hvergi** in the eastern peaks on their own terms, cooperating where survival required it and no more.
+Then the Apostasy fell, the world ended, and the march north severed them from every coast entirely. Brightvale is landlocked. The Great Sea they remember is not myth. It is a place. It simply cannot be reached from here.
 
-The Dwarves of Hvergi mine the deep crystal seams beneath the mountains — crystals used by Aetherweavers to focus the Beacon's light, some carrying latent magical energy of their own. This gives the Dwarves a quiet but significant hold on Brightvale's arcane supply chain. They are aware of this. They manage it carefully. Their formal rivalry with House Thalum over quarrying rights and mining philosophy has been running for generations and shows no sign of resolution.
+The Dwarves hold the Vale as a shore to defend until the Umbra recedes enough for the passage to become possible again — and they hold it with the same stubborn, sustained competence they brought to every shore before it.
+
+### Hvergi
+
+The Dwarven enclave of **Hvergi** is carved into the eastern mountain-roots of Brightvale — mine, fortress, and cultural heartland in equal measure, founded in the first decades after the Apostasy. The Dwarves mine the deep crystal seams beneath the mountains: crystals used by Aetherweavers to focus the Beacon's light, some carrying latent magical energy of their own. This gives Hvergi a quiet but significant hold on Brightvale's arcane supply chain. They are aware of this. They manage it carefully.
+
+Three ruling families govern Hvergi and have done so since its founding:
+
+**Clan Brumdain** are the eldest family and the deepest miners — scholars of the mountain's grain, keepers of the oldest rune-stones. Their authority is geological as much as political.
+
+**Clan Hjalrim** are Hvergi's warriors and gatekeepers, and the finest weaponsmiths in all of Brightvale. They decide who enters the enclave and, by extension, who matters.
+
+**Clan Sigr** manage Hvergi's trade relationships with the outside world — the family most fluent in Medsen's political language, and the most controversial within the enclave for it.
+
+### The Hjalrim Blade
+
+A Hjalrim blade is not a weapon. It is an inheritance.
+
+Clan Hjalrim works **Hvergi crystal shards** directly into the steel during the smelt, producing blades that carry the crystal's natural resonance. In the darkness of the Wastes, a Hjalrim blade glows faintly — a pale blue-white light that unsettles Umbra-touched creatures. When the blade is further treated with **ashgeld**, the glow becomes something more: the blade burns in the dark, and Umbra-touched flesh does not tolerate it. Venturers who carry one describe the experience as fighting with a torch that also cuts.
+
+There are perhaps one hundred such blades in existence across all of Brightvale. Each has a name. Clan Hjalrim does not sell them — they are gifted, rarely, to those the Clan considers worthy, and each one is tracked. If you meet a Dwarf who wants to know how a particular blade ended up in a particular hand, that is why.
+
+### Heimsfar
+
+Every Dwarf in Hvergi knows the word *Heimsfar* — the Homeward Voyage. The prophecy holds that one day the Dwarven people will reach open water, build great ships, and sail back to the homeland from which the Apostasy cut them off. The earliest carvings of it were specific — coastal landmarks, sea-routes, distances. Four centuries of re-carving from slightly worn originals have reduced those specifics to symbol and impression: *ships on dark water*, *fire on the horizon*, *a shore that is not this shore*.
+
+Whether the prophecy is a literal sailing plan that has been slowly corrupted into poetry, or always was poetry, is a question Dwarves argue about and never resolve. What is not argued: Brightvale is a shore to be held, not a home to be kept. The sea is still out there. The Dwarves will reach it.
+
+A Dwarven character who cares about *Heimsfar* is not naive or backward-looking. They are carrying the longest patience in Brightvale — the conviction that survival now is in service of something larger, and that the work matters even if the destination is still beyond the horizon.
 
 ### Naming Traditions
 *Norse in sound:*
-Storvald, Hjalrim, Merlos, Brumdain, Dain, Thormor, Tyr, Uthin, Brigitte, Dyanna, Freyr, Eivor.
+Storvald, Hjalrim, Merlos, Brumdain, Dain, Thormor, Tyr, Gyrid, Brigitte, Dyanna, Freyr, Eivor, Sigr.
 
 ---
 

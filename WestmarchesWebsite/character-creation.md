@@ -15,7 +15,7 @@ Your ancestry is your biological lineage — the people you were born from. Brig
 
 - **Humankind** — Heirs of the Armisian Empire. Short-lived, ambitious, obsessed with lineage.
 - **Elves (Faefolk)** — Children of the Severed Threshold. Long-lived, precise, still mourning the Faewilds.
-- **Dwarvenkind** — The Rune-Keepers. Stubborn, skilled, remembering a Great Sea they can no longer reach.
+- **Dwarvenkind** — The Rune-Keepers. Stubborn, skilled, carrying the prophecy of *Heimsfar* — the Homeward Voyage to a sea they were separated from less than a century before the world ended.
 - **Halflings** — Guardians of Joy. Agrarian, communal, tending the Hearthlands and the stories that keep them fertile.
 - **Orcenfolk** — The Nomadic Senshi. Martial artists and horse-stewards, carriers of the Verse of the Blade.
 - **Infernis (Tieflings)** — The Shard-Kin. Children of desperate Apostasy-era pacts, marked in blood and skin.
@@ -32,7 +32,7 @@ When choosing your community, think about where in Brightvale your character was
 - A **Loreborne** character may have been raised at Aurore's Peak among Academy scholars, or in a family of archivists and chroniclers.
 - An **Orderborne** character probably grew up within the structure of the Emberguard, the Caretakers, or another institutional framework.
 - A **Ridgeborne** character hails from the mountain edges — Hvergi, the mining camps, or the remote plateau settlements.
-- A **Seaborne** character carries the cultural memory of the Dwarven Great Sea or the lost Armisian coastlines — a heritage of water in a world that has none.
+- A **Seaborne** character carries the cultural memory of the Dwarven Great Sea or the lost Armisian coastlines — a heritage of water in a world that has none. For a Dwarven Seaborne character, this is not mythology: their ancestors made the crossing within living memory of the Apostasy, and *Heimsfar* — the prophecy of return — is both cultural inheritance and unfinished business.
 - A **Slyborne** character may have grown up in a group that operates outside of the law, including all manner of criminals, grifters and con artists. Members of slyborne communities are brought together by their disparate goals and their clever means of achieving them. Many people in these communities have an array of unscrupulous skills: forging, thievery, smuggling, and violence. People of any social class can be slyborne, from those who have garnered vast wealth and influence to those without a coin to their name. To the outside eye, slyborne might appear to be ruffians with no loyalty, but these communities possess some of the strictest codes of honor which, when broken, can result in a terrifying end for the transgressor.
 - An **Underborne** character knows Medsen's lower districts, its tunnels, its underside — or the places people don't talk about.
 - A **Wanderborne** character moved between settlements — Orcish relay riders, traveling merchants, displaced families who never quite settled.
