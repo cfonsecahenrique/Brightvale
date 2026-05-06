@@ -6,7 +6,7 @@
 **Heraldry:** A crow perched on a branch of silver ivy on a field of deep forest black and iridescent green.
 
 **Overview:** 
-The Vale's only noble house of established Elven-Human heritage, Aerincorvus balances urban politics and druidic connections. Believing the [[The Faewilds|Faewilds]] were sealed rather than destroyed during the [[Apostasy]], they quietly operate the **Concordance**—a massive archive documenting Fae-contact anomalies to find patterns and potentially re-open the boundary.
+The Vale's only noble house of established Elven-Human heritage, Aerincorvus balances urban politics and druidic connections. Believing the [[The Faewilds|Faewilds]] were sealed rather than destroyed during the [[Apostasy]], they maintain and extend **[[The Concordance]]** — a vast corpora of folk magic, druidic primeval lore, and Fae-contact documentation housed in [[Aeldenbarrow]]. It is the greatest repository of knowledge about the [[Fae]] in existence, and its deeper scholarly sect, the **Concordance Archivists**, are pursuing a specific and politically dangerous theory: that Primeval Natural Aether — present at specific sites throughout the Vale — is indistinguishable from Fae essence, and that working with it could ward against the [[Umbra]] without the Beacon's intervention.
 
 **Strife & Ambition:** 
 Their careful documentation of Fae phenomena is largely dismissed as folklore by the rest of the Vale. Their ambition is to compile irrefutable evidence of Faewilds contact to force the [[The Council of Seven|Council]] and Academy to treat it as a legitimate research priority, potentially seeking [[Fae]] allies untouched by the Umbra.

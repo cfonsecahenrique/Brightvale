@@ -119,7 +119,8 @@ def md_to_html(text):
             if not in_ol:
                 out.append('<ol>')
                 in_ol = True
-            out.append(f'<li>{_inline(re.sub(r"^\d+\. ", "", line))}</li>')
+            ol_text = re.sub(r'^\d+\. ', '', line)
+            out.append(f'<li>{_inline(ol_text)}</li>')
         else:
             out.append(f'<p>{_inline(line)}</p>')
 
@@ -190,8 +191,8 @@ STANDINGS = [
 
 OLD_HOUSES = [
     ("Aerincorvus", "Between two worlds, we are the door.",
-     "Crow on silver ivy. Half-Elven lineage, deep ties to druidic communities and Fae researchers. Their Concordance archive documents Fae-contact anomalies. Most of the Vale calls it folklore. Aerincorvus calls that a data point.",
-     "Elven heritage · druidic connections · Faewilds research"),
+     "Crow on silver ivy. Half-Elven lineage, deep ties to druidic communities and Fae researchers. Their defining project is the <strong>Concordance</strong> — a living archive of folk magic, Fae-contact records, and druidic practice, housed in Aeldenbarrow. It is the largest such repository in the known world. The Aetherweaver Academy classifies it as folklore. The Council regards it with polite indifference. Aerincorvus regards those opinions as data points, and keeps documenting. Their inner sect, the Concordance Archivists, believe that certain ancient sites in the Vale carry a Fae-like immunity to the Umbra — and that the Beacon's recent dimming is connected. They have not yet told anyone outside Aeldenbarrow what they have found.",
+     "Elven heritage · druidic connections · Faewilds research · long-game scholars"),
     ("Aurelian", "We remember the sky.",
      "Golden eagle above a half-submerged sun. Former agricultural nobility. Manage the Vale's seed vaults and experimental greenhouses, cultivating crops to thrive under Beacon-light. Reliable conservative votes. Genuinely optimistic — occasionally easy to exploit.",
      "Religious conviction · agrarian background · grief for the lost world"),
@@ -207,6 +208,18 @@ OLD_HOUSES = [
     ("Von Zoltraak", "The old lamp lit the road to the cliff. We build a new one.",
      "Flame in an open hand. Unsentimental about Armisian lineage. Old Magic failed; the Apostasy proves it. Funds Progressive Aetherweaving. Their strategist Drago was sacrificed to the Beacon by Queen Wendreda after the Brightblood War — a portrait hangs in the Crucible, facing the door.",
      "Progressive mages · engineers · practical survival over reverence"),
+]
+
+DWARVEN_CLANS = [
+    ("Stiórmund", "The seam runs where the seam runs. Follow it.",
+     "The eldest family and the deepest miners. Their patriarch Elder Storvald is driving a secret northeastern tunnel he believes is the first step of Heimsfar — and not one member of his clan knows how that certainty came to him. What has silenced any doubt is wealth: the tunnel keeps breaking into ore veins whose mining rights all remain with Stiórmund. They are the richest they have been in living memory, and Storvald has not yet been wrong.",
+     "Strong family values · the long game · geological expertise · characters who follow a leader on faith and results"),
+    ("Hjalrim", "The gate holds, or nothing does.",
+     "Warriors, gatekeepers, and the finest weaponsmiths in Brightvale. Their crystal-shard blades — roughly one hundred in existence, each named and tracked — have become so sought after that the clan recently began selling them for the first time. The master smiths say the work cannot be scaled. Elder Gyrid disagrees. The argument is unresolved. When a blade goes missing from their records, Hjalrim sends dedicated hunter-investigators to retrieve it — wherever that takes them.",
+     "Warriors · weaponsmiths · proud craftspeople · blade hunters · internal conflict between tradition and ambition"),
+    ("Sigr", "The crystal is worth what someone will pay for it. Know who is paying.",
+     "The most outward-facing clan — and the most ambitious. The Sigrs have learned to store Aether in crystal matrix, turning raw stone into rechargeable magical batteries. They are now in active collaboration with House Von Zoltraak, House Thalum's engineers, and the Aetherweaver Academy to build what comes next. Where Stiórmund follows the rock and Hjalrim perfects the blade, Sigr is asking what the crystal can actually become.",
+     "Aether-gadgetry · artificer-adjacent characters · practical magic · collaboration across factions · the future of arcane engineering"),
 ]
 
 RECENT_HOUSES = [
@@ -280,7 +293,7 @@ PLACES = [
     ("hvergi",        "Hvergi",
      "Dwarven stronghold in the eastern peaks. Three ruling clans govern it: Brumdain reads the deep rock, Hjalrim forges the finest blades in Brightvale — crystal-shard steel that glows in the Umbra and burns what it touches — and Sigr manages the crystal trade that feeds the Academy's Lumen-craft. All three carry Heimsfar: the prophecy that one day they will reach open water and sail home."),
     ("ruin",          "Aeldenbarrows",
-     "The Elven cultural heart, half-concealed by glamours. Neither entirely in this world nor the Faewilds it once bordered. The Concordance archive is here — so are most of the unanswered questions about the Apostasy."),
+     "The Elven cultural heart, half-concealed by glamours. Neither entirely in this world nor the Faewilds it once bordered. The Concordance is here — the largest archive of folk magic, druidic practice, and Fae-contact documentation in the known world, curated by House Aerincorvus. The Academy calls it folklore. The Council calls it a curiosity. So far, neither has explained what the Concordance Archivists have been finding in the field since the Beacon began to dim."),
     ("emberfort",     "Emberfort",
      "The Vale's southern gate and military stronghold. Every expedition into the Wastes begins and ends here. Home to the Emberguard, the Slayers, and the Explorers' Guild — the last wall between the Enduring and the dark."),
     ("hearthlands",   "The Hearthlands",
@@ -348,6 +361,15 @@ def house_card(name, motto, body, hooks):
   <p class="hook"><span>Good for:</span> {hooks}</p>
 </article>'''
 
+
+def clan_card(name, motto, body, hooks):
+    return f'''<article class="card house">
+  <h4>Clan {name}</h4>
+  <p class="motto">&ldquo;{motto}&rdquo;</p>
+  <p>{body}</p>
+  <p class="hook"><span>Good for:</span> {hooks}</p>
+</article>'''
+
 def guild_card(key, name, subtitle, body, leader, image_key=None):
     img_block = f'<div class="guild-img" style="background-image:url({IMG[image_key]})"></div>' if image_key else ''
     return f'''<article class="card guild" data-key="{key}">
@@ -389,6 +411,7 @@ communities_html = "\n".join(community_chip(*c) for c in COMMUNITIES)
 standings_html = "\n".join(standing_card(*s) for s in STANDINGS)
 old_houses_html = "\n".join(house_card(*h) for h in OLD_HOUSES)
 recent_houses_html = "\n".join(house_card(*h) for h in RECENT_HOUSES)
+dwarven_clans_html = "\n".join(clan_card(*c) for c in DWARVEN_CLANS)
 guild_imgs = {"caretakers":"caretakers","emberguard":"emberguard","slayers":"slayers","explorers":"explorers","aetherweavers":"aetherweavers"}
 guilds_html = "\n".join(guild_card(*g, image_key=guild_imgs.get(g[0])) for g in GUILDS)
 class_rows = "\n".join(class_row(*c) for c in CLASSES)
@@ -1057,6 +1080,7 @@ parts.append(f'''<section id="step2" class="reveal" style="background-image: lin
   </div>
   <div class="standings">{standings_html}</div>
   <div style="margin-top: 4rem;">
+    <p style="text-align:center; color:var(--paper-dim); font-size:.9rem; margin-bottom:2rem; font-style:italic;">The Noble Houses below are Human, Elven, Tiefling, and Orcenfolk lineages. Dwarven families govern through their own clan structure — see below.</p>
     <details>
       <summary style="cursor:pointer; text-align:center; color:var(--ember); font-family:'Cinzel',serif; letter-spacing:.2em; font-size:.88rem; text-transform:uppercase; padding:1rem; border:1px solid var(--hairline-strong); display:block;">+ The Six Old Houses</summary>
       <div class="grid grid-3" style="margin-top: 1.5rem;">{old_houses_html}</div>
@@ -1064,6 +1088,11 @@ parts.append(f'''<section id="step2" class="reveal" style="background-image: lin
     <details style="margin-top: 1rem;">
       <summary style="cursor:pointer; text-align:center; color:var(--ember); font-family:'Cinzel',serif; letter-spacing:.2em; font-size:.88rem; text-transform:uppercase; padding:1rem; border:1px solid var(--hairline-strong); display:block;">+ The Five Recent Houses</summary>
       <div class="grid grid-3" style="margin-top: 1.5rem;">{recent_houses_html}</div>
+    </details>
+    <details style="margin-top: 1rem;">
+      <summary style="cursor:pointer; text-align:center; color:var(--ember); font-family:'Cinzel',serif; letter-spacing:.2em; font-size:.88rem; text-transform:uppercase; padding:1rem; border:1px solid var(--hairline-strong); display:block;">+ The Three Dwarven Clans</summary>
+      <p style="text-align:center; color:var(--paper-dim); font-size:.88rem; font-style:italic; margin: 1rem 0 1.5rem;">Hvergi is not governed by Noble Houses. It is governed by three founding families who have held the mountain since the first decades after the Apostasy.</p>
+      <div class="grid grid-3" style="margin-top: 0;">{dwarven_clans_html}</div>
     </details>
   </div>
 </div></section>''')

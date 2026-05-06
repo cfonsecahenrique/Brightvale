@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Sigr.md",
+                "file": "Worldbuilding/Bestiary/Daggerheart_Statblocks/Umbra-Touched Angel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clan Sigr"
+              "title": "Umbra-Touched Angel"
             }
           }
         ]
@@ -181,6 +181,16 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
+            }
+          },
+          {
+            "id": "bfae7d2519d1485c",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
               "icon": "infranodus-icon"
             }
           }
@@ -209,51 +219,52 @@
   },
   "active": "57b9561e4623cabb",
   "lastOpenFiles": [
+    "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Stiórmund.md.tmp.45140.1778107051454",
+    "Worldbuilding/Bestiary/Daggerheart_Statblocks/Umbra-Horde.md",
+    "Worldbuilding/Bestiary/Various unnamed Umbra-touched monsters.md",
+    "Worldbuilding/Bestiary/Daggerheart_Statblocks/Umbra-Touched Angel.md",
+    "Worldbuilding/Bestiary/Daggerheart_Statblocks",
+    "Worldbuilding/Bestiary/Stilt Stabbers.md",
+    "Worldbuilding/Bestiary/Shatter-Wing Angel.md",
+    "Worldbuilding/Bestiary/Revenant.md",
+    "Worldbuilding/Bestiary/Krumpus.md",
+    "Worldbuilding/Bestiary/Griffin.md",
+    "Worldbuilding/Bestiary/Fae.md",
+    "images/monster 8.png",
+    "images/monster 7.png",
+    "images/monster 6.png",
+    "images/monster 5.png",
+    "images/monster 4.png",
+    "images/monster 3.png",
+    "images/monster 2.png",
+    "images/monster 1.png",
+    "images/medsen 2.png",
+    "images/Hvergi.jpg",
+    "images/Pasted image 20260420134504.png.md",
+    "images/Pasted image 20260425121423.png.md",
+    "Worldbuilding/Bestiary/Dragons.md",
+    "Worldbuilding/Bestiary/Rotblood.md",
+    "Worldbuilding/Rules_and_Mechanics/Daggerheart SRD.md",
+    "Worldbuilding/Rules_and_Mechanics/Making Adversaries.md",
+    "Worldbuilding/Factions_and_Organizations/Guilds/Slayers.md",
+    "Worldbuilding/Rules_and_Mechanics/Umbra-Touched Monsters.md",
+    "Worldbuilding/Rules_and_Mechanics/Magic_Systems.md",
+    "Worldbuilding/Rules_and_Mechanics/Umbra_Augmentation_and_Humanity.md",
+    "Untitled.canvas",
     "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Hjalrim.md",
+    "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Sigr.md",
     "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Brumdain.md",
     "Worldbuilding/History_and_Lore/Heimsfar.md",
     "Worldbuilding/History_and_Lore/Religions.md",
-    "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Sigr.md",
     "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families",
     "Worldbuilding/History_and_Lore/Economy.md",
-    "Players/Player_Characters/Ithmelo.md",
-    "Short_Stories/Aurrag's Expedition Report.md",
-    "WestmarchesWebsite/the-umbra.md",
-    "WestmarchesWebsite/rumours.md",
-    "WestmarchesWebsite/order-of-brightvale.md",
-    "WestmarchesWebsite/noble-houses.md",
-    "WestmarchesWebsite/introduction.md",
-    "WestmarchesWebsite/history-and-legendarium.md",
-    "WestmarchesWebsite/guilds.md",
-    "WestmarchesWebsite/character-creation.md",
-    "WestmarchesWebsite/ancestries.md",
-    "Worldbuilding/History_and_Lore/Timeline.md",
-    "Worldbuilding/Factions_and_Organizations/Kings of Brightvale.md",
-    "Pasted image 20260425121423.png.md",
     "index.html",
-    "WestmarchesWebsite/_build/images/other_villages.jpg",
-    "WestmarchesWebsite/_build/images/hearthlands.jpg",
-    "WestmarchesWebsite/_build/images/hvergi.jpg",
-    "Worldbuilding/History_and_Lore/Umbra.md",
-    "Worldbuilding/Locations/The Wastes/Ideas of Places in the Wastes.md",
-    "Worldbuilding/Bestiary/Griffin.md",
-    "Worldbuilding/Locations/The Wastes/image.png",
-    "WestmarchesWebsite/_build/images/emberfort.jpg",
-    "images/vale.png",
-    "images/monster 7.png",
-    "images/monster 8.png",
-    "images/monster 6.png",
-    "images/monster 5.png",
-    "Pasted image 20260420134504.png.md",
     "WestmarchesWebsite/_build/images/test.txt",
     "WestmarchesWebsite/_build/images/-strip",
-    "Worldbuilding/Rules_and_Mechanics/Daggerheart SRD.md",
     "WestmarchesWebsite/_build/build.py",
     "WestmarchesWebsite/_build/images",
     "WestmarchesWebsite/_build",
-    "Worldbuilding/Factions_and_Organizations/Guilds/Aetherweaver Academy.md",
     "WestmarchesWebsite/Welcome_to_Brightvale.html",
-    "Worldbuilding/Locations/The Wastes",
-    "Factions_and_Organizations"
+    "Worldbuilding/Locations/The Wastes"
   ]
 }

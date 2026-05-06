@@ -20,6 +20,25 @@ The Vale's only noble house of established Elven-Human lineage, Aerincorvus bala
 
 Most of the Vale considers this folklore. Aerincorvus considers the Vale's opinion a data point.
 
+#### The Concordance
+
+The Concordance is not a book. It is a *corpora* — a living accumulation of manuscripts, illuminated field-journals, carved tablets, woven mnemonic tapestries, annotated song-cycles, and transcribed oral traditions, all gathered under one roof and treated as a unified body of scholarship. Its physical home is Aeldenbarrow, where House Aerincorvus has maintained and extended it for three generations. It is the largest systematically organized repository of folk magic, druidic practice, and Fae-contact documentation in the known world.
+
+The **Aetherweaver Academy** classifies it as folklore. The **Council of Seven** regards it with polite indifference. House Aerincorvus has spent decades compiling what it considers irrefutable evidence that the Concordance's findings deserve to be treated as a legitimate research priority. So far, the rest of the Vale has declined to be irrefuted.
+
+The Concordance is organized by phenomenon, not by theory. It documents *what folk magic and druidic practice do*, under what conditions, and with what consequences — without claiming to explain why. Its four major bodies of scholarship:
+
+- **Primeval Attunement** — the oldest and largest section. Records how natural forces respond when a practitioner is present with the right quality of attention: wind, stone, root, seasonal light, the personalities of old hills, the memories of ancient trees. These passages resist being stated as rules. They read like precise, observation-rich poetry about how a particular grove behaves in spring — and what someone who has been there long enough can do with that knowledge.
+- **Pact-Lore** — the terms, histories, and known consequences of agreements between communities and non-human entities. The Fae section is the most extensive and most carefully guarded. Some agreements recorded there remain, in the archivists' understanding, potentially binding — meaning an elder who has memorized the relevant passages holds not just historical knowledge, but an active relationship.
+- **Herbalism and Grounds-Working** — the Concordance's most accessible and most pirated section. The Academy's reagent markets in Aurore trade heavily on knowledge that ultimately derives from Concordance-documented groundswork. The Academy rarely acknowledges the source.
+- **Fae Documentation** — the Concordance's central purpose and most contested body of scholarship. Hundreds of independent accounts, from dozens of communities across centuries, establishing three conclusions the archivists treat as settled: the Fae predate the Apostasy and carry information about the world as it was; the Fae are completely immune to the Umbra — documented empirically, not theologically; and some Fae willingly work *through* the Umbra, treating its corruption as a tool, without themselves becoming corrupted.
+
+Within Aerincorvus's scholarly community, a deeper sect has developed around a specific interpretation of the Fae records. They call themselves **Concordance Archivists** — a title that sounds redundant to outsiders, since all of them are archivists. Within the community it marks a theoretical commitment: that Fae magic and a force they call *Primeval Aether* — present at specific ancient sites throughout the Vale, groves and megaliths and springs that have never run dry — are not merely similar but indistinguishable.
+
+The theory follows from the Fae's documented immunity. If the Fae cannot be touched by the Umbra, and if certain locations in the material world carry that same fundamental nature, then those locations, properly worked, might *not register* as something the Umbra can affect. Not the Beacon's way, which pushes back with light and sacrifice. The Fae's way: simply not being something the shadow can touch.
+
+The theory has not been proven. The Academy has not engaged with it on its merits. What the Archivists have not told anyone outside Aeldenbarrow is that several of their field sites have shown what they consider meaningful results in the months since the Beacon began visibly dimming. They are not yet certain what the connection means. They are quite certain the timing is not coincidental.
+
 *Good for characters with Elven heritage, druidic connections, or interest in the Faewilds.*
 
 ---

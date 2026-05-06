@@ -30,7 +30,7 @@ The [[Apostasy]] and the march north with the Dawnfather severed the Dwarves fro
 
 *Heimsfar* moves differently through the three ruling families of [[Hvergi]].
 
-**[[Clan Brumdain]]** carries it as literal mission. Elder Storvald Brumdain's secret northeastern tunnel is understood within the family as the first practical step of the prophecy — the edge of the Wastes found, the direction confirmed, the voyage made possible. Storvald does not quote the degraded rune-texts. He acts as though the direction is clear, even where the words are not.
+**[[Clan Stiórmund]]** carries it as literal mission. Elder Storvald Stiórmund's secret northeastern tunnel is understood within the family as the first practical step of the prophecy — the edge of the Wastes found, the direction confirmed, the voyage made possible. Storvald does not quote the degraded rune-texts. He acts as though the direction is clear, even where the words are not.
 
 **[[Clan Hjalrim]]** carries it as martial obligation. The voyage requires a people capable of surviving long enough to reach the water. Every blade forged and every gate held is, to the Hjalrims, a verse of *Heimsfar* kept alive in practice rather than recited from stone.
 
@@ -42,6 +42,6 @@ The [[Apostasy]] and the march north with the Dawnfather severed the Dwarves fro
 - [[Dwarvenkind]]
 - [[Hvergi]]
 - [[Apostasy]]
-- [[Clan Brumdain]]
+- [[Clan Stiórmund]]
 - [[Clan Hjalrim]]
 - [[Clan Sigr]]

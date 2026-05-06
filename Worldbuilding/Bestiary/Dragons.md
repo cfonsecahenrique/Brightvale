@@ -7,3 +7,9 @@ However, when the [[Apostasy]] struck, the [[dragons]] became the Empire’s gre
 Today, the sky over the Wastes is a graveyard of these fallen titans. While the formal **Dragon-Rider Houses** are considered extinct, their biological and magical legacy persists. Through centuries of strategic marriages and political unions, their bloodline has been integrated into several of the surviving **High Houses** of [[Medsen]]. Some noble heirs still boast of "Draconic Resonance" in their blood—a trait that, while mostly decorative in the safety of the Vale, is rumored to offer a strange, dangerous sensitivity to the presence of unhatched eggs or [[Umbra]]-touched [[dragons]].
 
 Hope remains in the form of **Dragon Eggs**. Scattered across the ruins of the Old World, these eggs remain unhatched, their shells acting as a natural, albeit fragile, ward against the resonance. The **Aetherweavers' Academy** pays handsomely for any recovered eggs. They seek to understand the specific "arcane inversion" that led to the [[dragons]]' downfall, dreaming of a day when they can hatch a new generation—tamed once more—to serve as the silver-winged vanguard that will finally clear the skies of the Red Veil.
+
+## Hollowed Dragons
+
+Some dragons, corrupted by the Umbra, remain active in the Wastes. They have mutated over the centuries, their magical blood synergising with the Umbra, creating the skeletal and horrifying Umbra-touched Dragon, also known as Hollow Dragon.
+
+![[hollowed dragon.jpg]]

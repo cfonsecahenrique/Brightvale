@@ -40,3 +40,18 @@ Upon return, the candidate presents their findings directly to guild members at 
 Makjar is an **[[Orcenfolk|Orc]]**, and her superhuman physical prowess is legendary. She lost her eye not through failure, but through a calculated sacrifice during a three-day pursuit of a Rotblood. She is the foremost master of the "Verse of the Blade," and her training sessions are notorious for their intensity. She believes that the best way to keep a warrior from Hollowing out is to ensure their soul remains as sharp as their edge.
 
 *"The Scholars talk of the [[Umbra]] as a darkness to be feared,"* Makjar often says. *"We know it as a beast to be bled. You can't understand the Void until you've tasted its ichor on your blade."*
+
+
+## Rankings
+
+| 1   | First Slayer |
+| --- | ------------ |
+| 2   | Hunt Master  |
+| 3   |              |
+| 4   |              |
+| 5   |              |
+| 6   |              |
+| 7   |              |
+| 8   |              |
+| 9   |              |
+| 10  | Slayer       |

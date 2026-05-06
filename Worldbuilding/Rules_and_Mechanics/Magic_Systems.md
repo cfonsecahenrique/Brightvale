@@ -52,6 +52,8 @@ The three traditions are not mutually exclusive. Most modern Aetherweavers begin
 
 The question of which tradition will prove most useful against a dimming [[The Beacon|Beacon]] and an advancing [[Umbra]] is one of the open arguments at the [[Aetherweaver Academy]], and increasingly, one with political stakes attached.
 
+A fourth body of practice exists entirely outside this taxonomy: the folk magic and druidic primeval lore compiled in **[[The Concordance]]**, maintained by [[Halflings]] and Druidic orders. The Academy does not formally recognize it as a tradition. It is not concerned with directing magical force — only with observing how the world behaves. The Concordance is older than all three Academic traditions and has survived the Apostasy largely intact, hidden in plain sight inside ordinary life.
+
 ---
 
 ## Related

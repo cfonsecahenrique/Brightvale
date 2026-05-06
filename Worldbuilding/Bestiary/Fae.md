@@ -25,8 +25,8 @@ A Dark Fae does not spread the [[Umbra]]. It plays with it. It shapes it. It use
 Reports of Dark Fae activity in the Wastes are rare and difficult to verify — but the few credible accounts describe events that do not match standard [[Umbra]]-corruption patterns: mutations that are too precise, horrors that are too theatrical, destruction that seems designed to be witnessed.
 
 ---
-![[Pasted image 20260420135106.png]]
-Image of an Umbra-Touched Faerie
+## Umbra-Touched Arch-Fey Spirit:
+![[monster_8.jpg]]
 ## Related
 - [[The Faewilds]]
 - [[House Aerincorvus]]

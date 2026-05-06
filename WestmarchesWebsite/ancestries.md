@@ -65,11 +65,11 @@ The Dwarven enclave of **Hvergi** is carved into the eastern mountain-roots of B
 
 Three ruling families govern Hvergi and have done so since its founding:
 
-**Clan Brumdain** are the eldest family and the deepest miners — scholars of the mountain's grain, keepers of the oldest rune-stones. Their authority is geological as much as political.
+**Clan Stiórmund** are the eldest family and the deepest miners — scholars of the mountain's grain, keepers of the oldest rune-stones. Their patriarch, Elder Storvald, believes he knows the route to accomplish Heimsfar, and his clan has rallied behind him entirely. No one knows how this certainty came to him. No one has asked where he would rather not answer. What has silenced any doubt is wealth: the northeastern tunnel the clan is quietly driving has broken into ore vein after ore vein, all of whose mining rights remain with Stiórmund. They are the richest they have been in living memory, and Storvald has not yet been wrong.
 
-**Clan Hjalrim** are Hvergi's warriors and gatekeepers, and the finest weaponsmiths in all of Brightvale. They decide who enters the enclave and, by extension, who matters.
+**Clan Hjalrim** are Hvergi's warriors, gatekeepers, and the finest weaponsmiths in all of Brightvale. Their crystal-shard steel blades — perhaps one hundred in existence across the Vale, each named, each tracked — have recently become so sought after that the clan has begun selling them for the first time in their history. Elder Gyrid has opened the market; the master smiths have told her the work cannot be scaled, that the process is too manual, too meticulous to be rushed or multiplied. The argument is unresolved and getting louder. When a blade goes missing — from a fallen expedition, from a holder who cannot be located — Hjalrim sends hunters. Not Venturers. Dedicated Hjalrim hunter-investigators, who go wherever they must to bring the blade back.
 
-**Clan Sigr** manage Hvergi's trade relationships with the outside world — the family most fluent in Medsen's political language, and the most controversial within the enclave for it.
+**Clan Sigr** began as Hvergi's traders, and they remain that — but they have become something more specific. Where Stiórmund sees the crystal as ore to be followed and Hjalrim sees it as a material to be forged, the Sigr have spent years quietly learning to store Aether in crystal matrix: to load raw magical energy into a prepared lattice and draw on it later. The crystal, in their hands, is a battery. They are now in active collaboration with House Von Zoltraak, House Thalum's engineering corps, and researchers at the Aetherweaver Academy to explore what that means for portable Aether devices. Clan Sigr is where Hvergi meets the future — and where characters interested in Aether-gadgetry, artifice, and the practical machinery of magic will find the most fertile ground.
 
 ### The Hjalrim Blade
 
