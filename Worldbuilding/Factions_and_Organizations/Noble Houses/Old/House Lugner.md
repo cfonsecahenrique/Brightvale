@@ -5,6 +5,8 @@
 **Seat:** The Pale Sanctum ([[Medsen]])
 **Heraldry:** A lidded eye over a burning candle on a field of white and ash-grey.
 
+"You want money, you get money. But we'll do this our way"
+
 **Overview:** 
 Pre-dating the [[Apostasy]], House Lugner was a lineage of magisters and readers of the weave. Upon the Apostasy's fall, their ancestral "Pale Aunt" forged a forbidden pact with the Void-Binder to seek pre-Apostasy archaic power, staining the bloodline with the "Azure Stain," resulting in many [[Infernis_Tieflings|Infernis]] Tieflings among them. Today, they are Brightvale's strictest intellectual force, fiercely investing in the recovery of "Old Magic," believing the loss of Armisian Deep-Weaves, not their misuse, caused the Cataclysm. 
 
