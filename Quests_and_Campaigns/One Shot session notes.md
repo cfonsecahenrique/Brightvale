@@ -1,0 +1,9 @@
+## Player characters:
+### Zorael Lugner
+Cousin of Varis Lugner. Tiefling sorceress. Rocky relationship with Varis, the House Heir. She excelled in the Aetherweaver academy as one of the Instinctuals -- old magic wielders that visualize magic into existence. Became a venturer for her innate and expert destructive weaving abilities, and became known as a Horde razer: her spells rained wide destruction on multiple targets, often clearing a path through hordes. She is impatient, and often seen as cold.
+### Theodor Stjormund
+Dwarven Guardian. Second son of Storvald Stjormund, was chosen by Hvergi to be sent for this prestigious expedition. On one hand, because he was expendable, being a second son. On the other hand, because of his vast experience with the Umbra and the Wastes, being a renowned warrior. Was presented with a Hjalrim Crystal Gauntlet, made with Sigr crystal, as a gesture of goodwill from the other two dwarven clans. Brash, always happy to fight and throw hands.
+### Yuriko Ruinweaver
+Yuriko is an Orcen Seraph. Grew up in the Beacon's religious order, away from Orcen nomadic tradition, to be a Paladin of the Beacon's Flame. She was eventually expelled from the Beacon, due to her questions about the Oracle Cycle and the Sealed Chamber, the ruin she weaved herself. Became a very successful freelancing Venturer, and discovered her divine wings and powers somehow remained. 
+### Cillian
+Old bearded Elvish druid -- one of the oldest persons in Brightvale. Older memories corrupted and emptied by the centuries and the umbra. Vast experience in surviving the Umbra, even alone. Often seen as eccentric and crazy, and often seen roaming around Brightvale wildshaped as an animal. Sent by members of the Concordance.

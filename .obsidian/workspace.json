@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests_and_Campaigns/The Veiled God's Lantern — GM Notes.md",
+                "file": "Quests_and_Campaigns/One Shot session notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Veiled God's Lantern — GM Notes"
+              "title": "One Shot session notes"
             }
           },
           {
-            "id": "9ec0af8dd72e6e59",
+            "id": "9787fcbdbfef6425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Stiórmund.md",
+                "file": "Worldbuilding/Locations/The Wastes/Ideas of Places in the Wastes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clan Stiórmund"
+              "title": "Ideas of Places in the Wastes"
             }
           }
         ],
@@ -248,10 +248,14 @@
   },
   "active": "e76b39aef5635054",
   "lastOpenFiles": [
-    "Worldbuilding/History_and_Lore/Timeline.md",
-    "Quests_and_Campaigns/The Veiled God's Lantern — GM Notes.md",
-    "Worldbuilding/Rules_and_Mechanics/Umbra_Augmentation_and_Humanity.md",
+    "caretakers_procession.svg",
+    "caretakers_procession.svg.tmp.31076.1778685468871",
+    "Worldbuilding/Locations/The Wastes/Ideas of Places in the Wastes.md",
+    "Quests_and_Campaigns/One Shot session notes.md",
     "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Stiórmund.md",
+    "Quests_and_Campaigns/The Veiled God's Lantern — GM Notes.md",
+    "Worldbuilding/History_and_Lore/Timeline.md",
+    "Worldbuilding/Rules_and_Mechanics/Umbra_Augmentation_and_Humanity.md",
     "Worldbuilding/Characters/Ancestries/Humankind.md",
     "Worldbuilding/Bestiary/Daggerheart_Statblocks/Rotblood.md",
     "Worldbuilding/Factions_and_Organizations/Noble Houses/Old/House Lugner.md",
@@ -284,16 +288,12 @@
     "images/Hvergi.jpg",
     "images/Pasted image 20260420134504.png.md",
     "images/Pasted image 20260425121423.png.md",
-    "Worldbuilding/Bestiary/Dragons.md",
-    "Worldbuilding/Bestiary/Rotblood.md",
-    "Worldbuilding/Rules_and_Mechanics/Daggerheart SRD.md",
     "Untitled.canvas",
     "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families",
     "index.html",
     "WestmarchesWebsite/_build/images/test.txt",
     "WestmarchesWebsite/_build/images/-strip",
     "WestmarchesWebsite/_build/build.py",
-    "WestmarchesWebsite/_build/images",
-    "WestmarchesWebsite/_build"
+    "WestmarchesWebsite/_build/images"
   ]
 }

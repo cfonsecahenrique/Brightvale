@@ -5,6 +5,7 @@
 - The Ancient Ruins of the Imperial City of Armis-Caen. Massive ruined walls. Districts. Tunnel/Dungeon Complexes, (inspiration: Leyndell)
 - The Hill of Glass
 - The Rift -- mega dungeon descent into the unknown
+- Faerie Town
 
 
 Dead Titan
