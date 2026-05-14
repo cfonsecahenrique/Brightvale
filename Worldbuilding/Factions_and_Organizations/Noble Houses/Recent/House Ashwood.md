@@ -13,7 +13,7 @@ Ashwood is in constant friction with resource-hungry factions who dismiss their 
 
 **Key Relationships:**
 - **[[House Thalum]]:** Unrelenting ideological and operational conflict regarding logging and terrain-clearing.
-- **[[Aetherweaver Academy]]:** Maintain quiet leverage over the Academy by controlling the supply of Lumen-infused raw timber.
+- **[[Aetherweaver Academy]]:** Primary timber supplier for the Academy's construction and infrastructure needs; a commercial dependency the Ashwoods manage carefully.
 - **[[House Aerincorvus]]:** Strong, sympathetic alliance due to shared respect for the wilds, though Ashwood's pragmatism sometimes clashes with Aerincorvus's idealism.
 - **[[Explorers' Guild]]:** Act as crucial ecological consultants, guiding Explorers on surviving the corrupted Wastes.
 

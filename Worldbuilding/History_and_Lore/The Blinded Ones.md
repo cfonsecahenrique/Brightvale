@@ -12,4 +12,12 @@ The thirteen-year cycle of their isolation is not a product of natural aetheric 
 
 Over time, this grim inspection evolved. As the choristers' whispers grew deeper and more profound, officials began selecting specific "Oracles" at the cycle's end to study the strange metaphysical environment of the chamber, seeking to understand why they were still alive and looking to decode their knowledge. However, as the potential threat of this knowledge became apparent, the position of the Oracle became increasingly controlled by the Crown's forces. Today, the endeavor is almost always futile. Stripped of their souls, the husks speak only in disjointed auguries, terrifying riddles, and fragmented poetry. Furthermore, the [[The Council of Seven|Council]] is now pressured into exclusively appointing senior members of the [[Emberguard]] or orthodox [[Caretakers of the Beacon|Caretakers]] as the designated Oracles. Deeply entrenched in dogma, these Crown-loyal officials staunchly refuse to entertain the heretical ramblings of the husks, dismissing their most profound cosmic revelations as the madness of the damned. Thus, the terrible truths the Seared Oracles burned for remain eternally locked away in the dark beneath the Beacon.
 
+---
+
+## The 386 AA Cycle
+
+The cycle of 386 AA produced an unusually coherent vision — clear enough that the senior Vision Readers were unable to dismiss it outright. The Caretakers lobbied the [[The Council of Seven|Council]] to act on it, and a high-profile expedition departed [[Emberfort]] the following year. The venture ended in catastrophe (see the *[[Official Expedition Report — The Aldred Commission|Aldred Commission]]*), but a single Senior Caretaker, [[Aldred Gwyn]], had received private dream-instructions from the husks for months beforehand, and was at the temple to act upon them. The Oracles spoke clearly, in a manner of speaking, for the first time in three centuries.
+
+Whether the seeds that fell from that exchange took root — and what the husks will say in the **next cycle, due in 399 AA** — is among the most consequential unanswered questions of the present age.
+
 **Related:** [[The Beacon]], [[Medsen]], [[Apostasy]], [[Caretakers of the Beacon]], [[Emberguard]], [[The Council of Seven]], [[The Monarchy]], [[Kings of Brightvale]]

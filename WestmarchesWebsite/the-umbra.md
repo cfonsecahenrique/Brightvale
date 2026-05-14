@@ -67,7 +67,7 @@ Some Venturers have returned from the Wastes missing years of their lives — un
 
 **Ashlines** — paint mixed with Beacon ash, applied to walls and structures — generate a passive ward. Emberfort's rebuilt walls are treated. Checkpoint outpost perimeters are maintained with Ashlines.
 
-**Lumen Censers** — portable vessels of distilled Beacon light — provide limited but life-saving protection in the field. Standard equipment for Venturing parties.
+**Ashgeld Ingots** — compressed Beacon ash that, when ignited, burn with a flame hostile to the Umbra — provide limited but life-saving protection in the field. Standard equipment for Venturing parties.
 
 **The Embermark** — a ritual burn left on Emberguard members by the Beacon's Cold-Flame — provides minor resistance to the Malignant Echo. Slayers develop a more robust version through the Ingress of Ash.
 

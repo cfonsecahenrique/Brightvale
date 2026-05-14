@@ -5,7 +5,10 @@
       "Bash(mv Characters/Ancestries/* Worldbuilding/Characters/Ancestries/)",
       "Bash(mv Characters/NPCs/* Worldbuilding/Characters/NPCs/)",
       "Bash(mv Characters/Player_Characters/* Players/Player_Characters/)",
-      "Bash(rmdir Characters/Ancestries Characters/NPCs Characters/Player_Characters Characters)"
+      "Bash(rmdir Characters/Ancestries Characters/NPCs Characters/Player_Characters Characters)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Henrique\\\\OneDrive\\\\Documentos\\\\GitHub\\\\Brightvale\" -Recurse -Directory)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Sort-Object)"
     ]
   }
 }

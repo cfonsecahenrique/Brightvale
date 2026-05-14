@@ -11,6 +11,8 @@ Formerly the Armisian Empire's agricultural nobility, the Aurelians worship the 
 **Strife & Ambition:** 
 Their core tension lies in their unwavering hope that the sky can be restored, opening them to exploitation while others see them as mere dreamers. Their ultimate ambition is twofold: uncover the true reason for the [[Apostasy]]'s sky-dimming and secure a "Second Harvest" ecosystem decoupled from sunlight.
 
+In the **388 AA Conservative Cycle**, Aurelian was elevated to a [[The Council of Seven|Council]] seat in the wake of the [[Official Expedition Report — The Aldred Commission|Aldred Commission]] scandal, completing the first dual-pious Noble majority since before the [[The Brightblood War|Brightblood War]]. The House's warm standing with the [[Caretakers of the Beacon|Order]] made it the obvious beneficiary of the public turn against the Concordance bloc. Aurelian has held the seat through every cycle since.
+
 **Key Relationships:**
 - **[[Aetherweaver Academy]] & [[House Lugner]]:** Jointly fund astronomical research with Lugner, hoping Old Magic can somehow reverse the sky's dimming.
 - **[[Caretakers of the Beacon]]:** Warm relations, united by a reverence for sustaining light. Aurelians often provide food for their charities.

@@ -1,5 +1,5 @@
 # [[Caretakers of the Beacon]]
-Commonly referred to as The Caretakers, the Order of the Eternal Hearth is the most ancient institution, tasked with the maintenance of the [[The Beacon|Great Beacon]]. They are Brightvale's spiritual heart, providing healing and performing the "Last Rites" to prevent the dead from rising as [[Revenant|Revenants]]. They are also responsible for the "Awakening Rituals" of the Emberborne, as well as the distillation of Light for portable Lumen-Casks.
+Commonly referred to as The Caretakers, the Order of the Eternal Hearth is the most ancient institution, tasked with the maintenance of the [[The Beacon|Great Beacon]]. They are Brightvale's spiritual heart, providing healing and performing the "Last Rites" to prevent the dead from rising as [[Revenant|Revenants]]. They are also responsible for the "Awakening Rituals" of the Emberborne, as well as the preparation of Ashgeld Ingots for Venturing expeditions.
 
 Leader: High Caretaker Kaelen ([[Infernis_Tieflings|Infernis]]). Severe and radiant. Kaelen and the high-ranking priests are often partially blind from staring into the Beacon's heart. They believe the city survives only through divine sacrifice and often clash with the Scholars over the "mechanical" nature of the Beacon.
 

@@ -11,6 +11,8 @@ The Vale's only noble house of established Elven-Human heritage, Aerincorvus bal
 **Strife & Ambition:** 
 Their careful documentation of Fae phenomena is largely dismissed as folklore by the rest of the Vale. Their ambition is to compile irrefutable evidence of Faewilds contact to force the [[The Council of Seven|Council]] and Academy to treat it as a legitimate research priority, potentially seeking [[Fae]] allies untouched by the Umbra.
 
+Since the **388 AA Conservative Cycle** — when the House was demoted from its Council seat in the political aftermath of the [[Official Expedition Report — The Aldred Commission|Aldred Commission]] — Aerincorvus has operated outside the formal Council apparatus, quietly extending its scholarly reach where it can no longer reach legislatively. The House regards the demotion as an act of clerical propaganda; recovering the seat is a primary near-term ambition. Their informal patronage of the nascent *[[Cult of the Goddess]]* runs through these same private channels.
+
 **Key Relationships:**
 - **Druidic Communities:** Genuine two-way alliance and primary source of anomalies.
 - **[[House Ashwood]]:** Close allies, uniting to protect and study wild spaces.

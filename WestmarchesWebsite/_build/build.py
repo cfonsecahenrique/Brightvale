@@ -2,8 +2,8 @@
 Welcome to Brightvale — page builder
 ====================================
 
-Generates `Welcome_to_Brightvale.html` (one folder up from this script) by
-assembling the data below with the JPEGs in `./images/` as embedded base64.
+Generates `index.html` at the repo root by assembling the data below with
+the JPEGs in `./images/` as embedded base64.
 
 HOW TO USE
 ----------
@@ -20,7 +20,7 @@ HOW TO USE
 
 3. To rebuild, from this folder run:
        python build.py
-   The HTML lands at ../Welcome_to_Brightvale.html, replacing the old one.
+   The HTML lands at ../../index.html (repo root), replacing the old one.
 
 4. The hero, page-break, and Umbra-section background images are wired to
    `hero.jpg`, `staircase.jpg`, and `effigies.jpg` respectively — see CSS.
@@ -171,7 +171,6 @@ COMMUNITIES = [
     ("Loreborne", "Aurore's Peak among Academy scholars, or a family of archivists and chroniclers."),
     ("Orderborne", "Within the structure of the Emberguard, the Caretakers, or another institutional framework."),
     ("Ridgeborne", "Mountain edges — Hvergi, the mining camps, or remote plateau settlements."),
-    ("Seaborne", "Cultural memory of the Dwarven Great Sea or the lost Armisian coastlines — water in a world that has none. For a Dwarven character, this is Heimsfar: the prophecy of return to a shore their ancestors left within living memory of the Apostasy."),
     ("Slyborne", "A Slyborne character may have grown up in a group that operates outside of the law, including all manner of criminals, grifters and con artists."),
     ("Underborne", "Medsen's lower districts, its tunnels, its underside — places people don't talk about."),
     ("Wanderborne", "Moved between settlements — Orcish relay riders, traveling merchants, displaced families that never quite settled."),
@@ -835,6 +834,71 @@ CSS = r"""
   @media (max-width: 700px) {
     .modal-panel { padding: 1.8rem 1.4rem; max-height: 90vh; }
   }
+
+  /* ===== TIMELINE ===== */
+  .tl-wrap { position: relative; padding: 2rem 0 4rem; }
+  .tl-wrap::before {
+    content: ''; position: absolute; left: 50%; top: 0; bottom: 0; width: 1px;
+    background: linear-gradient(to bottom, transparent, var(--hairline-strong) 8%, var(--hairline-strong) 92%, transparent);
+    transform: translateX(-50%);
+  }
+  .tl-era { text-align: center; margin: 3rem 0 1.5rem; position: relative; z-index: 1; }
+  .tl-era-label {
+    display: inline-block; padding: .35rem 1.4rem; border: 1px solid var(--hairline-strong);
+    font-family: 'Cinzel', serif; font-size: .78rem; letter-spacing: .2em; text-transform: uppercase;
+    color: var(--ember); background: var(--bg-2); position: relative; z-index: 1;
+  }
+  .tl-event {
+    display: flex; align-items: flex-start; gap: 2rem; margin: 0 0 1.6rem; position: relative;
+  }
+  .tl-event:nth-child(odd) { flex-direction: row-reverse; }
+  .tl-event-body {
+    flex: 1; background: var(--bg-2); border: 1px solid var(--hairline);
+    padding: 1.1rem 1.3rem; border-radius: 2px; transition: border-color .2s ease;
+  }
+  .tl-event-body:hover { border-color: var(--hairline-strong); }
+  .tl-year {
+    flex: 0 0 calc(50% - 1.5rem); text-align: right; padding-top: 1rem;
+    font-family: 'Cinzel', serif; font-size: .88rem; letter-spacing: .15em;
+    color: var(--ember); white-space: nowrap;
+  }
+  .tl-event:nth-child(odd) .tl-year { text-align: left; }
+  .tl-dot {
+    flex: 0 0 1rem; width: 1rem; height: 1rem; margin-top: 1.15rem;
+    border-radius: 50%; background: var(--bg-2); border: 2px solid var(--ember-dim);
+    position: relative; z-index: 1; flex-shrink: 0;
+    transition: border-color .2s ease, background .2s ease;
+  }
+  .tl-event:hover .tl-dot { border-color: var(--ember); background: var(--ember); }
+  .tl-title {
+    font-family: 'Cinzel', serif; font-size: .95rem; letter-spacing: .08em;
+    color: var(--paper); margin: 0 0 .4em; text-transform: uppercase;
+  }
+  .tl-desc { font-size: .95rem; color: var(--paper-2); margin: 0; line-height: 1.55; }
+  .tl-sig {
+    display: inline-block; margin-top: .55rem; font-family: 'Cinzel', serif;
+    font-size: .72rem; letter-spacing: .15em; text-transform: uppercase;
+    color: var(--umbra); border-left: 2px solid var(--umbra-dim); padding-left: .5rem;
+  }
+  .tl-filters {
+    display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center; margin: 0 0 2.5rem;
+  }
+  .tl-filter {
+    background: transparent; border: 1px solid var(--hairline-strong); color: var(--paper-2);
+    padding: .5rem 1.1rem; cursor: pointer; font-family: 'Cinzel', serif;
+    font-size: .78rem; letter-spacing: .15em; text-transform: uppercase;
+    border-radius: 2px; transition: all .2s ease;
+  }
+  .tl-filter:hover { border-color: var(--ember); color: var(--paper); }
+  .tl-filter.active { background: var(--ember); color: var(--bg); border-color: var(--ember); }
+  .tl-event.hidden { display: none; }
+  @media(max-width:700px) {
+    .tl-wrap::before { left: .75rem; }
+    .tl-event, .tl-event:nth-child(odd) { flex-direction: column; padding-left: 2.2rem; }
+    .tl-year, .tl-event:nth-child(odd) .tl-year { flex: none; text-align: left; padding-top: 0; font-size: .8rem; }
+    .tl-dot { position: absolute; left: .25rem; margin-top: .25rem; }
+    .tl-event { position: relative; }
+  }
 """
 CSS = CSS.replace("__HERO__", IMG["hero"]).replace("__EFFIGIES__", IMG["effigies"]).replace("__STAIRCASE__", IMG["staircase"])
 
@@ -866,7 +930,7 @@ JS = r"""
     });
   });
 
-  const sections = ['welcome','world','umbra','begin','step1','step2','step3','step4','step5','resources'];
+  const sections = ['welcome','world','umbra','begin','step1','step2','step3','step4','step5','timeline','resources'];
   const navLinks = {};
   sections.forEach(id => { navLinks[id] = document.querySelector('.progress a[href="#' + id + '"]'); });
   const navIo = new IntersectionObserver((entries) => {
@@ -946,6 +1010,26 @@ JS = r"""
       document.querySelectorAll('.modal-overlay.open').forEach(closeModal);
     }
   });
+
+  // Timeline era filter
+  document.querySelectorAll('.tl-filter').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tl-filter').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const era = btn.dataset.era;
+      document.querySelectorAll('#tl-events .tl-event').forEach(ev => {
+        if (era === 'all' || ev.dataset.era === era) ev.classList.remove('hidden');
+        else ev.classList.add('hidden');
+      });
+      document.querySelectorAll('#tl-events .tl-era').forEach(eraEl => { eraEl.style.display = ''; });
+      if (era !== 'all') {
+        document.querySelectorAll('#tl-events .tl-era').forEach(eraEl => {
+          const next = eraEl.nextElementSibling;
+          if (!next || next.classList.contains('hidden')) eraEl.style.display = 'none';
+        });
+      }
+    });
+  });
 """
 
 # Build HTML
@@ -966,6 +1050,7 @@ parts.append('''<nav class="progress" aria-label="Section navigation">
   <a href="#step3"><span>Guild</span></a>
   <a href="#step4"><span>Class</span></a>
   <a href="#step5"><span>Together</span></a>
+  <a href="#timeline"><span>Timeline</span></a>
   <a href="#resources"><span>Resources</span></a>
 </nav>''')
 
@@ -1159,6 +1244,68 @@ parts.append(f'''<section id="step5" class="reveal"><div class="wrap">
     <li><strong>What is Brightvale to you?</strong> A prison? A haven? Home?</li>
   </ul>
   <p style="text-align:center; margin-top: 3rem; color: var(--paper-2); font-style: italic; max-width: 36em; margin-left: auto; margin-right: auto;">The Wastes will test every answer you give here. Pack accordingly.</p>
+</div></section>''')
+
+parts.append('''<section id="timeline" class="reveal"><div class="wrap">
+  <div class="section-head">
+    <p class="step-num">Lore</p>
+    <h2>The Chronicled Years</h2>
+    <p class="lede">Four centuries measured in sacrifice, war, and hard-won light. All dates are <strong>AA</strong> &mdash; After the Apostasy.</p>
+  </div>
+  <div class="divider"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 3c1.5 3 5 5 5 9a5 5 0 01-10 0c0-2 1-3 2-4 0 1 1 2 2 2 0-2-1-4 1-7z"/></svg></div>
+  <div class="tl-filters">
+    <button class="tl-filter active" data-era="all">All Eras</button>
+    <button class="tl-filter" data-era="founding">The Founding (0&ndash;250 AA)</button>
+    <button class="tl-filter" data-era="schism">Age of Strife (251&ndash;356 AA)</button>
+    <button class="tl-filter" data-era="council">The Council Age (357&ndash;400 AA)</button>
+  </div>
+  <div class="tl-wrap" id="tl-events">
+    <div class="tl-era"><span class="tl-era-label">The Founding &mdash; 0&ndash;250 AA</span></div>
+    <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The Apostasy</p><p class="tl-desc">The end of the golden age. The crimson veil descends and chokes the world. The Armisian Empire falls into shadow.</p></div><div class="tl-dot"></div><div class="tl-year">0 AA</div></div>
+    <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The Sacrifice</p><p class="tl-desc">The Dawnfather&#39;s soul creates the Beacon &mdash; a pillar of divine fire that holds back the Umbra. Survivors establish the first haven in Medsen.</p></div><div class="tl-dot"></div><div class="tl-year">c. 50 AA</div></div>
+    <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The Eastern Hearth</p><p class="tl-desc">Founding of Hvergi in the eastern mountain-roots as Dwarven refugees consolidate their mining operations and begin to rebuild.</p></div><div class="tl-dot"></div><div class="tl-year">c. 51 AA</div></div>
+    <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The Seared Oracles</p><p class="tl-desc">A radical sect of Beacon followers is condemned for uncovering a blazing truth. Sealed alive beneath the Dawnfather Temple, the divine aura slowly burns their souls away. Their discoveries are deliberately struck from official records.</p><span class="tl-sig">Sealed from record</span></div><div class="tl-dot"></div><div class="tl-year">c. 87 AA</div></div>
+    <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The First Archive</p><p class="tl-desc">Facing the memory-loss effects of Umbra exposure, Arch-Mage Elowen the Wise orders the formal recording of all history. Without written memory, the Enduring would lose themselves.</p></div><div class="tl-dot"></div><div class="tl-year">164 AA</div></div>
+    <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">Founding: Scholars&#39; Guild</p><p class="tl-desc">An initial organization dedicated to reclaiming lost Armisian knowledge, the precursor to the Aetherweaver Academy.</p></div><div class="tl-dot"></div><div class="tl-year">165 AA</div></div>
+    <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">Ascension: Cynred the Bitter</p><p class="tl-desc">King Cenwald (The Writer) passes away. His heir Cynred begins a long, isolationist reign over Medsen that will last 116 years.</p></div><div class="tl-dot"></div><div class="tl-year">168 AA</div></div>
+    <div class="tl-era"><span class="tl-era-label">Age of Strife &mdash; 251&ndash;356 AA</span></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Founding: Slayers&#39; Guild</p><p class="tl-desc">Lord Eadmer, the &#34;Paragon of Steel,&#34; organizes elite monster hunters following the first major breach of Emberfort&#39;s South Palisades.</p></div><div class="tl-dot"></div><div class="tl-year">252 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Scholastic Schism</p><p class="tl-desc">First Steward Elowen the Wise resigns following bitter disputes over the &#34;Deep-Weave&#34; study. Arch-Scholar Solas assumes leadership of the fractured institution.</p><span class="tl-sig">Rupture in the Academy</span></div><div class="tl-dot"></div><div class="tl-year">270 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Academy&#39;s Dawn</p><p class="tl-desc">The Scholars&#39; Guild rebrands as the Aetherweaver Academy, focusing on teaching Aetherweaving to all capable initiates.</p></div><div class="tl-dot"></div><div class="tl-year">271 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Rise of Aurore</p><p class="tl-desc">The village of Aurore grows organically into a bustling town as scholars and students flock to the base of Aurore&#39;s Peak.</p></div><div class="tl-dot"></div><div class="tl-year">275 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Death of Cynred the Bitter</p><p class="tl-desc">End of the Bitter&#39;s 116-year reign. His grandson King Aldhelm inherits a realm corroded by institutional neglect and deepening factional resentment.</p></div><div class="tl-dot"></div><div class="tl-year">284 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Brightblood War</p><p class="tl-desc">Civil war erupts between the Crown&#39;s Coalition and the Reform Coalition. Noble Houses, Guilds, and the Dwarves of Hvergi fracture along political lines. The Explorers&#39; Guild remains neutral. Mercenary Orcish war-clans and Elven glade-companies are employed by both sides.</p><span class="tl-sig">Civil war</span></div><div class="tl-dot"></div><div class="tl-year">293 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Amber Court Peace (Failed)</p><p class="tl-desc">Senna Iyengar convenes emergency peace talks. A loyalist envoy is assassinated within the Court&#39;s walls on the twelfth day, collapsing the ceasefire and resuming the war.</p></div><div class="tl-dot"></div><div class="tl-year">294 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Flicker</p><p class="tl-desc">The Beacon dims as civil strife disrupts the Caretakers&#39; rituals and fractures the population&#39;s collective faith. Umbra-touched activity surges in the outer regions.</p><span class="tl-sig">The Beacon falters</span></div><div class="tl-dot"></div><div class="tl-year">295 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Fall of Emberfort</p><p class="tl-desc">Lord-Warden Theron &mdash; a legendary Emberguard general Hollowed decades prior &mdash; leads a massed Horde through Emberfort&#39;s depleted defenses. The fortress is nearly destroyed after nine days of fighting.</p><span class="tl-sig">The Horde breaches the walls</span></div><div class="tl-dot"></div><div class="tl-year">296 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Battle of Three Bridges</p><p class="tl-desc">Suns and Ravens unite against the Horde. King Aldhelm leads the combined force; his Sun-Born radiance sears the Horde and breaks Theron&#39;s hold. Aldhelm dies of his wounds three days later.</p><span class="tl-sig">End of the civil war</span></div><div class="tl-dot"></div><div class="tl-year">297 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Ascension: Queen Wendreda the Graceful</p><p class="tl-desc">Aldhelm&#39;s consort is crowned. She pardons the Reform Coalition&#39;s lesser members and publicly sacrifices the most nefarious rebel leaders to the Beacon. The fire burns bright and steady.</p></div><div class="tl-dot"></div><div class="tl-year">297 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Golden Reprieve</p><p class="tl-desc">A decade of recovery under Wendreda&#39;s rule. The Beacon&#39;s strengthened light fuels a renaissance in aetheric research. Ashgeld Ingots and Ashline wards are developed. Emberfort is rebuilt and fortified.</p></div><div class="tl-dot"></div><div class="tl-year">297&ndash;308 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Warding Expansion</p><p class="tl-desc">High-Aetherweaver Brynstan enhances Medsen&#39;s magical boundaries, doubling the safe living zone &mdash; a direct product of the Golden Reprieve&#39;s research surge.</p></div><div class="tl-dot"></div><div class="tl-year">300 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Ascension: King Oswin I the Venturer</p><p class="tl-desc">Wendreda&#39;s brother; a man of martial obsession who redirects the realm&#39;s ambitions outward, toward the Wastes.</p></div><div class="tl-dot"></div><div class="tl-year">328 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Founding: Explorers&#39; Guild</p><p class="tl-desc">King Oswin formalizes exploration of the Wastes. Ekbert, Prince of Glass, is named first Grand Explorer &mdash; the beginning of the Venturing tradition.</p></div><div class="tl-dot"></div><div class="tl-year">329 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Ascension: King Raedfryd</p><p class="tl-desc">Death of King Oswin. Raedfryd, Exarch of Cinders, claims the throne &mdash; a reign that will end in catastrophe and constitutional change.</p></div><div class="tl-dot"></div><div class="tl-year">349 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Glass Tragedy</p><p class="tl-desc">Grand Explorer Ekbert dies in the Wastes. Lorenzo succeeds him as Grand Explorer.</p></div><div class="tl-dot"></div><div class="tl-year">353 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Great Famine</p><p class="tl-desc">A three-year period of crop failure, attributed to Raedfryd&#39;s heavy-handed mismanagement of Medsen&#39;s resources. Thousands starve.</p><span class="tl-sig">Three years of hunger</span></div><div class="tl-dot"></div><div class="tl-year">354&ndash;356 AA</div></div>
+    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Cinder Sacrifice</p><p class="tl-desc">Pressured by a starving population, King Raedfryd sacrifices himself into the Beacon&#39;s Great Pyre. The sunlight surge restores the crops. A king dies so his people may eat.</p><span class="tl-sig">A king&#39;s last act</span></div><div class="tl-dot"></div><div class="tl-year">356 AA</div></div>
+    <div class="tl-era"><span class="tl-era-label">The Council Age &mdash; 357&ndash;400 AA</span></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Birth of the Council</p><p class="tl-desc">In the wake of Raedfryd&#39;s death, the Council of Seven is formed to check the monarchy and lead Medsen. Power shifts from the crown to an institution.</p><span class="tl-sig">The new order begins</span></div><div class="tl-dot"></div><div class="tl-year">357 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Ascension: King Edric I the Hollow Crown</p><p class="tl-desc">The first Sun-Born king to reign entirely under Council authority. The crown becomes ceremonial.</p></div><div class="tl-dot"></div><div class="tl-year">357 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Crypt of King Zothu</p><p class="tl-desc">First discovery of a major pre-Apostasy crypt in the lowlands, sparking a surge of interest in the buried world below.</p></div><div class="tl-dot"></div><div class="tl-year">366 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Tomb of Cinders</p><p class="tl-desc">Discovery of a massive buried necropolis, leading to a sharp increase in Slayers&#39; activity throughout the outer regions.</p></div><div class="tl-dot"></div><div class="tl-year">369 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Ascension: King Halvard the Patient</p><p class="tl-desc">Edric I passes. Halvard begins a 12-year reign defined by his single act of defiance against the Council.</p></div><div class="tl-dot"></div><div class="tl-year">371 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Ration Refusal</p><p class="tl-desc">King Halvard refuses to sign a Council ration decree, triggering a three-month governance crisis. The Council closes the constitutional loophole he exploited. No monarch challenges them again.</p><span class="tl-sig">The last royal defiance</span></div><div class="tl-dot"></div><div class="tl-year">379 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Ascension: King Aldric the Luminous</p><p class="tl-desc">King Alfwyn&#39;s father. The last fully public monarch, who maintained the theater of engaged kingship even as the crown held no real power.</p></div><div class="tl-dot"></div><div class="tl-year">383 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Age of Grand Explorer Mira Ravenna</p><p class="tl-desc">Death of Grand Explorer Lorenzo. Mira Ravenna assumes leadership of the Explorers&#39; Guild and begins the most ambitious expansion of Venturing operations to date.</p></div><div class="tl-dot"></div><div class="tl-year">385 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Curse of the Blinded Ones</p><p class="tl-desc">Year of the Oracles. The Caretakers receive a surprisingly clear vision through the Sealed Oracles and lobby the Council to dispatch an elite expedition. The Council imposes its own roster on the venture, against the Order&#39;s preferred candidates.</p><span class="tl-sig">The visions stir</span></div><div class="tl-dot"></div><div class="tl-year">386 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Aldred Commission</p><p class="tl-desc">The expedition departs Emberfort under Senior Caretaker Aldred Gwyn. It ends in disaster in the southwestern Wastes. Three members are killed; survivors Zorael Lugner and Yuriko Ruinweaver are quarantined for months. The Order issues a censored official account, and the seeds of the Cult of the Goddess are planted.</p><span class="tl-sig">Disaster &mdash; records sealed</span></div><div class="tl-dot"></div><div class="tl-year">387 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Conservative Cycle</p><p class="tl-desc">Public sentiment turns sharply against factions blamed for the expedition&#39;s roster. House Aerincorvus is demoted from its Council seat. House Aurelian is elevated, producing the first dual-pious Noble majority since before the Brightblood War.</p></div><div class="tl-dot"></div><div class="tl-year">388 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Frost-Veil Pass</p><p class="tl-desc">Explorers discover a technical route through the Frost-Veil Peaks leading to elven ruins beyond the icy deserts &mdash; the first confirmed path to the far north.</p></div><div class="tl-dot"></div><div class="tl-year">388 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Silent Sovereignty</p><p class="tl-desc">King Aldric dies. King Alfwyn is crowned and almost immediately retreats into Medsen&#39;s Central Temple-Castle, ceasing all public appearances. The throne goes dark.</p><span class="tl-sig">The king vanishes</span></div><div class="tl-dot"></div><div class="tl-year">393 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Desolate City</p><p class="tl-desc">Venturers report a desolate cityscape six to seven days south, connected by the Idol Hollows (the southern peaks). No one knows what it once was.</p></div><div class="tl-dot"></div><div class="tl-year">395 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">The Southern Quake</p><p class="tl-desc">A massive earthquake damages Medsen and shifts the geography of the southern Wastes. Old paths close; new ones open.</p><span class="tl-sig">The earth shifts</span></div><div class="tl-dot"></div><div class="tl-year">399 AA</div></div>
+    <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Discovery: The Chasm</p><p class="tl-desc">Landslides reveal multiple entrances to &#34;The Chasm,&#34; an ancient underground complex beneath Brightvale. What lies below has not yet been named.</p><span class="tl-sig">Now &mdash; 400 AA</span></div><div class="tl-dot"></div><div class="tl-year">400 AA</div></div>
+  </div>
 </div></section>''')
 
 resource_cards = "\n".join(

@@ -28,7 +28,11 @@ If the Beacon can be understood, it can be maintained. If it can be maintained, 
 
 ## The Tensions
 
-These three positions are not merely theological — they are **political**. Who controls the interpretation of the Beacon controls the justification for how Brightvale is governed. The [[Caretakers of the Beacon|Caretakers]]' orthodoxy supports their institutional authority. The Pragmatist view supports the [[Aetherweaver Academy|Academy]]'s claim to research access. The Stoic position, held by no single institution, serves as a quiet counterweight to both.
+These three positions are often **political**. Who controls the interpretation of the Beacon controls the justification for how Brightvale is governed. The [[Caretakers of the Beacon|Caretakers]]' orthodoxy supports their institutional authority. The Pragmatist view supports the [[Aetherweaver Academy|Academy]]'s claim to research access. The Stoic position, held by no single institution, serves as a quiet counterweight to both.
+
+### A Fourth Position — Suspected, Denied, Spreading
+
+Since 388 AA, a fourth position has begun to circulate in the lower wards and along the Venturer's trail — the [[Cult of the Goddess|veiled goddess]]. Its adherents hold that the Beacon is *not* divine in the sense the Orthodoxy claims, that an older, gentler dominion preceded it, and that her temples in the Wastes are quietly waking as the Beacon flickers. The Caretakers regard this as heresy of the most dangerous kind and have lobbied to suppress its iconography by civil rather than spiritual instrument. The Order does not consider it a religion. The Order is increasingly alone in that view.
 
 Religious conflict in Brightvale is rarely violent. It is conducted through sermon, through Council petition, through the careful allocation of resources and the quiet withdrawal of support. But it is constant, and it shapes every significant decision the Vale makes about its future.
 

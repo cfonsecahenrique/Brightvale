@@ -118,7 +118,7 @@ They fund the Progressive Aetherweaving faction at the Academy and maintain the 
 **Seat:** The Greenmantle Lodge, Northern Plateau edge
 **Heraldry:** A great oak with extending roots; deep forest green and earthy brown.
 
-Elevated from common foresters who defended vital wilderness from the Umbra after the Apostasy, Ashwood is Brightvale's steadfast ecological advocate. They maintain critical timber reserves and supply the Lumen-infused wood the Academy depends on — leverage they manage carefully. Their ongoing battle to enshrine a permanent Forested Reserve into Council law has been their primary political project for three consecutive Council cycles.
+Elevated from common foresters who defended vital wilderness from the Umbra after the Apostasy, Ashwood is Brightvale's steadfast ecological advocate. They maintain critical timber reserves and supply the timber the Academy depends on for construction and infrastructure — leverage they manage carefully. Their ongoing battle to enshrine a permanent Forested Reserve into Council law has been their primary political project for three consecutive Council cycles.
 
 Progress is slow. The trees, at least, are patient.
 

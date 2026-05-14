@@ -41,7 +41,7 @@ When you gain an Umbra Rank, choose one of the following:
 | :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Obsidian Sinews**  | Your muscles harden into dark stone. Permanent **+1 to Strength** and **+1 to Armor Score**.                                                              |
 | **Whisper-Step**     | Your shadow moves before you do. You can mark a **Stress** to instantly teleport to any location within **Close Range** as part of your movement.         |
-| **Revenant’s Vigor** | You no longer feel pain. Gain **+2 Hit Point slots**. However, you cannot be healed by mundane means; only Lumen-infused or magical healing works on you. |
+| **Revenant’s Vigor** | You no longer feel pain. Gain **+2 Hit Point slots**. However, you cannot be healed by mundane means; only Ashgeld-infused or magical healing works on you. |
 | **Hollow Sight**     | Your eyes turn pitch black. You can see through magical darkness and gain **Advantage** on Instinct rolls to track or perceive creatures in the dark.     |
 | **Leeching Blade**   | When you deal **Severe Damage** with a melee attack, you may clear **1 marked Hit Point** as you draw the life-force out of your foe.                     |
 
@@ -50,5 +50,5 @@ When you gain an Umbra Rank, choose one of the following:
 ## V. Recovery and Redemption
 
 Can the Umbra be removed?
-*   **The Great Purification:** Removing an Umbra Rank is an arduous task requiring a long-term project at the **Aetherweaver Academy** or a miracle from the **Caretakers**. It typically requires rare components (like a Pure Lumen Shard) and a high-difficulty Knowledge or Instinct roll.
+*   **The Great Purification:** Removing an Umbra Rank is an arduous task requiring a long-term project at the **Aetherweaver Academy** or a miracle from the **Caretakers**. It typically requires rare components (like a refined Ashgeld Ingot) and a high-difficulty Knowledge or Instinct roll.
 *   **Lost Forever:** Even if the Rank is removed, the **Experience or Connection** sacrificed to gain it is gone forever. Some parts of the soul cannot be retrieved.

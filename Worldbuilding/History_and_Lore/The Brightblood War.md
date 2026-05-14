@@ -91,7 +91,7 @@ King Aldhelm collapsed on the field and died three days later in the Dawnfather 
 The war and the Horde had devastated Brightvale's population. The bulk of the Venturing force was slain. But fewer mouths meant no food shortage, and the strengthened Beacon fueled a renaissance in aetheric research. Wendreda's reconstruction produced lasting innovations:
 
 - **Ashlines:** Paint mixed with Beacon ash, applied to walls and fortifications. The treated surfaces generate a passive ward against the [[Umbra]]. [[Emberfort]]'s rebuilt walls were the first to receive them.
-- **Lumen Censers:** Portable vessels of distilled Beacon light, carried by Venturers into the Wastes for limited but life-saving protection against [[Umbra]] corruption.
+- **Ashgeld Ingots:** Compressed ingots of Beacon ash that, when ignited, produce a flame hostile to the [[Umbra]]. Standard field equipment for Venturers entering the Wastes.
 - **The Warding Expansion (300 AA):** High-Aetherweaver Brynstan doubled [[Medsen]]'s safe living zone.
 
 ---

@@ -7,7 +7,7 @@ This document provides a summary of the current worldbuilding progress for the *
 *   **The [[Umbra]]**: A sentient, parasitic miasma that gravitates toward magical beings and expression. It induces "Flesh-Discord" and mutates flora and fauna. Umbra-touched creatures retain their combat instincts and magical prowess despite losing all sense of self.
 *   **The Dawnfather & The Beacon**: A legendary hero who sacrificed himself to create the Beacon, a pillar of holy fire protecting the valley from the [[Umbra]]. The Beacon's true nature and the economy built on its ash (**Ashgeld**) hold darker secrets.
 *   **[[Religions]]**: Three primary theological positions vie for authority — the Orthodox, the Stoic, and the Pragmatist — each shaping how the Beacon is understood and who controls it.
-*   **[[The Brightblood War]]**: A devastating civil war (293–297 AA) between Crown loyalists and a reform coalition of Noble Houses. Ended when a Horde invasion forced both sides to unite at the Battle of Three Bridges, at the cost of King Aldhelm's life. The aftermath — the Golden Reprieve — produced the Lumen Censers and Ashline wards.
+*   **[[The Brightblood War]]**: A devastating civil war (293–297 AA) between Crown loyalists and a reform coalition of Noble Houses. Ended when a Horde invasion forced both sides to unite at the Battle of Three Bridges, at the cost of King Aldhelm's life. The aftermath — the Golden Reprieve — produced Ashgeld Ingots for field use and Ashline wards.
 
 ## Locations
 The setting is centered on **Brightvale**, a protected plateau.

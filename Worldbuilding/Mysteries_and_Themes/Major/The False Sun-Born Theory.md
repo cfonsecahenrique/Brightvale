@@ -10,7 +10,7 @@ However, a dangerous and meticulously suppressed theory circulates among the sch
 
 ## Who Are The Embermarked?
 The **Embermarked** (often derogatorily called the Ash-Touched) are rare individuals born near the epicenters of the Beacon's power in [[Medsen]], or those who survived extreme, unprotected exposure to raw, unrefined Ashgeld. Due to this exposure, their physiology is fundamentally altered, granting them:
-- An innate, spell-less affinity for manipulating the Beacon's divine magic without the need for Lumen Censers.
+- An innate, spell-less affinity for manipulating the Beacon's divine magic without the need for lit Ashgeld.
 - Veins that glow like smoldering embers under their skin when channeling these abilities.
 - A natural resistance to the [[Umbra]] that perfectly mimics the fabled protections of the royal bloodline.
 

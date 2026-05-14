@@ -24,7 +24,7 @@ See **Ancestries & Cultures** for the full details on each.
 
 ### Community
 
-Your community is where and how you grew up — the environment that shaped you before you became a Venturer. In Daggerheart terms, this is your **Community card** (Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Slyborne, Underborne, Wanderborne, Wildborne).
+Your community is where and how you grew up — the environment that shaped you before you became a Venturer. In Daggerheart terms, this is your **Community card** (Highborne, Loreborne, Orderborne, Ridgeborne, Slyborne, Underborne, Wanderborne, Wildborne).
 
 When choosing your community, think about where in Brightvale your character was raised:
 
@@ -32,7 +32,6 @@ When choosing your community, think about where in Brightvale your character was
 - A **Loreborne** character may have been raised at Aurore's Peak among Academy scholars, or in a family of archivists and chroniclers.
 - An **Orderborne** character probably grew up within the structure of the Emberguard, the Caretakers, or another institutional framework.
 - A **Ridgeborne** character hails from the mountain edges — Hvergi, the mining camps, or the remote plateau settlements.
-- A **Seaborne** character carries the cultural memory of the Dwarven Great Sea or the lost Armisian coastlines — a heritage of water in a world that has none. For a Dwarven Seaborne character, this is not mythology: their ancestors made the crossing within living memory of the Apostasy, and *Heimsfar* — the prophecy of return — is both cultural inheritance and unfinished business.
 - A **Slyborne** character may have grown up in a group that operates outside of the law, including all manner of criminals, grifters and con artists. Members of slyborne communities are brought together by their disparate goals and their clever means of achieving them. Many people in these communities have an array of unscrupulous skills: forging, thievery, smuggling, and violence. People of any social class can be slyborne, from those who have garnered vast wealth and influence to those without a coin to their name. To the outside eye, slyborne might appear to be ruffians with no loyalty, but these communities possess some of the strictest codes of honor which, when broken, can result in a terrifying end for the transgressor.
 - An **Underborne** character knows Medsen's lower districts, its tunnels, its underside — or the places people don't talk about.
 - A **Wanderborne** character moved between settlements — Orcish relay riders, traveling merchants, displaced families who never quite settled.
@@ -96,7 +95,7 @@ The table below shows which guilds commonly train, recruit, or employ each class
 
 A few combinations worth noting:
 
-**Bards** are everywhere. Every guild needs people who can inspire, coordinate, and communicate under pressure. A Slayer Bard composes the Verse of the Blade in the field. An Emberguard Bard maintains unit morale during long patrols. A Caretaker Bard leads the hymns that focus the Beacon's light into Lumen-Casks. An Explorer Bard records oral histories from ruins that have no written ones left.
+**Bards** are everywhere. Every guild needs people who can inspire, coordinate, and communicate under pressure. A Slayer Bard composes the Verse of the Blade in the field. An Emberguard Bard maintains unit morale during long patrols. A Caretaker Bard leads the hymns that focus the Beacon's light into prepared Ashgeld Ingots. An Explorer Bard records oral histories from ruins that have no written ones left.
 
 **Druids** are primarily a tertiary division of the Aetherweaver Academy — scholars of natural resonance and pre-Apostasy ecological magic. In practice, however, most working Druids end up in the Explorers' Guild, where their affinity for terrain, weather, and living systems makes them invaluable in the Wastes. House Ashwood and the Elven enclave of Aeldenbarrow produce a disproportionate number.
 
@@ -112,7 +111,7 @@ A few combinations worth noting:
 
 **Warriors** are the generalists of violence. Every guild except the Academy counts Warriors in its ranks. Whether swinging a greatsword on an Emberguard patrol, holding the line for a Slayer hunting party, guarding a Caretaker relic-team, or cutting a path through ruins for the Explorers, the Warrior's skillset is universally in demand.
 
-**Wizards** belong exclusively to the Academy and the Caretakers — the two institutions that deal in structured, scholarly magic. A Wizard's power comes from study, formulae, and deep understanding of arcane principles. The Academy trains them. The Caretakers employ them for ward maintenance, Lumen-Cask production, and the complex rituals surrounding the Beacon. Outside these institutions, a Wizard's methodology finds little institutional support.
+**Wizards** belong exclusively to the Academy and the Caretakers — the two institutions that deal in structured, scholarly magic. A Wizard's power comes from study, formulae, and deep understanding of arcane principles. The Academy trains them. The Caretakers employ them for ward maintenance, Ashgeld Ingot preparation, and the complex rituals surrounding the Beacon. Outside these institutions, a Wizard's methodology finds little institutional support.
 
 ---
 

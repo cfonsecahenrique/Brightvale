@@ -463,7 +463,7 @@ The messenger of the Veiled God, corrupted by centuries in the Umbra. It does no
 ## GM SECRETS — Do Not Share
 
 - **The Beacon** consumes the souls of all living beings within its light, slowly and imperceptibly. The dead do not pass on — they become fuel. The Caretakers' Last Rites do not send souls onward; they ensure the dead are processed efficiently. **Beacon Dust is ground bone.** The currency of Brightvale is minted from its own people.
-- **The Veiled God** is the deity of passage — the transition from life to death to the afterlife cycle the Gods once maintained. She was not destroyed by the Apostasy. She was *erased from history* because her continued worship would have made the Beacon's function impossible to accept. Souls that die in her temple pass on correctly.
+- **The Veiled God** is the deity of passage — the transition from life to death to the afterlife cycle the Gods once maintained. She was not destroyed by the Apostasy. Her divine essence somehow lingered in places of her worship. Souls that die in her temple pass on correctly.
 - **The nodes** — temples and sites of Primeval Aether linked to the Veiled God's network — are waking as the Beacon dims. They are not a replacement for the Beacon. They are what existed before it, and what will remain after it fails.
 - **The Oracles** have been trying to communicate this for 300 years. The party in 387 AA is the first group to ever hear them clearly. Whether the knowledge survives is entirely up to the players.
 - **The next Oracle cycle** opens in **399 AA** — one year before the main campaign. The Oracles will try again. What they say will depend on whether the 387 party's seed took root.

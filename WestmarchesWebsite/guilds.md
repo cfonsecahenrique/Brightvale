@@ -9,7 +9,7 @@
 
 The oldest institution in Brightvale — predating the Council, predating the Monarchy in any formal sense, predating nearly everything. The **Order of the Eternal Hearth**, commonly called the Caretakers, maintains the Beacon. Without them, the holy fire dims. Without the holy fire, everything else is academic.
 
-Their responsibilities extend far beyond the literal flame. The Caretakers perform the **Last Rites** — the rituals that prevent the dead from rising as Revenants, which is considerably more urgent in Brightvale than in most places. They conduct **Awakening Rituals** for the Emberborne. They distill the Beacon's light into **Lumen-Casks**, the portable light-vessels that keep Venturing parties alive in the Wastes. They run Brightvale's most extensive charity network, providing healing and sustenance throughout the city. They are ubiquitous, they are essential, and they ask, in exchange, only that you not question what they do behind closed doors. These are considered spiritual matters.
+Their responsibilities extend far beyond the literal flame. The Caretakers perform the **Last Rites** — the rituals that prevent the dead from rising as Revenants, which is considerably more urgent in Brightvale than in most places. They conduct **Awakening Rituals** for the Emberborne. They prepare **Ashgeld Ingots** — compressed Beacon ash that burns with a flame hostile to the Umbra — that keep Venturing parties alive in the Wastes. They run Brightvale's most extensive charity network, providing healing and sustenance throughout the city. They are ubiquitous, they are essential, and they ask, in exchange, only that you not question what they do behind closed doors. These are considered spiritual matters.
 
 The Caretakers represent the **Orthodox** theological position: the Beacon is divine, sacred, and not to be studied or tampered with. This position supports their institutional authority. It is also, they would say, simply correct.
 
@@ -93,7 +93,7 @@ The Guild has the highest mortality rate of any institution in Brightvale. This 
 
 The Academy sits carved into the cliffs of **Aurore's Peak**: a sprawling complex of cobalt stone and silver-veined marble, tiered balconies overlooking the central valley, ozone-scented laboratories where the Vale's mages are trained, and a Tower at the summit housing the Arch-Aetherweavers and a grand multi-lensed observatory for reading the winter Auroras.
 
-The Academy teaches Aetherweaving — structured, formulaic arcane magic — to all capable initiates regardless of ancestry. It also houses the Vale's primary arcane research operation: ward reinforcement, Lumen production, and the enduring effort to understand what the Beacon actually is and how it actually works.
+The Academy teaches Aetherweaving — structured, formulaic arcane magic — to all capable initiates regardless of ancestry. It also houses the Vale's primary arcane research operation: ward reinforcement, Aether-storage research, and the enduring effort to understand what the Beacon actually is and how it actually works.
 
 ### Two Patrons, One Battlefield
 The Academy is the site of the Vale's most significant ongoing ideological conflict, funded from opposite directions by two noble houses.

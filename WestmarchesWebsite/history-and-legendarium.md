@@ -35,7 +35,7 @@
 
 **Ashgeld** — The standard currency. Coins pressed from Beacon ash; warm to the touch, faintly luminous in total darkness. Stable, backed by the most reliable institution in the Vale.
 
-**Lumen** — Distilled Beacon light, infused into wood or stored in Censers. Used to push back the Umbra in the field. Produced by the Aetherweaver Academy.
+**Ashgeld Ingots** — Compressed ingots of Beacon ash. When ignited, they burn with a flame hostile to the Umbra — standard field equipment for any Venturing party entering the Wastes.
 
 **Venturers** — Those who descend into the Wastes on expedition. Not soldiers, not scholars, not saints — usually a mixture of all three.
 
@@ -88,7 +88,7 @@ The Scholars' Guild rebranded as the **Aetherweaver Academy**, relocating to the
 Civil war between the Crown's Coalition and a Reform Coalition of Noble Houses. Four years of urban combat in Medsen, ending when the Beacon flickered, Emberfort fell to a Hollowed general named **Lord-Warden Theron**, and both sides were forced to unite against the Horde at **Three Bridges**. King Aldhelm died there, his Sun-Born radiance burning through the Horde and through himself. The war is considered Brightvale's deepest wound. The sides, technically, are still remembered.
 
 ### Years 297–308 — The Golden Reprieve
-**Queen Wendreda** pardoned lesser rebels and sacrificed the most dangerous Reform leaders to the Beacon. A decade of recovery produced **Ashlines**, **Lumen Censers**, and the Warding Expansion that doubled Medsen's safe living zone.
+**Queen Wendreda** pardoned lesser rebels and sacrificed the most dangerous Reform leaders to the Beacon. A decade of recovery produced **Ashlines**, **Ashgeld Ingots** for field use, and the Warding Expansion that doubled Medsen's safe living zone.
 
 ### Year 329 — The Explorers' Guild Founded
 King Oswin "The Venturer" formalized expeditions into the Wastes. The Guild was born.
