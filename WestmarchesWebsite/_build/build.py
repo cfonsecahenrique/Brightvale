@@ -892,6 +892,26 @@ CSS = r"""
   .tl-filter:hover { border-color: var(--ember); color: var(--paper); }
   .tl-filter.active { background: var(--ember); color: var(--bg); border-color: var(--ember); }
   .tl-event.hidden { display: none; }
+  .tl-spoiler { border: none; margin: 0; }
+  .tl-spoiler-toggle {
+    list-style: none; cursor: pointer; display: block;
+    text-align: center; margin: 2rem auto 1.5rem;
+    padding: .75rem 1.6rem; max-width: 560px;
+    border: 1px solid var(--hairline-strong); background: var(--bg-2);
+    font-family: 'Cinzel', serif; font-size: .82rem; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--paper-dim);
+    transition: color .2s ease, border-color .2s ease; position: relative; z-index: 1;
+  }
+  .tl-spoiler-toggle::-webkit-details-marker { display: none; }
+  .tl-spoiler-toggle::before { content: '\25B8\00A0'; color: var(--ember-dim); transition: color .2s ease; }
+  details[open] > .tl-spoiler-toggle::before { content: '\25BE\00A0'; }
+  .tl-spoiler-toggle:hover { color: var(--paper); border-color: var(--ember-dim); }
+  .tl-spoiler-toggle:hover::before { color: var(--ember); }
+  .tl-spoiler-sub {
+    display: block; font-family: 'EB Garamond', serif; font-size: .88rem;
+    letter-spacing: 0; text-transform: none; font-style: italic;
+    color: var(--paper-dim); margin-top: .35em; line-height: 1.45;
+  }
   @media(max-width:700px) {
     .tl-wrap::before { left: .75rem; }
     .tl-event, .tl-event:nth-child(odd) { flex-direction: column; padding-left: 2.2rem; }
@@ -1021,6 +1041,10 @@ JS = r"""
         if (era === 'all' || ev.dataset.era === era) ev.classList.remove('hidden');
         else ev.classList.add('hidden');
       });
+      if (era !== 'all') {
+        const spoiler = document.querySelector('.tl-spoiler[data-era-spoiler="' + era + '"]');
+        if (spoiler) spoiler.open = true;
+      }
       document.querySelectorAll('#tl-events .tl-era').forEach(eraEl => { eraEl.style.display = ''; });
       if (era !== 'all') {
         document.querySelectorAll('#tl-events .tl-era').forEach(eraEl => {
@@ -1256,10 +1280,14 @@ parts.append('''<section id="timeline" class="reveal"><div class="wrap">
   <div class="tl-filters">
     <button class="tl-filter active" data-era="all">All Eras</button>
     <button class="tl-filter" data-era="founding">The Founding (0&ndash;250 AA)</button>
-    <button class="tl-filter" data-era="schism">Age of Strife (251&ndash;356 AA)</button>
+    <button class="tl-filter" data-era="schism">Age of Strife (251&ndash;292 AA)</button>
+    <button class="tl-filter" data-era="war">The Brightblood War (293&ndash;308 AA)</button>
+    <button class="tl-filter" data-era="venturer">The Venturer Age (309&ndash;356 AA)</button>
     <button class="tl-filter" data-era="council">The Council Age (357&ndash;400 AA)</button>
   </div>
   <div class="tl-wrap" id="tl-events">
+    <details class="tl-spoiler" data-era-spoiler="founding">
+      <summary class="tl-spoiler-toggle">The Founding &mdash; 0&ndash;250 AA<span class="tl-spoiler-sub">Only a scholar who has studied the First Archive would know these oldest records. Most Venturers know them only as legend.</span></summary>
     <div class="tl-era"><span class="tl-era-label">The Founding &mdash; 0&ndash;250 AA</span></div>
     <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The Apostasy</p><p class="tl-desc">The end of the golden age. The crimson veil descends and chokes the world. The Armisian Empire falls into shadow.</p></div><div class="tl-dot"></div><div class="tl-year">0 AA</div></div>
     <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The Sacrifice</p><p class="tl-desc">The Dawnfather&#39;s soul creates the Beacon &mdash; a pillar of divine fire that holds back the Umbra. Survivors establish the first haven in Medsen.</p></div><div class="tl-dot"></div><div class="tl-year">c. 50 AA</div></div>
@@ -1268,26 +1296,38 @@ parts.append('''<section id="timeline" class="reveal"><div class="wrap">
     <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">The First Archive</p><p class="tl-desc">Facing the memory-loss effects of Umbra exposure, Arch-Mage Elowen the Wise orders the formal recording of all history. Without written memory, the Enduring would lose themselves.</p></div><div class="tl-dot"></div><div class="tl-year">164 AA</div></div>
     <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">Founding: Scholars&#39; Guild</p><p class="tl-desc">An initial organization dedicated to reclaiming lost Armisian knowledge, the precursor to the Aetherweaver Academy.</p></div><div class="tl-dot"></div><div class="tl-year">165 AA</div></div>
     <div class="tl-event" data-era="founding"><div class="tl-event-body"><p class="tl-title">Ascension: Cynred the Bitter</p><p class="tl-desc">King Cenwald (The Writer) passes away. His heir Cynred begins a long, isolationist reign over Medsen that will last 116 years.</p></div><div class="tl-dot"></div><div class="tl-year">168 AA</div></div>
-    <div class="tl-era"><span class="tl-era-label">Age of Strife &mdash; 251&ndash;356 AA</span></div>
+    </details>
+    <details class="tl-spoiler" data-era-spoiler="schism">
+      <summary class="tl-spoiler-toggle">Age of Strife &mdash; 251&ndash;292 AA<span class="tl-spoiler-sub">A Venturer with a taste for history would know these events, though the Council keeps certain details deliberately vague.</span></summary>
+    <div class="tl-era"><span class="tl-era-label">Age of Strife &mdash; 251&ndash;292 AA</span></div>
     <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Founding: Slayers&#39; Guild</p><p class="tl-desc">Lord Eadmer, the &#34;Paragon of Steel,&#34; organizes elite monster hunters following the first major breach of Emberfort&#39;s South Palisades.</p></div><div class="tl-dot"></div><div class="tl-year">252 AA</div></div>
     <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Scholastic Schism</p><p class="tl-desc">First Steward Elowen the Wise resigns following bitter disputes over the &#34;Deep-Weave&#34; study. Arch-Scholar Solas assumes leadership of the fractured institution.</p><span class="tl-sig">Rupture in the Academy</span></div><div class="tl-dot"></div><div class="tl-year">270 AA</div></div>
     <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Academy&#39;s Dawn</p><p class="tl-desc">The Scholars&#39; Guild rebrands as the Aetherweaver Academy, focusing on teaching Aetherweaving to all capable initiates.</p></div><div class="tl-dot"></div><div class="tl-year">271 AA</div></div>
     <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Rise of Aurore</p><p class="tl-desc">The village of Aurore grows organically into a bustling town as scholars and students flock to the base of Aurore&#39;s Peak.</p></div><div class="tl-dot"></div><div class="tl-year">275 AA</div></div>
     <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Death of Cynred the Bitter</p><p class="tl-desc">End of the Bitter&#39;s 116-year reign. His grandson King Aldhelm inherits a realm corroded by institutional neglect and deepening factional resentment.</p></div><div class="tl-dot"></div><div class="tl-year">284 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Brightblood War</p><p class="tl-desc">Civil war erupts between the Crown&#39;s Coalition and the Reform Coalition. Noble Houses, Guilds, and the Dwarves of Hvergi fracture along political lines. The Explorers&#39; Guild remains neutral. Mercenary Orcish war-clans and Elven glade-companies are employed by both sides.</p><span class="tl-sig">Civil war</span></div><div class="tl-dot"></div><div class="tl-year">293 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Amber Court Peace (Failed)</p><p class="tl-desc">Senna Iyengar convenes emergency peace talks. A loyalist envoy is assassinated within the Court&#39;s walls on the twelfth day, collapsing the ceasefire and resuming the war.</p></div><div class="tl-dot"></div><div class="tl-year">294 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Flicker</p><p class="tl-desc">The Beacon dims as civil strife disrupts the Caretakers&#39; rituals and fractures the population&#39;s collective faith. Umbra-touched activity surges in the outer regions.</p><span class="tl-sig">The Beacon falters</span></div><div class="tl-dot"></div><div class="tl-year">295 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Fall of Emberfort</p><p class="tl-desc">Lord-Warden Theron &mdash; a legendary Emberguard general Hollowed decades prior &mdash; leads a massed Horde through Emberfort&#39;s depleted defenses. The fortress is nearly destroyed after nine days of fighting.</p><span class="tl-sig">The Horde breaches the walls</span></div><div class="tl-dot"></div><div class="tl-year">296 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Battle of Three Bridges</p><p class="tl-desc">Suns and Ravens unite against the Horde. King Aldhelm leads the combined force; his Sun-Born radiance sears the Horde and breaks Theron&#39;s hold. Aldhelm dies of his wounds three days later.</p><span class="tl-sig">End of the civil war</span></div><div class="tl-dot"></div><div class="tl-year">297 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Ascension: Queen Wendreda the Graceful</p><p class="tl-desc">Aldhelm&#39;s consort is crowned. She pardons the Reform Coalition&#39;s lesser members and publicly sacrifices the most nefarious rebel leaders to the Beacon. The fire burns bright and steady.</p></div><div class="tl-dot"></div><div class="tl-year">297 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Golden Reprieve</p><p class="tl-desc">A decade of recovery under Wendreda&#39;s rule. The Beacon&#39;s strengthened light fuels a renaissance in aetheric research. Ashgeld Ingots and Ashline wards are developed. Emberfort is rebuilt and fortified.</p></div><div class="tl-dot"></div><div class="tl-year">297&ndash;308 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Warding Expansion</p><p class="tl-desc">High-Aetherweaver Brynstan enhances Medsen&#39;s magical boundaries, doubling the safe living zone &mdash; a direct product of the Golden Reprieve&#39;s research surge.</p></div><div class="tl-dot"></div><div class="tl-year">300 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Ascension: King Oswin I the Venturer</p><p class="tl-desc">Wendreda&#39;s brother; a man of martial obsession who redirects the realm&#39;s ambitions outward, toward the Wastes.</p></div><div class="tl-dot"></div><div class="tl-year">328 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Founding: Explorers&#39; Guild</p><p class="tl-desc">King Oswin formalizes exploration of the Wastes. Ekbert, Prince of Glass, is named first Grand Explorer &mdash; the beginning of the Venturing tradition.</p></div><div class="tl-dot"></div><div class="tl-year">329 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">Ascension: King Raedfryd</p><p class="tl-desc">Death of King Oswin. Raedfryd, Exarch of Cinders, claims the throne &mdash; a reign that will end in catastrophe and constitutional change.</p></div><div class="tl-dot"></div><div class="tl-year">349 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Glass Tragedy</p><p class="tl-desc">Grand Explorer Ekbert dies in the Wastes. Lorenzo succeeds him as Grand Explorer.</p></div><div class="tl-dot"></div><div class="tl-year">353 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Great Famine</p><p class="tl-desc">A three-year period of crop failure, attributed to Raedfryd&#39;s heavy-handed mismanagement of Medsen&#39;s resources. Thousands starve.</p><span class="tl-sig">Three years of hunger</span></div><div class="tl-dot"></div><div class="tl-year">354&ndash;356 AA</div></div>
-    <div class="tl-event" data-era="schism"><div class="tl-event-body"><p class="tl-title">The Cinder Sacrifice</p><p class="tl-desc">Pressured by a starving population, King Raedfryd sacrifices himself into the Beacon&#39;s Great Pyre. The sunlight surge restores the crops. A king dies so his people may eat.</p><span class="tl-sig">A king&#39;s last act</span></div><div class="tl-dot"></div><div class="tl-year">356 AA</div></div>
+    </details>
+    <details class="tl-spoiler" data-era-spoiler="war">
+      <summary class="tl-spoiler-toggle">The Brightblood War &mdash; 293&ndash;308 AA<span class="tl-spoiler-sub">Every Enduring knows that there was a war. Few know how close the Beacon came to going out entirely.</span></summary>
+    <div class="tl-era"><span class="tl-era-label">The Brightblood War &mdash; 293&ndash;308 AA</span></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">The Brightblood War</p><p class="tl-desc">Civil war erupts between the Crown&#39;s Coalition and the Reform Coalition. Noble Houses, Guilds, and the Dwarves of Hvergi fracture along political lines. The Explorers&#39; Guild remains neutral. Mercenary Orcish war-clans and Elven glade-companies are employed by both sides.</p><span class="tl-sig">Civil war</span></div><div class="tl-dot"></div><div class="tl-year">293 AA</div></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">The Amber Court Peace (Failed)</p><p class="tl-desc">Senna Iyengar convenes emergency peace talks. A loyalist envoy is assassinated within the Court&#39;s walls on the twelfth day, collapsing the ceasefire and resuming the war.</p></div><div class="tl-dot"></div><div class="tl-year">294 AA</div></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">The Flicker</p><p class="tl-desc">The Beacon dims as civil strife disrupts the Caretakers&#39; rituals and fractures the population&#39;s collective faith. Umbra-touched activity surges in the outer regions.</p><span class="tl-sig">The Beacon falters</span></div><div class="tl-dot"></div><div class="tl-year">295 AA</div></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">Fall of Emberfort</p><p class="tl-desc">Lord-Warden Theron &mdash; a legendary Emberguard general Hollowed decades prior &mdash; leads a massed Horde through Emberfort&#39;s depleted defenses. The fortress is nearly destroyed after nine days of fighting.</p><span class="tl-sig">The Horde breaches the walls</span></div><div class="tl-dot"></div><div class="tl-year">296 AA</div></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">Battle of Three Bridges</p><p class="tl-desc">Suns and Ravens unite against the Horde. King Aldhelm leads the combined force; his Sun-Born radiance sears the Horde and breaks Theron&#39;s hold. Aldhelm dies of his wounds three days later.</p><span class="tl-sig">End of the civil war</span></div><div class="tl-dot"></div><div class="tl-year">297 AA</div></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">Ascension: Queen Wendreda the Graceful</p><p class="tl-desc">Aldhelm&#39;s consort is crowned. She pardons the Reform Coalition&#39;s lesser members and publicly sacrifices the most nefarious rebel leaders to the Beacon. The fire burns bright and steady.</p></div><div class="tl-dot"></div><div class="tl-year">297 AA</div></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">The Golden Reprieve</p><p class="tl-desc">A decade of recovery under Wendreda&#39;s rule. The Beacon&#39;s strengthened light fuels a renaissance in aetheric research. Ashgeld Ingots and Ashline wards are developed. Emberfort is rebuilt and fortified.</p></div><div class="tl-dot"></div><div class="tl-year">297&ndash;308 AA</div></div>
+    <div class="tl-event" data-era="war"><div class="tl-event-body"><p class="tl-title">The Warding Expansion</p><p class="tl-desc">High-Aetherweaver Brynstan enhances Medsen&#39;s magical boundaries, doubling the safe living zone &mdash; a direct product of the Golden Reprieve&#39;s research surge.</p></div><div class="tl-dot"></div><div class="tl-year">300 AA</div></div>
+    </details>
+    <details class="tl-spoiler" data-era-spoiler="venturer">
+      <summary class="tl-spoiler-toggle">The Venturer Age &mdash; 309&ndash;356 AA<span class="tl-spoiler-sub">The era that gave Venturers their name. Its end — famine, sacrifice, the fall of the old crown — is living memory for the oldest inhabitants of the Vale.</span></summary>
+    <div class="tl-era"><span class="tl-era-label">The Venturer Age &mdash; 309&ndash;356 AA</span></div>
+    <div class="tl-event" data-era="venturer"><div class="tl-event-body"><p class="tl-title">Ascension: King Oswin I the Venturer</p><p class="tl-desc">Wendreda&#39;s brother; a man of martial obsession who redirects the realm&#39;s ambitions outward, toward the Wastes.</p></div><div class="tl-dot"></div><div class="tl-year">328 AA</div></div>
+    <div class="tl-event" data-era="venturer"><div class="tl-event-body"><p class="tl-title">Founding: Explorers&#39; Guild</p><p class="tl-desc">King Oswin formalizes exploration of the Wastes. Ekbert, Prince of Glass, is named first Grand Explorer &mdash; the beginning of the Venturing tradition.</p></div><div class="tl-dot"></div><div class="tl-year">329 AA</div></div>
+    <div class="tl-event" data-era="venturer"><div class="tl-event-body"><p class="tl-title">Ascension: King Raedfryd</p><p class="tl-desc">Death of King Oswin. Raedfryd, Exarch of Cinders, claims the throne &mdash; a reign that will end in catastrophe and constitutional change.</p></div><div class="tl-dot"></div><div class="tl-year">349 AA</div></div>
+    <div class="tl-event" data-era="venturer"><div class="tl-event-body"><p class="tl-title">The Glass Tragedy</p><p class="tl-desc">Grand Explorer Ekbert dies in the Wastes. Lorenzo succeeds him as Grand Explorer.</p></div><div class="tl-dot"></div><div class="tl-year">353 AA</div></div>
+    <div class="tl-event" data-era="venturer"><div class="tl-event-body"><p class="tl-title">The Great Famine</p><p class="tl-desc">A three-year period of crop failure, attributed to Raedfryd&#39;s heavy-handed mismanagement of Medsen&#39;s resources. Thousands starve.</p><span class="tl-sig">Three years of hunger</span></div><div class="tl-dot"></div><div class="tl-year">354&ndash;356 AA</div></div>
+    <div class="tl-event" data-era="venturer"><div class="tl-event-body"><p class="tl-title">The Cinder Sacrifice</p><p class="tl-desc">Pressured by a starving population, King Raedfryd sacrifices himself into the Beacon&#39;s Great Pyre. The sunlight surge restores the crops. A king dies so his people may eat.</p><span class="tl-sig">A king&#39;s last act</span></div><div class="tl-dot"></div><div class="tl-year">356 AA</div></div>
+    </details>
     <div class="tl-era"><span class="tl-era-label">The Council Age &mdash; 357&ndash;400 AA</span></div>
     <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Birth of the Council</p><p class="tl-desc">In the wake of Raedfryd&#39;s death, the Council of Seven is formed to check the monarchy and lead Medsen. Power shifts from the crown to an institution.</p><span class="tl-sig">The new order begins</span></div><div class="tl-dot"></div><div class="tl-year">357 AA</div></div>
     <div class="tl-event" data-era="council"><div class="tl-event-body"><p class="tl-title">Ascension: King Edric I the Hollow Crown</p><p class="tl-desc">The first Sun-Born king to reign entirely under Council authority. The crown becomes ceremonial.</p></div><div class="tl-dot"></div><div class="tl-year">357 AA</div></div>

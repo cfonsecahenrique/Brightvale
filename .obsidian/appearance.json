@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Wasp",
-  "theme": "obsidian"
+  "cssTheme": "Primary",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "width"
+  ]
 }

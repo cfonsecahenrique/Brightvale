@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Worldbuilding/History_and_Lore/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Timeline"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Worldbuilding/History_and_Lore/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLAUDE"
+              "title": "Backlinks for Timeline"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Worldbuilding/History_and_Lore/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLAUDE"
+              "title": "Outgoing links from Timeline"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Worldbuilding/History_and_Lore/Timeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLAUDE"
+              "title": "Outline of Timeline"
             }
           },
           {
@@ -198,6 +198,9 @@
   },
   "active": "854f3d9fe84d6317",
   "lastOpenFiles": [
+    "Players/Player_Characters/Ruhmy.md",
+    "Worldbuilding/History_and_Lore/Timeline.md.tmp.15080.0e78bb512cec",
+    "CLAUDE.md",
     "README.md",
     "Notes.md",
     "WestmarchesWebsite/history-and-legendarium.md",
@@ -221,11 +224,8 @@
     "Worldbuilding/Characters/NPCs/Zorael Lugner.md",
     "Worldbuilding/Characters/NPCs/Aldred Gwyn.md",
     "Worldbuilding/Mysteries_and_Themes/Minor/Cult of the Goddess.md",
-    "Quests_and_Campaigns/The Veiled God's Lantern — GM Notes.md",
-    "Quests_and_Campaigns/One Shot session notes.md",
     "caretakers_procession.svg",
     "caretakers_procession.svg.tmp.31076.1778685468871",
-    "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Stiórmund.md",
     "Quests_and_Campaigns",
     "Worldbuilding/Factions_and_Organizations/Noble Houses/Dwarven Families/Clan Stiórmund.md.tmp.45140.1778107051454",
     "Worldbuilding/Bestiary/Daggerheart_Statblocks",
@@ -243,7 +243,6 @@
     "index.html",
     "WestmarchesWebsite/_build/images/test.txt",
     "WestmarchesWebsite/_build/images/-strip",
-    "WestmarchesWebsite/_build/build.py",
-    "WestmarchesWebsite/_build/images"
+    "WestmarchesWebsite/_build/build.py"
   ]
 }
