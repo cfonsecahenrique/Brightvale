@@ -33,8 +33,8 @@ The most disorienting expression of Warlock magic is in questions of physical la
 
 Infernis practitioners do not universally follow this path. But those who do often find it comes more naturally to them than to practitioners of other ancestries — whether through inherited resonance with their ancestors' tradition or something deeper in the bloodline is a question the [[Aetherweaver Academy]] has not resolved.
 
-See [[Magic_Systems]] for a full comparison of the three traditions.
+See [[Magic Schools]] for a full comparison of the three traditions.
 
 ## Related
 - [[Aetherweaver Academy]]
-- [[Magic_Systems]] 
+- [[Magic Schools]] 

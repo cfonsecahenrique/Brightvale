@@ -17,4 +17,4 @@ The Academy is the battleground for the Vale's most significant arcane ideologic
 
 Individual scholars navigate between these two funding pressures constantly. Some align clearly with one faction; many try to secure grants from both by framing their work to satisfy contradictory priorities. A growing number have quietly relocated to the Crucible's independent laboratories to avoid the politics altogether. The Arch-Aetherweavers of the Tower publicly maintain neutrality, which satisfies no one.
 
-A third path — the **Warlock tradition** of obsessive specialization practiced by the Infernis bloodline's extraplanar ancestors — has no formal faction at the Academy. It is studied as historical curiosity and occasionally as practical model, but it resists institutionalization by nature. See [[Magic_Systems]].
+A third path — the **Warlock tradition** of obsessive specialization practiced by the Infernis bloodline's extraplanar ancestors — has no formal faction at the Academy. It is studied as historical curiosity and occasionally as practical model, but it resists institutionalization by nature. See [[Magic Schools]].

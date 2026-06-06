@@ -40,8 +40,6 @@ At that point, the Warlock stops performing magic. They simply act, and reality 
 
 The most striking manifestation of this is in how Warlocks relate to their own limitations. A Warlock who has mastered the deep mechanics of physical force and movement will eventually stop asking *how* they move through space and start asking a different question entirely: *why wouldn't they?* You walk the ground without thinking. You do not reason through every step. Why would flight be different, to someone who understood it thoroughly enough to stop thinking about it? The logic does not explain the ability. The collapse of internal contradiction *permits* it.
 
-This tradition is most closely associated with the [[Infernis_Tieflings|Infernis]], whose extraplanar ancestors practiced magic in this manner — deep specialization so complete it read as nature rather than art. Whether this manifests in Infernis descendants as inherited tendency or simply cultural heritage passed through bloodlines is a question the Academy has not resolved. Warlocks exist across all ancestries, but Infernis Warlocks often develop their abilities faster, and with less apparent effort.
-
 The Warlock path's central weakness is its narrowness. A master transmuter is not thereby a master of binding. A Warlock caught outside their domain of specialization may be outmatched by a far less experienced formulaic mage working on familiar ground.
 
 ---

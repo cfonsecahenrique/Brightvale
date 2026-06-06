@@ -22,8 +22,8 @@ The mathematical approach humans call the **Arcanum** is, at its root, borrowed 
 
 Modern human mages are formulaic practitioners, and the best of them rival Elven masters. But they inherit the tradition's central hazard: **Arcane Locks**, the self-imposed logical cages that perfect reasoning can build. Many of the Vale's most talented young mages plateau abruptly, not from lack of power, but from frameworks they constructed themselves.
 
-See [[Magic_Systems]] for a full comparison of the three traditions.
+See [[Magic Schools]] for a full comparison of the three traditions.
 
 ## Related
 - [[Aetherweaver Academy]]
-- [[Magic_Systems]]
+- [[Magic Schools]]

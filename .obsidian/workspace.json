@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94869a77310ae7a6",
+        "id": "0566a44c395d74e3",
         "type": "tabs",
         "children": [
           {
-            "id": "854f3d9fe84d6317",
+            "id": "68e2c30df8fecc17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/History_and_Lore/Timeline.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "New tab"
             }
           }
         ]
@@ -196,17 +192,23 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "854f3d9fe84d6317",
+  "active": "68e2c30df8fecc17",
   "lastOpenFiles": [
-    "Players/Player_Characters/Ruhmy.md",
-    "Worldbuilding/History_and_Lore/Timeline.md.tmp.15080.0e78bb512cec",
-    "CLAUDE.md",
+    "Worldbuilding/History_and_Lore/Magic Schools.md",
+    "Worldbuilding/Rules_and_Mechanics/Umbra_Augmentation_and_Humanity.md",
+    "Worldbuilding/Bestiary/Krumpus.md",
+    "Worldbuilding/Rules_and_Mechanics/Making Adversaries.md",
+    "Worldbuilding/Rules_and_Mechanics/Umbra-Touched Monsters.md",
+    "Quests_and_Campaigns/One Shot session notes.md",
     "README.md",
     "Notes.md",
+    "CLAUDE.md",
+    "Worldbuilding/History_and_Lore/Timeline.md",
+    "Players/Player_Characters/Ruhmy.md",
+    "Worldbuilding/History_and_Lore/Timeline.md.tmp.15080.0e78bb512cec",
     "WestmarchesWebsite/history-and-legendarium.md",
     "WestmarchesWebsite/character-creation.md",
     "WestmarchesWebsite/ancestries.md",
-    "Worldbuilding/History_and_Lore/Timeline.md",
     "Worldbuilding/Locations/The Wastes/Ideas of Places in the Wastes.md",
     "Worldbuilding/History_and_Lore/The Concordance.md",
     "Worldbuilding/History_and_Lore/The Brightblood War.md",
@@ -219,11 +221,6 @@
     "Worldbuilding/History_and_Lore/Current Religious and Political Landscape.md",
     "Short_Stories/Official Expedition Report — The Aldred Commission.md",
     "Worldbuilding/Characters/NPCs/Cillian the Old.md",
-    "Worldbuilding/Characters/NPCs/Theodor Stjormund.md",
-    "Worldbuilding/Characters/NPCs/Yuriko Ruinweaver.md",
-    "Worldbuilding/Characters/NPCs/Zorael Lugner.md",
-    "Worldbuilding/Characters/NPCs/Aldred Gwyn.md",
-    "Worldbuilding/Mysteries_and_Themes/Minor/Cult of the Goddess.md",
     "caretakers_procession.svg",
     "caretakers_procession.svg.tmp.31076.1778685468871",
     "Quests_and_Campaigns",

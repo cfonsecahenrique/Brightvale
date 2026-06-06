@@ -13,10 +13,10 @@ This yields precision and surprising reach — a mage who grasps the principle b
 
 Elven scholars have long described the old human approach to magic — pure instinct and belief, no framework at all — with the somewhat ambivalent phrase *the wisdom of humans*. The respect in it is genuine. What humans could accomplish in their most desperate, unthinking moments has rarely been replicated by any formulaic practitioner.
 
-See [[Magic_Systems]] for a full comparison of the three traditions.
+See [[Magic Schools]] for a full comparison of the three traditions.
 
 ## Related
 - [[First Steward Elowen the Wise]]
 - [[Aeldenbarrows]]
 - [[Aetherweaver Academy]]
-- [[Magic_Systems]]
+- [[Magic Schools]]
