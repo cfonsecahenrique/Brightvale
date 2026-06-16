@@ -1,0 +1,29 @@
+{
+  "vaultSettings": {
+    "activeTheme": "slate-and-gold",
+    "atmosphere": {
+      "icons": "core",
+      "buttons": "core",
+      "textures": "core",
+      "typography": "core",
+      "cursors": "core",
+      "borders": "core",
+      "frames": "core",
+      "uiElements": "core",
+      "soundscape": "core",
+      "clickEffects": "core",
+      "textureOpacity": 0.3
+    },
+    "headingFont": "\"Cinzel\", serif",
+    "bodyFont": "\"Spectral\", serif",
+    "fontSize": 100,
+    "sidebarWidth": 400,
+    "isTocVisible": true,
+    "areInfoboxTagsVisible": true,
+    "areFooterTagsVisible": false,
+    "areLinkPreviewsEnabled": true,
+    "areMapPreviewsEnabled": true,
+    "showImages": true,
+    "showExternalFiles": false
+  }
+}

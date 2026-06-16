@@ -8,7 +8,20 @@
       "Bash(rmdir Characters/Ancestries Characters/NPCs Characters/Player_Characters Characters)",
       "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Henrique\\\\OneDrive\\\\Documentos\\\\GitHub\\\\Brightvale\" -Recurse -Directory)",
       "Bash(Select-Object -ExpandProperty FullName)",
-      "Bash(Sort-Object)"
+      "Bash(Sort-Object)",
+      "Bash(.venv/Scripts/python -m pip install --upgrade pip -q)",
+      "Bash(.venv/Scripts/python -m pip install -e \".[dev]\")",
+      "Bash(.venv/Scripts/python -m pytest \"tests/tools/test_inventory_tools.py::TestAddItem::test_unicode_apostrophe_name\" \"tests/tools/test_srd_tools.py::TestLookupClass::test_case_insensitive\" -p no:cacheprovider)",
+      "Bash(.venv/Scripts/python -)",
+      "Bash(.venv/Scripts/python -m pytest tests/tools/test_srd_tools.py tests/tools/test_campaign_io.py tests/tools/test_inventory_tools.py tests/tools/test_memory_history.py tests/tools/test_progression_extra.py tests/test_conftest_reload_coverage.py tests/test_fuzz_tool_contracts.py -p no:cacheprovider -q)",
+      "Bash(.venv/Scripts/python -m pytest tests --ignore=tests/live -m \"not live_llm and not live_llm_smoke and not live_eval\" -p no:cacheprovider -q)",
+      "Bash(.venv/Scripts/python -m pytest tests/tools/test_campaign_io.py::TestCampaignRead::test_empty_file_path_is_directory_filesystem_error tests/tools/test_campaign_io.py::TestCampaignSearch::test_finds_token_across_files_with_relpaths_and_linenos tests/tools/test_campaign_io.py::TestCampaignSearch::test_directory_scope_restricts_search tests/tools/test_campaign_io.py::TestCampaignSearch::test_more_than_10_files_header_true_count_10_blocks tests/tools/test_campaign_io.py::TestCampaignAppend::test_append_to_directory_filesystem_error tests/tools/test_memory_history.py::TestSearchHistory::test_file_exactly_at_soft_cap_not_truncated -p no:cacheprovider --tb=short -q)",
+      "Bash(grep -vE \"^\\\\s*$\")",
+      "Bash(grep -E 'passed|failed' __TRACKED_VAR__/bqhuir5g1.output)",
+      "Bash(git stash *)",
+      "Bash(pandoc --version)",
+      "PowerShell(pandoc *)",
+      "PowerShell(pip show *)"
     ]
   }
 }

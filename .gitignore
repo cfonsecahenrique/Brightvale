@@ -11,3 +11,8 @@
 Thumbs.db
 desktop.ini
 
+# Local tool caches and backups
+.chronicler-cache/
+.ck/
+Backups/
+

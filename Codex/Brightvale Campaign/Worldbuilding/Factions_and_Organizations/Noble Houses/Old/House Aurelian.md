@@ -1,0 +1,29 @@
+# House Aurelian (Placeholder Name)
+
+**Motto:** *"We remember the sky."*
+**Status:** Old Armisian House
+**Seat:** The Solarium ([[Medsen]])
+**Heraldry:** A golden eagle soaring above a radiant sun half-submerged below a horizon line on a field of pale gold and faded white.
+
+**Overview:** 
+Formerly the Armisian Empire's agricultural nobility, the Aurelians worship the sun as the practical source of all life. Defined by grief dressed as optimism, they run the Vale's major seed vaults and experimental greenhouses, stubbornly cultivating crops to thrive under the beacon-light instead of the faded sun.
+
+**Roots in the Old Armisian Age:**
+The Aurelians were Armis-Caen's agricultural nobility before the civil war ever broke out — and when the Aldari sacked the capital, it was Aurelian seed-vaults, relocated to **[[Pattis]]** ahead of the fall, that the house's survival actually rode on. Their sun-cult and grain-craft carried through the Century of Blood in those same vaults, which is precisely why a failing ancient stasis chamber (see below) is not a footnote but a thread back to the day the family nearly lost everything once already.
+
+**Strife & Ambition:** 
+Their core tension lies in their unwavering hope that the sky can be restored, opening them to exploitation while others see them as mere dreamers. Their ultimate ambition is twofold: uncover the true reason for the [[Apostasy]]'s sky-dimming and secure a "Second Harvest" ecosystem decoupled from sunlight.
+
+In the **388 AA Conservative Cycle**, Aurelian was elevated to a [[The Council of Seven|Council]] seat in the wake of the [[Official Expedition Report — The Aldred Commission|Aldred Commission]] scandal, completing the first dual-pious Noble majority since before the [[The Brightblood War|Brightblood War]]. The House's warm standing with the [[Caretakers of the Beacon|Order]] made it the obvious beneficiary of the public turn against the Concordance bloc. Aurelian has held the seat through every cycle since.
+
+**Key Relationships:**
+- **[[Aetherweaver Academy]] & [[House Lugner]]:** Jointly fund astronomical research with Lugner, hoping Old Magic can somehow reverse the sky's dimming.
+- **[[Caretakers of the Beacon]]:** Warm relations, united by a reverence for sustaining light. Aurelians often provide food for their charities.
+- **[[House Drevorn]]:** Constant commercial friction as Aurelians grow the grain that Drevorn distributes.
+
+**Story Hooks:**
+- A new wheat variety glows at night, photosynthesizing off the Beacon's light, possibly shifting Beacon theology forever.
+- An ancient Armisian seed vault's stasis chamber is mysteriously failing, threatening a 200-year dormant crop.
+- Records implicate the sky's dimming started centuries before the Apostasy, suggesting the Cataclysm was a late-stage symptom.
+
+**Related:** [[The Council of Seven]]

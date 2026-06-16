@@ -1,0 +1,31 @@
+{
+  "id": "old-armisian-empire",
+  "name": "Old Armisian Empire",
+  "image": "old-armisian-empire.jpg",
+  "pins": [
+    {
+      "id": "pmqf9rl9t",
+      "name": "Armis",
+      "kind": "place",
+      "x": 0.6151233793289871,
+      "y": 0.5537947678539324,
+      "page": "Old Armis Campaign/Worldbuilding/Locations/Cities/Armis.md"
+    },
+    {
+      "id": "pmqf9sk3q",
+      "name": "Himilkos",
+      "kind": "place",
+      "x": 0.7178552413849885,
+      "y": 0.43749454665845927,
+      "page": "Old Armis Campaign/Worldbuilding/Locations/Cities/Himilkos.md"
+    },
+    {
+      "id": "pmqfadme6",
+      "name": "Borkum Reef",
+      "kind": "place",
+      "x": 0.18488457001628936,
+      "y": 0.4297871145312588,
+      "page": "Old Armis Campaign/Worldbuilding/Locations/Geography/Borkum Reef.md"
+    }
+  ]
+}
