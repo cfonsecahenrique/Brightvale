@@ -10,8 +10,8 @@ The gods of **[[The Armisian Empire]]** — a **Bronze Age Mediterranean** faith
 
 | God | Domains | Patron city / cult centre |
 |---|---|---|
-| **[[Valdur]]** | Sky, thunder, kings, oaths | [[Armis-Caen]] |
-| **[[Tharssos]]** | Sea, storms, sailors, voyaging | [[Pattis]] |
+| **[[Anaru]]** | Sky, thunder, kings, oaths | [[Armis-Caen]] |
+| **[[Thalassos]]** | Sea, storms, sailors, voyaging | [[Pattis]] |
 | **[[Aetheon]]** | War, common soldiers, blood, battle's aftermath | Military garrisons, border towns |
 | **[[Hevrek]]** | Forge, craft, fire, [[Aetherweave Mastery\|Aetherweaving]] | Smithing districts |
 | **[[Aesaris]]** | Desire, love, beauty, the sea's abundance | [[Lyx]] |
@@ -29,7 +29,7 @@ The gods of **[[The Armisian Empire]]** — a **Bronze Age Mediterranean** faith
 
 These gods are not distant arbiters of virtue. They lust, scheme, grieve, hold grudges, and occasionally descend to do something inexplicably kind. Armisian worship is shaped by this: prayer is negotiation, sacrifice is currency, and a vow is treated with absolute seriousness — because the gods remember, and their patience for broken oaths is famously short.
 
-Every major city has a **patron god** whose temple dominates the civic centre; the other gods' temples ring it. City-patron rivalry maps onto political rivalry: [[Pattis]] honours [[Tharssos]] above all others, and considers the Armis-Caen cult of [[Valdur]] slightly provincial.
+Every major city has a **patron god** whose temple dominates the civic centre; the other gods' temples ring it. City-patron rivalry maps onto political rivalry: [[Pattis]] honours [[Thalassos]] above all others, and considers the Armis-Caen cult of [[Anaru]] slightly provincial.
 
 **Oracles** speak for the gods at dedicated sanctuaries — most famously for [[Setharis]], whose oracle at [[Himilkos]] is considered the most reliable in the Empire. The oracle speaks truth; the truth is rarely what the petitioner hoped.
 
@@ -39,7 +39,7 @@ Every major city has a **patron god** whose temple dominates the civic centre; t
 
 No Armisian crew sails without propitiation, and a captain who skimps is a captain no sailor will serve under.
 
-- **The Harbor-Libation.** Before casting off, wine (and a measure of fresh water, precious at sea) is poured into the harbor for [[Tharssos]], and a portion burned on the ship's shrine for [[Valdur]] and [[Maeris]]. The captain speaks the ship's name and her destination aloud, so the gods know which hull to guard.
+- **The Harbor-Libation.** Before casting off, wine (and a measure of fresh water, precious at sea) is poured into the harbor for [[Thalassos]], and a portion burned on the ship's shrine for [[Anaru]] and [[Maeris]]. The captain speaks the ship's name and her destination aloud, so the gods know which hull to guard.
 - **Augury and the Reading of Signs.** A voyage's fortune is read before departure — in the flight of harbor-birds, in the liver and entrails of a sacrificed beast (the **haruspex**, a temple-priest of real influence), in the behaviour of the sea at the harbor-mouth. A bad omen can delay a fleet for days; ignoring one is a story that ends badly.
 - **The Ship's Shrine.** Every vessel carries a small shrine at the stern — a figure of [[Maeris]] or the ship's own patron — tended daily. A ship that loses its shrine is considered cursed and is hard to crew.
 - **The Vow.** Crews promise the gods a share of what they bring home — a tithe of plunder, a monument, a sacrifice — *if* they return. The harbor-temples of [[Pattis]] are rich on vows fulfilled, and haunted by the debts of those who never came back to pay.
@@ -58,7 +58,7 @@ No Armisian crew sails without propitiation, and a captain who skimps is a capta
 
 [[Aetherweave Mastery|Aetherweave]] mastery is two and a half centuries old; the gods are older. The theological tension this creates is real and unresolved:
 
-- **The pious view:** the command of Water and Air is a *gift* of [[Valdur]] and [[Hevrek]], and the Aetherwrights are their blessed servants — which is why the great workings are still consecrated and the Aether-Helm of Pattis is half a temple.
+- **The pious view:** the command of Water and Air is a *gift* of [[Anaru]] and [[Hevrek]], and the Aetherwrights are their blessed servants — which is why the great workings are still consecrated and the Aether-Helm of Pattis is half a temple.
 - **The uneasy view:** to command the wind and the deep is to do the gods' own work with mortal hands — a theft, or a hubris, that the gods will one day answer. Older priests mutter that a people who no longer *needs* to pray for wind has forgotten how to fear. They are, though no one knows it, correct to worry.
 
 ---
