@@ -1,4 +1,4 @@
-# Ziramati Pantheon
+﻿# Ziramati Pantheon
 
 The faith of **[[Ziramat]]** — **Akkadian-Persian** in form, **draconic** at its core. Unlike the other cultures, the Ziramati do not merely *worship* their chief god; she **lives among them and rules them**: the Ancient Red Dragon **[[Azhdashar|Azhdašar, the Unwaning Flame]]**, venerated as a **Dragon-Goddess**. Theirs is a living theocracy, a matriarchal cult of the dragon-blood.
 
@@ -8,7 +8,7 @@ The faith of **[[Ziramat]]** — **Akkadian-Persian** in form, **draconic** at i
 At the root of the faith stands **[[Tiamat|Tiamat, the World-Mother]]** — the primordial dragon-goddess who **created the world** and bore **five dragon offspring**, charging each to **dominate over it**:
 - **[[Azhdashar|Azhdašar]]** is one of the five — a **daughter of Tiamat**, set to rule the **[[The Topaz Sea]]** and the bay of [[Ziramat]]. She is the living goddess the Ziramati actually serve.
 - The **four other dragons** are gone from knowledge — their whereabouts the great mystery beneath this religion (see [[Tiamat]]).
-- The Ziramati name for **[[The Contested Isle]]**, ***Tiâmtu***, invokes the World-Mother directly: they sense her ancient blood in it.
+- The Ziramati name for **[[Adamantis]]**, ***Tiâmtu***, invokes the World-Mother directly: they sense her ancient blood in it.
 
 ## The Faith (scaffold — fill in)
 | Element | Figure | Notes |
@@ -24,7 +24,7 @@ At the root of the faith stands **[[Tiamat|Tiamat, the World-Mother]]** — the 
 
 ## Hooks (GM)
 - A faith with a *living* god is a faith that can be **commanded** — and one whose death would be apocalyptic. This sharpens [[Plot Hooks|Hook #3]].
-- The Ziramati may already grasp the truth of **[[The Contested Isle]]** through their primordial-dragon theology — knowledge the Empire lacks.
+- The Ziramati may already grasp the truth of **[[Adamantis]]** through their primordial-dragon theology — knowledge the Empire lacks.
 
 ---
 **Related:** [[_Mythology Index]] · [[Ziramat]] · [[Azhdashar]] · [[_The Primordial Powers]]

@@ -18,6 +18,18 @@ To Armisian eyes they are **godless** — no pantheon, no idols, no temples, onl
 
 Met only within living memory, at [[Zergas-by-Azure]] on the [[The Titan's Sword|Titan's Sword]]. Norse-tongued, clan-fractured, and bellicose, the Dwarves of the far north war endlessly among themselves — and, when they unite, against the [[Glacier Giants]] who press down out of the ice. First contact was war; an uneasy trade now follows, and what began as Dwarven trading-posts in [[Pattis]] and [[Armis-Caen|Armis]] have grown into **sanctioned colonies** — Dwarves are an ever more common sight in Armisian life, and they call the Armisians the **Miðfolk**, the "Middle Folk," in their own tongue. They are also the world's **iron-masters**: the secrets of smelting and steel are a Dwarven inheritance, and it was through them that the bronze-working Empire first met iron. They guard both the craft and the rich northern ore, keeping the Empire dependent on what they choose to sell.
 
+## Aldari — the People of the Plateau
+
+The **[[Aldari]]** are older than Armisian contact and never truly absorbed by the Empire despite decades of attempted conquest. They hold a **Continental Germanic** faith utterly unlike any other in the known world: no temple-building, no civic priesthood, no formal pantheon hierarchy in the Armisian sense.
+
+Their faith is centred on **Elda** — the Ancient, the Elder, the earth herself given presence. The Empire calls her simply **"the Goddess,"** because she stands alone above all lesser powers with no rival in the Aldari sky. She governs earth and sovereignty, the turning seasons, the honored dead, and the sacred weight of oaths sworn on the ground.
+
+Below her: **Waldher** the Green Lord (hunt and the wild), **Grasberin** the Bone-Keeper (the honored dead in their barrows), **Donnershand** the Storm-Son (war and thunder), and **the Spinners** (fate, unnamed and observed rather than prayed to). None of them are placed above Elda; all answer to her.
+
+Religious authority rests with the **Eldamothren** — clan-mothers and elder-women who tend the sacred grove-sanctuaries. There are no male priests. An Armisian eye looking for a temple and a civic cult finds nothing and concludes the Aldari have no religion — a misreading with serious political consequences. The Aldari's land-tenure, oath-culture, and ancestor-practice are all sacred obligations, invisible to a conqueror who doesn't know how to look.
+
+The faith blurs at its edges with **[[_Elven Faith and the Fae|Elven tradition]]** — the Aldari's long kinship with the [[Elves]] has woven both into each other, most visibly at [[Eichenholt]], the jointly-tended grove sanctuary where the paths to the Otherworld are still open. The Elves quietly note that the Aldari are the only humans who have never closed those paths.
+
 ## Orcenfolk — the People of the Steppes
 
 The free horse-lords of the **[[The Eastern Steppes|Eastern Steppes]]**, beyond the settled heartland — mounted, clan-organised, and never ruled by the Empire. Peerless mounted archers who, in most seasons, feud among themselves and are easily played one clan against another — but who, when a **Great Kha** unites the grass into a single horse-host, can force the proud heartland to **buy peace** with caravans of "gifts" that are tribute in all but name. They keep an ancestor-honouring **faith of the Endless Sky**, an oral law, and a code of hospitality and feud outsiders underestimate at their peril.

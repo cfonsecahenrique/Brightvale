@@ -1,16 +1,16 @@
-# The Contested Isle
+﻿# Adamantis
 
 **Quest ID:** q_contested_isle
 **Type:** Grand expedition / three-faction confrontation (exploration, combat, revelation)
 **Difficulty:** Very Hard (suggested levels 9–12; 6–8 sessions)
-**Destination:** The Contested Isle — the interior, beyond any prior expedition's reach
+**Destination:** Adamantis — the interior, beyond any prior expedition's reach
 **Posted by:** Joint Imperial-Armisian Commission / direct Admiralty commission / player initiative
 
 > GM-facing brief. This is the arc where everything the player has learned about the Isle converges into a single reckoning. The three empires are all here now, competing openly, and the Isle is responding to the accumulated intrusion in ways no expedition has survived long enough to report. The dead primordial may stir. The player's accumulated choices — with Athregal, the Reef-Born, the Ziramati, the Helm — all bear weight here. End the arc with a fact that cannot be unmade.
 
 ## Premise
 
-The race for the Contested Isle has reached a tipping point. Armisian extraction camps, Athregali mining operations, and Ziramati sacred-ground expeditions now occupy overlapping territory on the island's coast, and open confrontation between the three powers is weeks or days away. The player arrives — as part of a major expedition, as an independent agent, or as the Admiralty's senior operative — with more knowledge of what the Isle actually is than any official expedition commander.
+The race for Adamantis has reached a tipping point. Armisian extraction camps, Athregali mining operations, and Ziramati sacred-ground expeditions now occupy overlapping territory on the island's coast, and open confrontation between the three powers is weeks or days away. The player arrives — as part of a major expedition, as an independent agent, or as the Admiralty's senior operative — with more knowledge of what the Isle actually is than any official expedition commander.
 
 What they do with that knowledge, in the face of an international crisis and a dead primordial whose body is being excavated, defines the arc.
 
@@ -82,4 +82,4 @@ Significant and multi-front: Isle-Touched encounters in the interior, a full con
 - The Deserters' Cache (`Tier_2/the_deserters_cache.md`) — the research confirms what the player finds here
 - The Dwarven Debt (`Tier_1/the_dwarven_debt.md`) — Bjarn's position here depends on that resolution
 - The Secession (`Tier_2/the_secession.md`) — the Reef-Born's western presence is a factor
-- The Contested Isle (mystery) · The Dead Primordial (GM secret) · The Coming Apostasy (GM secret) · Isharr · Bjarn Greykeep · Admiral Caeran Lys
+- Adamantis (mystery) · The Dead Primordial (GM secret) · The Coming Apostasy (GM secret) · Isharr · Bjarn Greykeep · Admiral Caeran Lys

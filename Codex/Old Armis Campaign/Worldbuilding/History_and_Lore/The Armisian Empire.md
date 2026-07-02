@@ -1,4 +1,4 @@
-# The Armisian Empire
+﻿# The Armisian Empire
 
 *The central hub of the [[Overview|New Armis Campaign]]. Link any faction, location, NPC, or lore note from this prequel back to here.*
 
@@ -33,7 +33,7 @@ The most important independent polity is **[[Pattis]]**, a **moving island-metro
 The Empire has recently encountered the **[[Dwarven Clans|Dwarves of Athregal]]** at **[[Zergas-by-Azure]]** on **[[The Titan's Sword]]**, where both powers reached to colonise. First contact was warlike; an uneasy trade now follows, and the first Dwarven communities are settling in [[Pattis]] and [[Armis]]. Further west, the Empire has also just made contact with the crimson empire of **[[Ziramat]]**, south across the [[The Azurian Ocean]].
 
 ## The Race for the Isle
-The Empire is one of three powers — with **[[Athregal]]** and **[[Ziramat]]** — racing to colonise **[[The Contested Isle]]**, a dangerous, Aether-rich island in the western ocean. The Empire works it from a single fortified foothold; the prize is its **Aether-heavy residuum**, fuel for [[Aetherweave Mastery]] beyond anything achieved at home. This is the great venture of the age — and the campaign's frontier.
+The Empire is one of three powers — with **[[Athregal]]** and **[[Ziramat]]** — racing to colonise **[[Adamantis]]**, a dangerous, Aether-rich island in the western ocean. The Empire works it from a single fortified foothold; the prize is its **Aether-heavy residuum**, fuel for [[Aetherweave Mastery]] beyond anything achieved at home. This is the great venture of the age — and the campaign's frontier.
 
 ## Peoples of the Empire
 The Empire is human-ruled, but not human-only. The **[[Elves]]** — the *elder* people who reigned **before humankind**, Brythonic-Celtic in culture — were long ago **subjugated and assimilated**, and remain most numerous in the Empire's **north-eastern reaches**. The **[[Dwarven Clans|Dwarves of Athregal]]** are the newest arrivals (see Foreign Contact).

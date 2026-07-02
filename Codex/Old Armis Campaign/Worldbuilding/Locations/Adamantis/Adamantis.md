@@ -1,6 +1,6 @@
-# The Contested Isle
+﻿# Adamantis
 
-> **Neutral GM title.** The island has **no shared name** — each culture calls it something different (see below). "The Contested Isle" is the campaign's neutral handle.
+> **Neutral GM title.** The island has **no shared name** — each culture calls it something different (see below). "Adamantis" is the campaign's neutral handle.
 
 A **large, dangerous, unexplored island** in the western waters — **southwest of [[The Titan's Sword]]** and **northwest of [[Ziramat]]**, out where the three Azurian powers' reaches overlap. It is the central frontier of the age, and very likely the central stage of the campaign.
 

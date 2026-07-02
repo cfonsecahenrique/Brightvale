@@ -1,4 +1,4 @@
-# The Amun-Orb
+﻿# The Amun-Orb
 
 **The engine of apotheosis** — a bound divine soul wed to the leaking lifeblood of a dead god, and the artifact through which the Master Aetherweavers of **[[Pattis]]** mean to make mortals into gods.
 
@@ -7,7 +7,7 @@
 ## What It Is
 The Orb fuses two of the most dangerous things in the world:
 - a **bound demi-god soul** — the unfinished, deathless soul drawn from **[[The Wandering Necropolis]]** and the line of **[[The Return of Xol-amun|Xol-amun]]**, held against its passage by An'Hiseretian death-art; and
-- raw **[[The Contested Isle|residuum]]** — the bleeding lifeblood of a dead **[[Primordial Dragons|primordial dragon]]** —
+- raw **[[Adamantis|residuum]]** — the bleeding lifeblood of a dead **[[Primordial Dragons|primordial dragon]]** —
 focused through the highest planar craft of **[[Aetherweave Mastery]]**.
 
 Together they let its wielders **undo the line between life and death itself** — to break the cycle the gods once kept, and let humanity grasp at divinity and immortality.

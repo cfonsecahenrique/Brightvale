@@ -1,4 +1,4 @@
-# The Deserters' Cache
+﻿# The Deserters' Cache
 
 **Quest ID:** q_deserters_cache
 **Type:** Investigation / pursuit (with combat)
@@ -84,5 +84,5 @@ The Helm's retrieval team arrives in Session 3 or 4, depending on pacing: a prof
 
 - The Reef Problem (`Tier_1/the_reef_problem.md`) — where the deserters' existence is first surfaced
 - The Residuum Run (`Tier_2/the_residuum_run.md`) — the Isle-Touched mechanism confirmed here
-- The Contested Isle (`Tier_3/the_contested_isle.md`) — what happens when this knowledge reaches that stage
-- Aetherweave Mastery · The Isle-Touched · The Contested Isle · Oran Veth · Danu Sael
+- Adamantis (`Tier_3/the_contested_isle.md`) — what happens when this knowledge reaches that stage
+- Aetherweave Mastery · The Isle-Touched · Adamantis · Oran Veth · Danu Sael

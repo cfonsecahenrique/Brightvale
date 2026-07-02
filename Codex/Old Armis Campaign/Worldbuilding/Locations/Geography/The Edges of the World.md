@@ -1,4 +1,4 @@
-# The Edges of the World
+﻿# The Edges of the World
 
 Where the charts run out, the marvels begin. The margins of **[[The Known World]]** are where the **old monsters, the withdrawn gods, and the wreckage of fallen Ages** still wait — and where the defining dread of the age, the **unknown itself**, lives.
 
@@ -17,7 +17,7 @@ Where the charts run out, the marvels begin. The margins of **[[The Known World]
 
 ## Hooks (GM)
 - Every report here is a voyage waiting to be sailed; the unknown becoming known is the campaign's deepest engine of wonder and dread.
-- Three of **[[Tiamat]]**'s five brood can now be placed — **[[Azhdashar|Azhdašar]]** in [[Ziramat]], the dead one in **[[The Contested Isle]]**, and the blood-magic dragon of **[[The Blood Empire]]** — leaving **two** still lost in these margins.
+- Three of **[[Tiamat]]**'s five brood can now be placed — **[[Azhdashar|Azhdašar]]** in [[Ziramat]], the dead one in **[[Adamantis]]**, and the blood-magic dragon of **[[The Blood Empire]]** — leaving **two** still lost in these margins.
 
 ---
 **Related:** [[The Known World]] · [[The Hesperine Isles]] · [[Tiamat]] · [[Apostasy]]

@@ -1,4 +1,4 @@
-# The Dwarven Debt
+﻿# The Dwarven Debt
 
 **Quest ID:** q_dwarven_debt
 **Type:** Diplomacy / investigation (with combat)
@@ -77,5 +77,5 @@ Not the primary tool here, but available: a blockade confrontation, a skirmish w
 ## Related
 
 - The Zergas Run (`Tier_1/the_zergas_run.md`) — where Greykeep is first met
-- The Contested Isle (`Tier_3/the_contested_isle.md`) — Athregal's position there depends on this outcome
+- Adamantis (`Tier_3/the_contested_isle.md`) — Athregal's position there depends on this outcome
 - Zergas-by-Azure · Dwarves of Athregal · The Imperial Admiralty · Unn Greykeep

@@ -1,4 +1,4 @@
-# Azhdašar, the Unwaning Flame
+﻿# Azhdašar, the Unwaning Flame
 
 **Role:** Ancient Red Dragon; living **Dragon-Goddess** and god-queen of **[[Ziramat]]**
 **Affiliation:** Sovereign of [[Ziramat]] and mother of the **[[Ziramati Dragonkin]]**
@@ -14,7 +14,7 @@
 Ziramati faith names Azhdašar a **Dragon-Goddess**: one of the **five dragon offspring** of the primordial creator **[[Tiamat|Tiamat, the World-Mother]]**, each set to dominate a portion of the world Tiamat made. Azhdašar's portion is the **[[The Topaz Sea]]** and the bay of [[Ziramat]]. Her **four siblings** are lost to knowledge — where they rule, sleep, or have fallen, none can say (see [[Tiamat]]). To rule beside a living scion of the World-Mother is the bedrock of Ziramati identity.
 
 ## A World-Shaper
-Azhdašar is a **[[Primordial Dragons|primordial dragon]]** — not a mere great beast but a force of creation whose magic **remakes the land around her**. The crimson deserts and red cliffs of [[Ziramat]] are *her doing*, the slow imprint of her power on her domain. The same magic seeps into the earth and would keep reshaping it **even after her death** — which is precisely what has happened on [[The Contested Isle]], where a dead primordial's leaking power has run wild. It is a glimpse of what Ziramat might become should the Empire ever achieve [[Plot Hooks|Hook #3]].
+Azhdašar is a **[[Primordial Dragons|primordial dragon]]** — not a mere great beast but a force of creation whose magic **remakes the land around her**. The crimson deserts and red cliffs of [[Ziramat]] are *her doing*, the slow imprint of her power on her domain. The same magic seeps into the earth and would keep reshaping it **even after her death** — which is precisely what has happened on [[Adamantis]], where a dead primordial's leaking power has run wild. It is a glimpse of what Ziramat might become should the Empire ever achieve [[Plot Hooks|Hook #3]].
 
 ## A Matriarchal Empire
 Ziramat is a **matriarchy**, and Azhdašar is its apex and its template. Descent, authority, and the priesthood pass through the female line; the great cliff-cities are governed by matriarchs and dragon-blooded daughters who answer, ultimately, to the Crimson Mother. To be of Azhdašar's brood is the root of all status, and her daughters and grand-daughters form the empire's true aristocracy.
@@ -31,13 +31,13 @@ The Empire's scholars cannot account for **Ziramati Aetherweaving** — and the 
 > **GM-only.** A primordial was long thought unkillable — but the An'Hiseretian **[[The Return of Xol-amun|soul-unmaking knowledge]]** is precisely a method for *truly* ending a deathless, divine being. Turned against Azhdašar, it makes the unthinkable thinkable: the slaying of a primordial. That act — proving even a god-dragon can be unmade — is one of the hinges of the **[[Apostasy]]**, the rehearsal for the deicide of the Century of Blood. It happens during the **[[Timeline (Armis)|Cold Centuries]]**, as Ziramat is ground down between the Pattisian and Aldari empires — and what the victors take from her body matters more than how she falls: her **primal core**, harvested and fed into the **[[The Amun-Orb|Amun-Orb]]** alongside **[[The Eye of the Desert]]**, becomes one of the three keys to the Pattisian Bid for Divinity that finally ends the age.
 
 ## What She May Know
-A primordial dragon may recognise a primordial thing. The Ziramati name for **[[The Contested Isle]]** — *Tiâmtu*, the Slumbering Deep — is no idle poetry: Azhdašar's people sense in the Isle a power **of the same ancient blood as dragons**, older even than their queen. What Azhdašar herself knows of the Isle, and whether she covets it or *fears* it, is among the campaign's deepest secrets.
+A primordial dragon may recognise a primordial thing. The Ziramati name for **[[Adamantis]]** — *Tiâmtu*, the Slumbering Deep — is no idle poetry: Azhdašar's people sense in the Isle a power **of the same ancient blood as dragons**, older even than their queen. What Azhdašar herself knows of the Isle, and whether she covets it or *fears* it, is among the campaign's deepest secrets.
 
 ## Hooks (GM)
 - **The true face of the war.** Every Armisian move against Ziramat is, ultimately, a move against a living god. Make the players feel that scale slowly.
 - **Not necessarily a villain.** An ancient dragon-queen defending her people and her brood from an expansionist empire is a sympathetic figure from one angle. Let the Empire be the aggressor.
-- **Her designs on the Isle.** Decide whether Azhdašar wants *Tiâmtu* claimed, left sleeping, or destroyed — and let that drive Ziramati actions on [[The Contested Isle]].
+- **Her designs on the Isle.** Decide whether Azhdašar wants *Tiâmtu* claimed, left sleeping, or destroyed — and let that drive Ziramati actions on [[Adamantis]].
 - **Stat block:** generate with the `generate-daggerheart-adversary` skill when needed — a solo, legendary-tier threat, not a fight the party simply *wins*.
 
 ---
-**Related:** [[Ziramat]] · [[Ziramati Dragonkin]] · [[The Contested Isle]] · [[Plot Hooks]]
+**Related:** [[Ziramat]] · [[Ziramati Dragonkin]] · [[Adamantis]] · [[Plot Hooks]]

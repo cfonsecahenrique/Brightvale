@@ -1,4 +1,4 @@
-# New Armis Campaign
+﻿# New Armis Campaign
 
 A **prequel** campaign set in the golden age of the **[[The Armisian Empire|Armisian Empire]]** — the bright, sea-faring, exploration-driven civilisation that will one day fall in the [[Apostasy]] and leave behind the ruins of the *Brightvale* setting.
 
@@ -29,7 +29,7 @@ New Armis Campaign/
 │   │   │                            Sword, The Azurian Ocean, The Topaz Sea, The Western
 │   │   │                            Reaches, The Seretis, Borkum Reef, The Hesperine Isles
 │   │   ├── Regions/               ← An'Hiseret, Athregal, Ziramat
-│   │   └── The Contested Isle/     ← ★ campaign frontier (base-towns TBD)
+│   │   └── Adamantis/     ← ★ campaign frontier (base-towns TBD)
 │   ├── Characters/
 │   │   ├── Ancestries/            ← Dwarven Clans, Ziramati Dragonkin, Elves
 │   │   └── NPCs/                  ← Azhdašar (Dragon-Queen of Ziramat)

@@ -1,4 +1,4 @@
-# New Armis Campaign — Worldbuilding Overview
+﻿# New Armis Campaign — Worldbuilding Overview
 
 A **prequel** campaign set during the golden age of the **[[The Armisian Empire|Armisian Empire]]**, centuries before the [[Apostasy]] that shattered the world of the *Brightvale* setting. Where Brightvale is dark, post-apocalyptic survival, this campaign is its mirror image: a **bright, vibrant, sea-faring age of discovery** at the height of empire — Hellenic golden age crossed with the ancient Phoenician thalassocracy.
 
@@ -6,7 +6,7 @@ A **prequel** campaign set during the golden age of the **[[The Armisian Empire|
 
 **The campaign begins in `994 AF`** — 994 years after the founding of [[Armis]], at the height of empire. See [[Timeline (Armis)]].
 
-> **★ The central frontier:** **[[The Contested Isle]]** — a dangerous, unexplored island in the western ocean that all three great powers ([[The Armisian Empire|Armis]], [[Athregal]], [[Ziramat]]) are racing to colonise. It fights back, and it bleeds raw Aether. This is where the venturers go.
+> **★ The central frontier:** **[[Adamantis]]** — a dangerous, unexplored island in the western ocean that all three great powers ([[The Armisian Empire|Armis]], [[Athregal]], [[Ziramat]]) are racing to colonise. It fights back, and it bleeds raw Aether. This is where the venturers go.
 >
 > **★ The driving agenda:** see **[[Plot Hooks]]** for the Empire's expansionist designs — the engines of the campaign.
 
@@ -33,7 +33,7 @@ The Empire rings the **[[The Central Sea]]**:
 - **[[Caen]]** — subjugated twin of Armis, merging with it.
 - **[[Pattis]]** — island-metropolis and gateway to the new world. (Numenor / Atlantis inspiration.)
 - **[[Zergas-by-Azure]]** — far-western outpost on the [[The Titan's Sword]]; site of first contact with the Dwarves.
-- **[[The Contested Isle]]** — the dangerous, Aether-rich island at the heart of the three-way colonial race; the campaign's expedition frontier.
+- **[[Adamantis]]** — the dangerous, Aether-rich island at the heart of the three-way colonial race; the campaign's expedition frontier.
 
 ## Peoples
 - **[[Dwarven Clans]]** — recent arrivals to imperial society; first contact was warlike, now an uneasy trading partnership. Small Dwarven communities are appearing in [[Pattis]] and [[Armis]].

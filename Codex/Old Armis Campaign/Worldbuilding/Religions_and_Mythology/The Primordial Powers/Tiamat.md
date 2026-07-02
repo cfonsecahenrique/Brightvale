@@ -1,4 +1,4 @@
-# Tiamat, the World-Mother
+﻿# Tiamat, the World-Mother
 
 The primordial **creator dragon-goddess** at the root of **[[_Ziramati Pantheon|Ziramati]]** cosmology. In the dragon-folk's telling, **Tiamat made the world** — and then brought forth **five dragon offspring**, charging each to **dominate over it**. She is the oldest power the Ziramati name, mother of gods and of dragons alike.
 
@@ -9,14 +9,14 @@ The primordial **creator dragon-goddess** at the root of **[[_Ziramati Pantheon|
 
 ## The Four Lost Dragons
 In-world, **no one knows where Azhdašar's four siblings are.** They may rule distant lands, sleep, have died, or have fallen to something. This is one of the campaign's largest open mysteries.
-- **GM truth:** one of the four lies **dead in [[The Contested Isle]]** (below), and a **second rules the far-eastern [[The Blood Empire]]** beyond the **[[The Eastern Steppes|Great Grass-Sea]]** — a living blood-sorcery dragon whose walled cities are its own handiwork. That leaves **two** of the siblings genuinely unaccounted for.
+- **GM truth:** one of the four lies **dead in [[Adamantis]]** (below), and a **second rules the far-eastern [[The Blood Empire]]** beyond the **[[The Eastern Steppes|Great Grass-Sea]]** — a living blood-sorcery dragon whose walled cities are its own handiwork. That leaves **two** of the siblings genuinely unaccounted for.
 - *GM seeds for the remaining two:* one could rule beyond the [[The Topaz Sea|Topaz Sea]] or across the [[The Azurian Ocean]] in lands yet to be charted; one could slumber far closer than anyone suspects.
 
-## Tiamat & the Contested Isle
-The Ziramati name for **[[The Contested Isle]]** is ***Tiâmtu*** — and **they are right**. The Isle is the resting place of **one of the four lost dragons**, almost certainly **dead**, its world-shaping magic still bleeding into the land (see **[[Primordial Dragons]]** and the Isle's own note). The dragon-folk sense their lost kin in the ground; the other cultures only feel the Isle's wrongness without understanding it.
+## Tiamat & Adamantis
+The Ziramati name for **[[Adamantis]]** is ***Tiâmtu*** — and **they are right**. The Isle is the resting place of **one of the four lost dragons**, almost certainly **dead**, its world-shaping magic still bleeding into the land (see **[[Primordial Dragons]]** and the Isle's own note). The dragon-folk sense their lost kin in the ground; the other cultures only feel the Isle's wrongness without understanding it.
 
 ## On the Five & Their Power
 Tiamat's offspring are **[[Primordial Dragons]]** — world-shapers whose magic remakes whole landscapes and lingers in the earth even after death. **[[Azhdashar|Azhdašar]]** is the living example (her crimson desert is her own handiwork), the Isle is a dead one, and the dragon of **[[The Blood Empire]]** is a third (a living one, far to the east). **Three** of the five are thus accounted for; **two** remain wholly unknown — each a land-shaping power waiting somewhere in the world.
 
 ---
-**Related:** [[_The Primordial Powers]] · [[_Ziramati Pantheon]] · [[Azhdashar]] · [[The Contested Isle]]
+**Related:** [[_The Primordial Powers]] · [[_Ziramati Pantheon]] · [[Azhdashar]] · [[Adamantis]]

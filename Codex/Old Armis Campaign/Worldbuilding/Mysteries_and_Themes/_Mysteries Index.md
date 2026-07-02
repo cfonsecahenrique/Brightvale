@@ -1,4 +1,4 @@
-# Mysteries & Themes — Index
+﻿# Mysteries & Themes — Index
 
 The dramatic irony of a prequel: the players explore a golden age the audience knows is doomed. The notes here are the **GM-only doom layer** — the causes of the **[[Apostasy]]**, seeded as hubris and dependence rather than prophecy. Link each to its root cause: **[[The Armisian Empire]]** or **[[Apostasy]]**.
 
@@ -11,7 +11,7 @@ The dramatic irony of a prequel: the players explore a golden age the audience k
 
 ## Engines of the Doom (cross-references)
 - The **[[The Amun-Orb|Amun-Orb]]** — the artifact that wields a bound soul and dead-god residuum toward apotheosis.
-- The **[[The Contested Isle|residuum]]** of a dead **[[Primordial Dragons|primordial]]** — a dead god's leaking blood, the likeliest road to godhood.
+- The **[[Adamantis|residuum]]** of a dead **[[Primordial Dragons|primordial]]** — a dead god's leaking blood, the likeliest road to godhood.
 - The hubris of **[[Aetherweave Mastery]]** — a civilisation that floats its capital on planar force and has a long way to fall.
 
 ---

@@ -1,4 +1,4 @@
-# Primordial Dragons
+﻿# Primordial Dragons
 
 The **five dragon offspring** of **[[Tiamat|Tiamat, the World-Mother]]** — and the deepest true power of the setting. Where mortal "dragons" are merely great beasts, the **primordials** are forces of creation: incredibly magical, world-shaping entities set by their mother to **dominate the world she made**. **[[Azhdashar|Azhdašar]]** is the only one the living world knows by name.
 
@@ -9,7 +9,7 @@ The **five dragon offspring** of **[[Tiamat|Tiamat, the World-Mother]]** — and
 
 ## Seen in the World
 - **Azhdašar & [[Ziramat]] (living).** The **crimson desert** and red-rock cliffs of Ziramat are no accident — they are the living mark of a Red primordial reshaping her domain on the **[[The Topaz Sea]]**.
-- **[[The Contested Isle]] (dead/dormant).** The Isle *is* the resting place of one of the **lost dragons**. Its hostile, self-defending ecosystem, its elusive native peoples, and above all its **Aether-heavy residuum** are all the work of a primordial's magic still bleeding into the land — almost certainly **after its death**. *(GM truth — see the Isle's note.)*
+- **[[Adamantis]] (dead/dormant).** The Isle *is* the resting place of one of the **lost dragons**. Its hostile, self-defending ecosystem, its elusive native peoples, and above all its **Aether-heavy residuum** are all the work of a primordial's magic still bleeding into the land — almost certainly **after its death**. *(GM truth — see the Isle's note.)*
 - **[[The Blood Empire]] (living).** Far east past the **[[The Eastern Steppes|Great Grass-Sea]]**, a second living primordial rules a civilisation of **blood-sorcery** from walled cities "of purity" — a third sibling placed, its land remade in its own image exactly as Azhdašar's is. *(GM truth — see [[Tiamat]].)*
 
 ## The Stolen Secret of Hatching
@@ -20,4 +20,4 @@ When **[[Ziramat]]** is finally ground down across the **[[Timeline (Armis)|Cold
 - Where are the **other two** primordials? With Azhdašar, the Isle's dead one, and the dragon of **[[The Blood Empire]]** now placed, two of the five remain unfound — each a land-shaping cataclysm waiting somewhere on the map. *(See [[Tiamat]].)*
 
 ---
-**Related:** [[Tiamat]] · [[Azhdashar]] · [[The Contested Isle]] · [[_The Primordial Powers]]
+**Related:** [[Tiamat]] · [[Azhdashar]] · [[Adamantis]] · [[_The Primordial Powers]]

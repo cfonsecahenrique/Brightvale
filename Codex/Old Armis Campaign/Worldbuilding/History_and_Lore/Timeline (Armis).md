@@ -1,4 +1,4 @@
-# Timeline — The Armisian Age
+﻿# Timeline — The Armisian Age
 
 *Prequel timeline for the [[The Armisian Empire|Armisian Empire]]. Uses **AF (After Founding)** dating, counting up from the Empire's founding (year 0 AF).*
 
@@ -15,10 +15,10 @@
 | *post-744* | Golden Age | **The Fall of [[An'Hiseret]]** | Armed with the Awakening, the Empire subdues the ancient necromantic empire of the southern [[The Central Sea]]. |
 | *~900s* | Golden Age | **First Contact** | At **[[Zergas-by-Azure]]** on the [[The Titan's Sword]], Armisian and [[Dwarven Clans|Dwarves of Athregal]] colonists clash; early wars give way to uneasy trade. |
 | *recent* | Golden Age | **The Crimson Coast** | Armisian voyages make first contact with the desert empire of **[[Ziramat]]**, south of the [[The Azurian Ocean]]. |
-| *recent* | Golden Age | **The Scramble for the Isle** | Armis, [[Athregal]], and [[Ziramat]] all plant footholds on **[[The Contested Isle]]** and begin the race for its **Aether-heavy residuum**. |
-| **994** | Golden Age | **★ Campaign Start** | The Empire at its height. Play begins on the frontier of [[The Contested Isle]]. |
+| *recent* | Golden Age | **The Scramble for the Isle** | Armis, [[Athregal]], and [[Ziramat]] all plant footholds on **[[Adamantis]]** and begin the race for its **Aether-heavy residuum**. |
+| **994** | Golden Age | **★ Campaign Start** | The Empire at its height. Play begins on the frontier of [[Adamantis]]. |
 | **1044** | The Dark Reign | **Mastery of the [[The Amun-Orb\|Amun-Orb]]** | The Empire's elites gain working control of the Orb; the first of them begin carving personal immortality from it. *(50 years after the campaign present.)* |
-| *1044–1144* | The Dark Reign | **The Hundred Years of Deathless Lords** | A century of an empire ruled by undying elites who abandon exploration for the dominion and exploitation of **[[The Contested Isle\|Adamantis]]** and its residuum. The Empire conquers the Aldari plateau (**[[Orierba]]**) and inflicts severe defeats on **[[Ziramat]]** — but the common soldier still ages and dies while their lords do not, and the Empire stretches past its strength. |
+| *1044–1144* | The Dark Reign | **The Hundred Years of Deathless Lords** | A century of an empire ruled by undying elites who abandon exploration for the dominion and exploitation of **[[Adamantis\|Adamantis]]** and its residuum. The Empire conquers the Aldari plateau (**[[Orierba]]**) and inflicts severe defeats on **[[Ziramat]]** — but the common soldier still ages and dies while their lords do not, and the Empire stretches past its strength. |
 | *~1100s* | The Dark Reign | **Athregal's Hidden Forge** | Fearing it is next, **[[Athregal]]** secretly arms the disgruntled **[[Aldari]]** with residuum-weapons of its own making, rather than wielding them itself. |
 | **1144** | The Sundering | **The Sack of [[Armis]]** | Civil war breaks the Empire — **[[Pattis]]** against **[[Armis]]–[[Caen]]** — as vassals, free cities, and subject peoples choose sides. The **[[Aldari]]** retake their plateau and march south, sacking the capital. |
 | **1145** | The Sundering | **The Founding of the Aldari Realm** | The Aldari capture and rebuild **[[Ezaro]]** as their new capital. **[[Pattis]]** declares itself the Empire's sole legitimate heir. |

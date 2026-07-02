@@ -1,4 +1,4 @@
-# The Secession
+﻿# The Secession
 
 **Quest ID:** q_secession
 **Type:** Political crisis / naval (with combat)
@@ -85,5 +85,5 @@ Expected if the false-flag approach is used or if Ash forces the issue: boarding
 
 - The Reef Problem (`Tier_1/the_reef_problem.md`) — prerequisite
 - The Deserters' Cache (`Tier_2/the_deserters_cache.md`) — what the Aetherwrights do next
-- The Contested Isle (`Tier_3/the_contested_isle.md`) — the secession's outcome shapes western power dynamics there
+- Adamantis (`Tier_3/the_contested_isle.md`) — the secession's outcome shapes western power dynamics there
 - Borkum Reef · The Reef-Born · Navarch Kassia Thorne · Tirel Ash · Mira Voss

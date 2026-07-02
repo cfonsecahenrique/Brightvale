@@ -1,4 +1,4 @@
-# Origins of the Peoples
+﻿# Origins of the Peoples
 
 The peoples of the world are not separate creations. They are **divergent branches of a single stock** — the descendants of one extinct ancestral people, scattered and reshaped until they became as different as Dwarf from Dragonkin. What drove them apart was not time alone but **the world itself**: environments that were never merely natural, but molded by primordials, by gods, by cosmic events, and by the deep currents of the **[[Aetherweave Mastery|Aetherweave]]**. The peoples are fantasy-evolution's answer to a world where magic shapes the land that shapes the flesh.
 
@@ -26,7 +26,7 @@ The branch that stayed **closest to the ancestral stock** — short-lived, witho
 Sheltered in the **northern fjords and mountains**, the Dwarves were shaped by the hardest refuge of all: a low, strong centre of gravity for cave and abyssal mountain-path, deep cold-endurance, and bodies and tempers tempered by an **endless war with the [[Glacier Giants]]** of the high ice — a strife that is itself half-supernatural, and that has never let the clans soften.
 
 ### Dragonkin — Marked by the Primordials
-Not shaped by a place but by a **power**: the Dragonkin are a mutation induced by the presence of the **[[Primordial Dragons|primordial dragons]]** — Tiamat's brood. They are kin, in blood and being, to those world-makers. This is why the Ziramati feel the **dead primordial of the [[The Contested Isle|Contested Isle]]** as lost family and mourn it as a grave: it *is* their kin.
+Not shaped by a place but by a **power**: the Dragonkin are a mutation induced by the presence of the **[[Primordial Dragons|primordial dragons]]** — Tiamat's brood. They are kin, in blood and being, to those world-makers. This is why the Ziramati feel the **dead primordial of the [[Adamantis|Adamantis]]** as lost family and mourn it as a grave: it *is* their kin.
 
 ### The Others — the Framework Extends
 The same logic reaches every people, and these threads are open for development:

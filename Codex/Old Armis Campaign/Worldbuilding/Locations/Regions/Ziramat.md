@@ -1,4 +1,4 @@
-# Ziramat
+﻿# Ziramat
 
 A foreign **empire** set on a great **bay of the [[The Topaz Sea]]**, **south of the [[The Azurian Ocean]]**, only just discovered by the **[[The Armisian Empire|Armisian Empire]]** — contact has barely begun. Where the Dwarven realm of **[[Athregal]]** sits to the ocean's north, Ziramat holds its southern reaches. (See the [[The Known World|world map]].)
 
@@ -17,14 +17,14 @@ Ziramat is a realm of **[[Ziramati Dragonkin|dragon-folk]]** — a dragonborn pe
 ## The Land
 A **crimson, desertic** realm of red rock and sandstone. The Dragonkin build **into the cliffs themselves** — cities carved from red stone faces and sandstone canyons rather than raised on open ground.
 
-*(GM: the red land is no coincidence — it is the living mark of a Red **[[Primordial Dragons|primordial dragon]]** reshaping her domain. Azhdašar's magic has remade Ziramat in her own image, exactly as the dead primordial has warped [[The Contested Isle]].)*
+*(GM: the red land is no coincidence — it is the living mark of a Red **[[Primordial Dragons|primordial dragon]]** reshaping her domain. Azhdašar's magic has remade Ziramat in her own image, exactly as the dead primordial has warped [[Adamantis]].)*
 
 ## Status
 - **First contact, just begun.** The Empire knows Ziramat only at its edges; little of its power, culture, or intentions is yet understood.
 - **Known cities** (besides the eponymous capital, **Ziramat**): **[[Elikrys]]**, **[[Hiraks]]**, **[[Arakses]]**, and **[[Yaviks]]**.
 
 ## The Race for the Isle
-Ziramat is one of three powers — with **[[The Armisian Empire]]** and **[[Athregal]]** — colonising **[[The Contested Isle]]** to the **northwest**, each from its own base-town. The Ziramati approach the Isle from the southeast.
+Ziramat is one of three powers — with **[[The Armisian Empire]]** and **[[Athregal]]** — colonising **[[Adamantis]]** to the **northwest**, each from its own base-town. The Ziramati approach the Isle from the southeast.
 
 ## The Long Grinding-Down (GM — looking forward)
 First contact in 994 AF is the high point of Ziramat's relationship with the outside world. Over the **[[Timeline (Armis)|Cold Centuries]]** that follow the Empire's civil war, both successor powers — **[[Pattis]]** and the **[[Ezaro|Aldari Realm of Ezaro]]** — turn on Ziramat in turn, each wanting what the other must not have: its residuum, its dragon-blood, and above all the secrets of **dragon hatching** that the Ziramati die rather than surrender. By the time Pattis reaches for true godhood, Ziramat has been bled to near-extinction — its queen **[[Azhdashar|Azhdašar]]** slain, her primal core harvested, and **[[The Eye of the Desert]]** looted from its temple-cult. What both empires take from Ziramat's ruin becomes the seed of their own **dragon-rider noble houses** (see **[[Primordial Dragons]]**).

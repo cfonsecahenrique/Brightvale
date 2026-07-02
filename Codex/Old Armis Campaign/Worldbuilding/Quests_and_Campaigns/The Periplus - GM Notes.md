@@ -1,4 +1,4 @@
-# The Periplus of Hannor the Far-Sailed — GM Notes
+﻿# The Periplus of Hannor the Far-Sailed — GM Notes
 
 The in-world chronicle of the known world — and the voice we write it in. A *periplus* is a sailor's account of a voyage around the coasts, and this one is the life's work of **Hannor the Far-Sailed**, a merchant-traveller of [[Pattis]] who claims to have set foot on every shore an Armisian ship can reach and a few it cannot.
 
@@ -21,7 +21,7 @@ Pure Herodotus-at-sea. Hannor is:
 
 Hannor's confident errors are the chronicle's secret engine. He "knows" things the GM knows are false, and states them as plain fact:
 - that the **Elves are a godless, declining people** (he cannot see that they remember the gods better than anyone);
-- that the **[[The Contested Isle|Contested Isle]]** is a rich rock of strange ore (he has no idea it is a grave);
+- that the **[[Adamantis|Adamantis]]** is a rich rock of strange ore (he has no idea it is a grave);
 - that the **gods are old stories** the temples keep for luck (he does not know they are alive and watching from the world's edges);
 - that the **golden age is the dawn of an endless ascent** (it is the evening of one).
 
@@ -34,7 +34,7 @@ A periplus follows the coasts. Hannor's runs, roughly:
 2. **The Elder Times and the First Cities** — the Elves, An'Hiseret, the northern founding.
 3. **The Rise of Armis and the Golden Age** — the Awakening, the conquest of the south, Armis-Caen and Pattis at their height.
 4. **The Peoples of the World** — Elves, Orcenfolk, Dwarves, Ziramati, and others.
-5. **The Western Reaches** — the Titan's Sword, the colonies, Athregal, Ziramat, the Contested Isle.
+5. **The Western Reaches** — the Titan's Sword, the colonies, Athregal, Ziramat, Adamantis.
 6. **The Edges & the Marvels** — the Hesperine Isles, the blank south, beasts and wonders.
 
 ---

@@ -1,4 +1,4 @@
-# An Age of Azure and Gold
+﻿# An Age of Azure and Gold
 ### An introduction to the Armisian Empire
 
 It is the **994th year of the Empire**, and the world has never been brighter.
@@ -7,7 +7,7 @@ From the white harbours of the **Central Sea**, the banners of **Armis** fly ove
 
 It was not always so. Two and a half centuries ago, the Empire's arcanists achieved the **Aetherweave Awakening** — mastery over the deep, strong currents of planar magic. With command of the **Water and Air**, Armisian ships made a highway of the impassable ocean; with that same power, the Empire broke the ancient deathless realm of **An'Hiseret**, whose god-princes had ruled the southern coasts for centuries. The Awakening did not merely enrich the Empire. It made it certain that the world was *theirs to take*.
 
-And so they are taking it. Beyond the great landmass of the **Titan's Sword** lies the open **Azurian Ocean**, and across it, the edges of the map are filling fast: the warlike Dwarven clans of **Athregal** to the north; the crimson, cliff-carved dragon-empire of **Ziramat** to the south. Three proud powers — and between them, ringed by all their landings, the **Contested Isle**: a vast, unexplored island that bleeds raw Aether and *fights back*, its elusive natives moving in time with powers older than any empire. Everyone wants what the Isle holds. No one yet understands what it is.
+And so they are taking it. Beyond the great landmass of the **Titan's Sword** lies the open **Azurian Ocean**, and across it, the edges of the map are filling fast: the warlike Dwarven clans of **Athregal** to the north; the crimson, cliff-carved dragon-empire of **Ziramat** to the south. Three proud powers — and between them, ringed by all their landings, the **Adamantis**: a vast, unexplored island that bleeds raw Aether and *fights back*, its elusive natives moving in time with powers older than any empire. Everyone wants what the Isle holds. No one yet understands what it is.
 
 This is where you come in.
 
@@ -15,7 +15,7 @@ You are **venturers** — sent west by the Empire's hunger, into waters no chart
 
 There is no shortage of work for those willing to sail. Among the designs in motion:
 
-- **The Contested Isle** — break into the interior of the island that fights back, and claim its raw Aether before the rivals do.
+- **Adamantis** — break into the interior of the island that fights back, and claim its raw Aether before the rivals do.
 - **The Dragonkin of Ziramat** — learn the secrets of their strange weaving, and how to turn it against them.
 - **The Source of the Seretis** — follow An'Hiseret's sacred river inland, to the unknown civilisations at its head.
 - **The Divided Dwarves** — keep Athregal at war with itself, lest its clans ever unite against the Empire.

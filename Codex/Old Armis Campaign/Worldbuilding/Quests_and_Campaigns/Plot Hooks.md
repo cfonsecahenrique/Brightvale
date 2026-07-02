@@ -1,4 +1,4 @@
-# Plot Hooks — The Imperial Agenda
+﻿# Plot Hooks — The Imperial Agenda
 
 The driving engines of the campaign. Most are expressions of the **[[The Armisian Empire|Armisian]]** agenda of **expansion and domination** at the height of its golden age — the Empire reaching outward in every direction, certain of its right to do so. Player venturers are the instruments (witting or not) of that reach.
 
@@ -9,7 +9,7 @@ The driving engines of the campaign. Most are expressions of the **[[The Armisia
 Beyond the crimson dragon-empire, the map runs blank. The Empire wants it filled — and claimed.
 
 **2. West of the [[The Azurian Ocean|Azure]] — what lies there?**
-Past the open ocean and **[[The Contested Isle]]** lie the **[[The Hesperine Isles]]**, the westernmost known place — a mystical archipelago whose own expeditions return with contradictory accounts of time, inhabitants, even location. What lies *beyond* them, no Armisian ship has charted. The far west is the great unknown, and the great temptation.
+Past the open ocean and **[[Adamantis]]** lie the **[[The Hesperine Isles]]**, the westernmost known place — a mystical archipelago whose own expeditions return with contradictory accounts of time, inhabitants, even location. What lies *beyond* them, no Armisian ship has charted. The far west is the great unknown, and the great temptation.
 
 ## The Rival Powers
 **3. The Dragonkin of [[Ziramat]].**
@@ -31,7 +31,7 @@ Two days west of the [[The Titan's Sword]]'s tip, deserters and outcasts are har
 ## The Powers Older Than the Empire
 *Late additions — threads older than Armis, and beyond its command.*
 
-**8. [[The Contested Isle]] — the prize beneath everything.**
+**8. [[Adamantis]] — the prize beneath everything.**
 Three empires race for one island: Armisian *Adamantis*, Ziramati *Tiâmtu*, Athregali *Reiðrey*. Its **[[Aetherweave Mastery|Aether-heavy residuum]]** promises weaving beyond anything achieved at home, and the Empire means to hold it first. *(GM truth: the residuum is the leaking magic of a **dead [[Primordial Dragons|primordial dragon]]**, and the likeliest seed of the [[Apostasy]].)*
 
 **9. The [[Elves]] and the Fae they keep.**
@@ -41,4 +41,4 @@ The conquered **elder people** still hold an open road to the **[[_Elven Faith a
 Ziramati myth names **[[Tiamat|five primordial dragons]]**; **[[Azhdashar|Azhdašar]]** rules [[Ziramat]], one lies dead beneath the Isle, and a third rules the far-eastern **[[The Blood Empire]]** beyond the **[[The Eastern Steppes|Great Grass-Sea]]**. **Two** world-shaping powers remain unaccounted for — sleeping, ruling, or fallen somewhere on the very map the Empire is so determined to fill.
 
 ---
-**Related:** [[The Armisian Empire]] · [[The Contested Isle]] · [[Timeline (Armis)]] · [[The Known World]]
+**Related:** [[The Armisian Empire]] · [[Adamantis]] · [[Timeline (Armis)]] · [[The Known World]]

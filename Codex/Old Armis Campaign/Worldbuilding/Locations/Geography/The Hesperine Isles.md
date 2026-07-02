@@ -1,6 +1,6 @@
-# The Hesperine Isles
+﻿# The Hesperine Isles
 
-The **westernmost place currently known** to the **[[The Armisian Empire|Armisian Empire]]** — a **temperate archipelago** far out past **[[The Contested Isle]]**, on the dim western edge of the charts. *(Armisian name, "the western isles," from* Hesperos*, the west; sailors also call them the **Drifting Isles**, for reasons that become clear below.)*
+The **westernmost place currently known** to the **[[The Armisian Empire|Armisian Empire]]** — a **temperate archipelago** far out past **[[Adamantis]]**, on the dim western edge of the charts. *(Armisian name, "the western isles," from* Hesperos*, the west; sailors also call them the **Drifting Isles**, for reasons that become clear below.)*
 
 ## What Is (Sort Of) Agreed
 - A temperate, seemingly **uninhabited** archipelago.
@@ -19,4 +19,4 @@ Almost nothing about the Isles is consistent between accounts — and the contra
 - The **westernmost known point** answers the edge of [[Plot Hooks|Hook #2]] only to deepen it: the more the Empire learns, the less it understands.
 
 ---
-**Related:** [[The Azurian Ocean]] · [[The Western Reaches]] · [[The Contested Isle]] · [[The Known World]]
+**Related:** [[The Azurian Ocean]] · [[The Western Reaches]] · [[Adamantis]] · [[The Known World]]

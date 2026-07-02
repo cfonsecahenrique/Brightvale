@@ -1,16 +1,16 @@
-# The Residuum Run
+﻿# The Residuum Run
 
 **Quest ID:** q_residuum_run
 **Type:** Voyage / expedition (exploration, combat, horror)
 **Difficulty:** Hard (suggested levels 5–8; 5–6 sessions)
-**Destination:** The Contested Isle, deep west past the Azurian
+**Destination:** Adamantis, deep west past the Azurian
 **Posted by:** Imperial Admiralty / Aether-Helm joint commission, Pattis
 
 > GM-facing brief. This is the arc where the Isle stops being a rumor. The player goes, sees what the residuum actually is, and returns changed. Do not explain the Isle — it does not explain itself. Show the wrongness of the land, the hunger of the three-way scramble, and the cost of drawing on something that should not be drawn. The arc closes when the player is back in Pattis with what they know. What they do with it is a longer story.
 
 ## Premise
 
-The Contested Isle bleeds a raw Aether-residuum found nowhere else in the known world — the prize driving the three-way race between the Empire, Athregal, and Ziramat. The Aether-Helm has sponsored a serious extraction expedition: reach the Isle, establish a forward camp, mine a viable quantity of residuum, and return. The player is crew on the most significant western voyage yet attempted.
+Adamantis bleeds a raw Aether-residuum found nowhere else in the known world — the prize driving the three-way race between the Empire, Athregal, and Ziramat. The Aether-Helm has sponsored a serious extraction expedition: reach the Isle, establish a forward camp, mine a viable quantity of residuum, and return. The player is crew on the most significant western voyage yet attempted.
 
 What the Isle actually is — why the land fights back, why the natives are bound to its power, why Ziramati navigators treat the approach as a funeral rite — none of that is in the briefing.
 
@@ -85,5 +85,5 @@ Real and escalating: the Isle-Touched (stat block: `the_isle_touched.md`), a con
 - The Zergas Run (`Tier_1/the_zergas_run.md`) — where the Isle is first whispered
 - The Reef Problem (`Tier_1/the_reef_problem.md`) — the Reef's Aetherwrights knew something about this
 - The Deserters' Cache (`Tier_2/the_deserters_cache.md`) — what the deserters' research says about the residuum
-- The Contested Isle (`Tier_3/the_contested_isle.md`) — the full reckoning
-- The Contested Isle (mystery) · The Isle-Touched (bestiary) · Isharr · Faelan · Aetherweave Mastery
+- Adamantis (`Tier_3/the_contested_isle.md`) — the full reckoning
+- Adamantis (mystery) · The Isle-Touched (bestiary) · Isharr · Faelan · Aetherweave Mastery

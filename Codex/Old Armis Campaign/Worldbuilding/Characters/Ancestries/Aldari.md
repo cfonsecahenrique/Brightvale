@@ -17,10 +17,18 @@ The **tribes of the northern plateau** — a people who held the highlands north
 - **Drosselfen** — a riverside trade town, the Aldari's main point of (grudging) commerce with Armisian merchants.
 - **Eichenholt** — a grove sanctuary where elf-Aldari kinship runs deepest, tended jointly by Aldari elders and elven kin.
 
+## Faith
+
+The Aldari keep a **[[_Aldari Pantheon|faith of earth, grove, and ancestor]]** — centred on **Elda**, the Ancient, the land herself given presence. The Empire calls her *"the Goddess"* because she stands alone above all the lesser powers with no divine rival above her. Sacred authority rests with the **Eldamothren** — clan-mothers who tend grove sanctuaries rather than temples. There are no male priests; the eldest woman of each clan *is* its religious authority.
+
+The faith bleeds at its edges into the **[[_Elven Faith and the Fae|Elven tradition]]** — at **Eichenholt**, tended jointly with elven kin, the old paths to the Otherworld are still open. The Aldari are the only humans of whom that can be said.
+
+The Empire's annexation of Aldari land is, in this faith's terms, *blasphemy*: Elda owns the land, and Armisian deed-law treating it as chattel is heresy the Eldamothren are counting.
+
 ## Hooks (GM)
 - The Aldari are this campaign's quiet powder keg: a subjugated, longer-rooted people whose grievance the Empire has never taken seriously. *(See [[Timeline (Armis)]] for what they eventually do about it.)*
 - **[[Athregal]]**, watching the Empire's ambitions grow, may find more sympathy with the conquered Aldari than with Armis itself — a thread worth seeding early.
 - An Aldari character (or one with Aldari/elf-blooded kin) carries a grudge the Empire doesn't know it's earned yet.
 
 ---
-**Related:** [[Orierba]] · [[Athregal]] · [[Elves]] · [[The Armisian Empire]]
+**Related:** [[Orierba]] · [[Athregal]] · [[Elves]] · [[The Armisian Empire]] · [[_Aldari Pantheon]]

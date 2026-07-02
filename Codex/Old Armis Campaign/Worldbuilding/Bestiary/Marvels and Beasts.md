@@ -1,8 +1,8 @@
-# Marvels & Beasts of the Known World
+﻿# Marvels & Beasts of the Known World
 
 A Pliny-style natural history: the creatures, monsters, and wonders of the age, as a venturer (or Hannor the Far-Sailed) might catalogue them. Fact and tall tale sit side by side here — exactly as they would in any honest chronicle of a world still mostly unmapped. The age's deepest dread is no longer the **dragon** — charted and assimilated since contact with Ziramat — but the **unknown** that has fled to the unmapped edges, where the old Homeric monsters wait.
 
-> **Note on the age:** the **Umbra does not exist yet.** Revenants, Rotlords, and Umbra-touched horrors belong to the *Brightvale* era after the [[Apostasy]]. The undeath of *this* age is **necromantic** ([[An'Hiseret]]) or **residuum-born** ([[The Contested Isle]]) — related horrors with wholly different sources. Keep them distinct.
+> **Note on the age:** the **Umbra does not exist yet.** Revenants, Rotlords, and Umbra-touched horrors belong to the *Brightvale* era after the [[Apostasy]]. The undeath of *this* age is **necromantic** ([[An'Hiseret]]) or **residuum-born** ([[Adamantis]]) — related horrors with wholly different sources. Keep them distinct.
 
 ---
 
@@ -26,7 +26,7 @@ A Pliny-style natural history: the creatures, monsters, and wonders of the age, 
 ## The Deathless and the Husk
 
 - **The Mindless of [[An'Hiseret]]** — corpses raised by necromancy into tireless labour and war; the undead the south is built on. Soulless tools, controlled by living (or souled) masters.
-- **The Isle-Touched** — not undead at all, but the *living* unmade: those who channel the raw residuum of the [[The Contested Isle|Contested Isle]] and come apart by degrees into the Aether that saturates that ground. A wholly different horror, and a warning the Empire is not heeding.
+- **The Isle-Touched** — not undead at all, but the *living* unmade: those who channel the raw residuum of the [[Adamantis|Adamantis]] and come apart by degrees into the Aether that saturates that ground. A wholly different horror, and a warning the Empire is not heeding.
 
 ## The Fae — the Good Neighbours
 
@@ -40,7 +40,7 @@ The folk of the **[[_Elven Faith and the Fae|Faewilds]]**, communed with by the 
 
 ## Wonders of the Wild World
 
-- **The residuum of the Contested Isle** — raw Aether bleeding from the ground, found nowhere else; the prize of the age. (GM: a dead primordial's blood.)
+- **The residuum of Adamantis** — raw Aether bleeding from the ground, found nowhere else; the prize of the age. (GM: a dead primordial's blood.)
 - **The [[The Eye of the Richat|Eye of the Richat]]** — the vast ringed structure deep in the southern desert, which Hannor reports as a natural marvel of stone. (GM: a reclusive god's seat; see [[Age of Heroes and the Withdrawal of the Gods]].)
 - **Tyrian purple, woad, glass, Aether-worked craft** — the precious substances and arts the chronicle lingers over.
 
@@ -50,4 +50,4 @@ Hannor reports the husk and the serpent as plainly as the kraken and the singing
 
 ---
 
-**Related:** [[An'Hiseret]] · [[_Elven Faith and the Fae]] · [[The Contested Isle]] · [[The Edges of the World]] · [[Ziramat]]
+**Related:** [[An'Hiseret]] · [[_Elven Faith and the Fae]] · [[Adamantis]] · [[The Edges of the World]] · [[Ziramat]]

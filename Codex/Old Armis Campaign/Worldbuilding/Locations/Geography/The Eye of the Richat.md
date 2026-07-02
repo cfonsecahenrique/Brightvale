@@ -1,8 +1,8 @@
-# The Eye of the Richat
+﻿# The Eye of the Richat
 
 A place of **primeval power** deep in the southern desert, below **[[Ziramat]]** and the Seretian sands: **concentric rings of mountain** rippling outward from a single rocky centre — which the sand-dwellers say is the **eye of a primordial set into the earth.**
 
-> **GM-only.** The Eye is the **seat of a withdrawn god** — and it *rhymes* with the dead primordial of **[[The Contested Isle]]**. Whether the god and the primordial's eye are the same thing, or a god has simply made its seat upon something far older, is a dial for you.
+> **GM-only.** The Eye is the **seat of a withdrawn god** — and it *rhymes* with the dead primordial of **[[Adamantis]]**. Whether the god and the primordial's eye are the same thing, or a god has simply made its seat upon something far older, is a dial for you.
 
 ## What Is Spoken Of
 Few claim to have stood at its centre, and fewer still will say what they found. The reports agree only on the shape — rings within rings of red rock, too regular to be wholly natural and too vast to be wholly made — and on the feeling: that something **looks back** from the centre, and that the closer one comes, the truer that feeling gets.
@@ -18,4 +18,4 @@ A power that has not spoken to mortals since the **Age of Heroes** keeps its lon
 - A player who grasps that the Eye rhymes with the Isle's grave has brushed a truth the age is not ready for. Hint; never confirm. (See **[[Apostasy]]**.)
 
 ---
-**Related:** [[The Edges of the World]] · [[The Contested Isle]] · [[Primordial Dragons]] · [[Ziramat]]
+**Related:** [[The Edges of the World]] · [[Adamantis]] · [[Primordial Dragons]] · [[Ziramat]]
