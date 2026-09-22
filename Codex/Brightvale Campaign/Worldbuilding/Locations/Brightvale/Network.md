@@ -15,7 +15,7 @@ This document serves as an adjacency list mapping the physical connections (road
 
 *   **[[Three Bridges]]**
     *   [[Veikryss]] (North)
-    *   [[Halfling Hearthlands]] (West)
+    *   [[Halfling Hearthlands]] / [[Thistle Falls]] (West via the Sacred Valley road)
     *   [[Emberfort]] (Southeast via the Venturer's Trail)
     *   [[Aeldenbarrow]] (West / Forest traces via the Canopy Walk)
     *   [[Orska]] (Northeast)
@@ -39,6 +39,11 @@ This document serves as an adjacency list mapping the physical connections (road
     *   *The Wastes / Umbralands (South, external to valley)*
 
 *   **[[Halfling Hearthlands]]**
+    *   [[Thistle Falls]] (the region's one village)
+    *   [[Three Bridges]] (East via the Sacred Valley road)
+
+*   **[[Thistle Falls]]**
+    *   [[Halfling Hearthlands]] (surrounding valley; farm tracks and the path to the falls)
     *   [[Three Bridges]] (East via the Sacred Valley road)
 
 *   **[[Aeldenbarrow]]**

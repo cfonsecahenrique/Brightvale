@@ -6,9 +6,45 @@ The **twin capital** of **[[The Armisian Empire]]** — once two rival cities, n
 
 ---
 
+## The City Seen from the Air
+
+![[Old Armis.webp]]
+
+> *Armis-Caen on the sea approach, mid-morning: what a gull sees, and what the crow's nest sees an hour before the harbour does.*
+
+The first thing that undoes a visitor's expectations is that Armis-Caen is not *a* city on *a* shore. It is a **lagoon capital** — a scatter of islands, spits, and reclaimed banks strung across a wide sheltered bay, each one built edge to edge until the stone runs out and the water begins. From above it reads as pale limestone and terracotta laid over turquoise, and the channels between the wards are as busy as any avenue in it.
+
+### The Water
+Shallows over sand glow a luminous blue-green; the deep-water channels run hard sapphire, and you can read the sailing lanes off the colour alone. The water is *everywhere* — no ward of the capital is more than a few streets from a quay, and the bay is threaded with wakes: skiffs, lighters, ferry-boats, oared tenders crossing between islands on errands too small to record.
+
+### The Seawalls
+Every island of consequence is belted at the waterline by a **white curtain wall** rising straight out of the sea, unbroken for hundreds of paces at a stretch and broad enough to walk. Square **bastion towers** stand at intervals along it, each crowned with a shallow **verdigris dome** — weathered copper gone soft green against all that white — so the walls read from a distance as a dotted line of pale blocks and green caps. The walls do not enclose the city; they enclose its *wards*, one by one. What the Armisians call their concentric ideal survives here as an archipelago's version of it: ring after ring of walled ground, with water where a lesser empire would have put a moat.
+
+### The Near Ward and the Acropolis
+The great island in the foreground is the densest thing in the known world: **terracotta roofs packed shoulder to shoulder**, stepping up and inland in tight terraces, the streets visible only as thin shadowed seams between them. At its crown sits the civic and sacred complex — a **colonnaded temple with a pedimented portico and a red-tiled roof**, flanked by lower halls, a **green-domed building**, and one of the few pieces of open green in the whole ward: a walled garden court, the rarest luxury in Armis-Caen.
+
+### The Temple Islands
+Out in the middle water, on its own island, stands a second great **white-columned temple under red tile**, so sited that it is seen whole from the sea with nothing behind it — a deliberate piece of imperial staging. Housing crowds right up to its precinct wall and then stops dead at the sacred boundary. Others like it dot the bay; the capital's gods keep their own islands, and attending one's festival means hiring a boat.
+
+### The Lighthouses and the Moles
+Where the channels narrow, **pale freestanding towers** rise directly from the water on stone moles — some are lighthouses, some are chain-towers, and from the deck of an approaching ship there is no telling which until you are close enough for it to matter. **Long causeways and embankments** run dead straight between islands, thin white lines across the blue, carrying the roads that the water would otherwise have cut.
+
+### The Far Citadel
+Miles off, at the neck of the bay, a rocky headland carries a **walled palace-citadel** — towers, terraces, and a keep-mass of pale stone above the strait, commanding the approach. Everything that enters the capital passes beneath it first.
+
+### The Horizon
+The bay is closed in by **forested green headlands**, then rising ridges, then a far wall of **blue-grey mountains with snow still on them**. The Empire's heart sits in a bowl: sea in front, mountains all around, weather coming in over both.
+
+### Ships and Light
+On the deep-water approach, **big lateen-rigged merchantmen** come up under tan sail, three and four in the lane at once, while a lone small boat cuts across mid-channel on some errand of its own. The light is high, hazy and washed out — sun through sea-haze, the far distance bleaching almost to white, the whole city looking less built than *watercoloured* onto the bay.
+
+**What it says about the Armisians:** they did not choose a defensible hill and grow outward from it. They took a bay, walled every scrap of land in it, bridged what they could, and left the rest to boats — then spent the surplus on temples sited to be admired from the water by the people arriving to pay them money.
+
+---
+
 ## The Walls
 
-The defining first impression of Armis-Caen is its walls: **white limestone, impossibly tall**, polished to reflect sun and sea so that the city can be seen from the horizon an hour before landfall. They are **circular** — as all Armisian fortifications are, concentric rings of walled wards diminishing toward the centre. The outermost circuit is thick enough for a road along its crest. Towers with signal fires crown it at regular intervals; the smoke of the nearest fire relay carries a message to the palace in minutes.
+The defining first impression of Armis-Caen is its walls: **white limestone, impossibly tall**, polished to reflect sun and sea so that the city can be seen from the horizon an hour before landfall. The Armisian ideal is **circular** — concentric rings of walled wards diminishing toward the centre — but the bay refuses it. What the city actually has is that ideal broken across an archipelago: **each island belted in its own white circuit**, the seaward faces running straight and unbroken along the quay lines, the water standing in for every ring the builders could not close. The outermost circuits are thick enough for a road along the crest. **Square bastion towers under shallow verdigris domes** crown them at regular intervals, and the towers carry signal fires; the smoke of the nearest relay carries a message across the water to the palace in minutes — which in a city cut into pieces by channels is not ceremony but necessity.
 
 ---
 
