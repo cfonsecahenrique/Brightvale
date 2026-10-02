@@ -18,6 +18,15 @@ A Pliny-style natural history: the creatures, monsters, and wonders of the age, 
 - **[[Glacier Giants]]** — the ice-borne ancient enemy of [[Athregal]], calving from the high glaciers in raiding-bands.
 - **The exotic fauna of the new world** — beyond the [[The Titan's Sword|Titan's Sword]], strange animals the Empire has no names for, brought home (live or stuffed) to astonish the Concord and fill the menageries of the great houses.
 
+## Monsters of the Elder Days
+
+These are not the unknown terrors at the edge of the map. They are the old, *named* ones: the curses and servants the gods left behind when they withdrew, still living in the Empire's own backwaters. Every child knows their stories from the stage at [[Thespia]], and every educated Armisian calls them superstition. (See **[[_Heroes and Legends]]**.)
+- **[[The Bull-King of the Horned Court|The Bull-King]]**, bellowing his broken vow beneath [[Ambrakis and the Horned Court|Ambrakis]].
+- **[[The Hydra of Enneara|The Hydra]]**, the reason Armisian convoys take the Long Lane to Adamantis.
+- **[[The Cyclopes of the Pyrrhai|The Cyclopes]]**, who keep one emissary every spring as the price of the stolen fire.
+- **[[The Gorgon Ysmene|The Gorgon]]**, whose lullaby the mothers of Lissipos forbid their children to hum.
+- The lesser terrors of tavern talk: the limping **Bronze Watchman**, the **Sphinx of the High Pass**, the **Snatchers** of the Aelunos cliffs.
+
 ## Dragons and the Dragonkin
 
 - **The dragon-folk of [[Ziramat]]** — scaled people, kin to the primordial dragons that shaped them; not beasts, but no Armisian is quite sure of that.

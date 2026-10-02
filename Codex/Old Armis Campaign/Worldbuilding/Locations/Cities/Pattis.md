@@ -47,6 +47,8 @@ The walls and ceiling are set with **gargantuan panes of glass** — each one a 
 
 Running through the temple's lower chambers are **salt-water pools**, open to the ocean through grated channels, in which the rites of Thalassos are conducted: immersion, offering, the reading of currents. Initiates are held beneath the surface for as long as they can bear. The deepest pool is never fully lit and its floor has not been measured. Priests claim the god moves in it.
 
+On a plinth above the deepest pool rests **the Conch of Nerissa**, the great spiral shell-horn with which Thalassos's demi-god daughter stilled the Azurian and bargained with the Serpent-Mother. It is sounded once a year at the Opening of the Sea, and the whole city goes silent to hear it. It is the one heroic relic the Empire openly holds. The keepers of **[[Hoplonesos]]** maintain it was stolen from their isle three centuries ago. (See [[_Heroes and Legends]].)
+
 No other temple in the Empire approaches this one. Even sailors who have spent their whole lives praying to Thalassos describe their first visit as the moment they understood what they had been praying to.
 
 ### The High Terraces

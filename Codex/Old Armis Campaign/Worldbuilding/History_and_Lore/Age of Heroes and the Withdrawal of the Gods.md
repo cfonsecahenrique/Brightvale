@@ -47,6 +47,10 @@ The gods the Armisians worship now are best understood as humanity's **mythologi
 
 The Withdrawal is the setting's great Shakespearean turn. The gods gave humanity freedom — and that freedom is the instrument of their undoing. As human societies grow and their dominion over the Weave deepens, mortals will one day reach for divinity itself and make war on their absent makers. The gift of agency becomes the murder weapon. The gods stepped back to let humanity flourish; humanity will flourish into the thing that ends them.
 
+## What the Gods Left Behind
+
+The gods took their protection with them when they withdrew. They did **not** take their curses, their servants, or their mistakes. The Bull-King still bellows his broken vow under Ambrakis. The Cyclopes still work a god's forge for a master who doesn't come home. The Gorgon still answers a prayer no one is left to revoke. The heroes laid down their arms at **[[Hoplonesos]]**, and the monsters are still here. See **[[_Heroes and Legends]]**.
+
 ## Hooks (GM)
 
 - An epic "myth" a venturer dismisses turns out to be deep history the Elves can confirm — and a withdrawn god may still be sitting where the story says.

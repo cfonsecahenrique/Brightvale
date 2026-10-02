@@ -13,6 +13,17 @@ A map-orientation note for the **[[The Armisian Empire|Armisian]]** golden age. 
 - **[[Borkum Reef]]** — an archipelago ~two days' sail **west of the Titan's Sword's northern tip**; a rising pirate haven (the **[[The Reef-Born]]**).
 - **[[The Hesperine Isles]]** — the **westernmost known place**, a mystical temperate archipelago far past Adamantis, where the reports stop making sense.
 
+## The Eastern Wall
+- **[[The Eight Forts]]** — the mountainous isthmus closing the far eastern end of the **[[The Central Sea]]**, joining the northern country to **[[An'Hiseret]]**. Four passes, each walled on both sides in ancient times; ruins now, since the Empire's road south became a sea-lane.
+
+## Legendary Sites
+Places where the **[[_Heroes and Legends|myths of the Elder Days]]** are still standing. Most are far from the capital, and most are avoided:
+- **[[Hoplonesos]]**, in the middle of the Central Sea: the isle where the demi-gods hung up their arms.
+- **[[Ambrakis and the Horned Court]]**, on the east coast of the Titan's Sword: the Bull-King's maze.
+- **[[The Pyrrhai]]**, in the far-eastern Central Sea off the Eight Forts: the Cyclopes' fire-isles.
+- **[[The Garden of Stone]]**, in the hills behind [[Lissipos]]: the Gorgon's valley.
+- **[[Enneara]]**, in the Azurian across the short lane to Adamantis: the Hydra's isle.
+
 ## The Edges of the Map (unknown)
 The Empire's ambition outruns its charts. Beyond the known lie blanks the Empire means to fill. *(See [[Plot Hooks]].)*
 - **South of [[Ziramat]]** — unknown.

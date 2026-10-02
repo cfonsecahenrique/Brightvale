@@ -9,6 +9,7 @@ The hub for the **myths, gods, and faiths** of the campaign's cultures. Each civ
 - **[[_Aldari Pantheon|Aldari Pantheon / The Erde Synthesis]]** — Continental Germanic; earth-goddess, sacred grove, and ancestor-communion. A matrilineal faith headed by **Elda** — known to outsiders simply as *"the Goddess"*. After the Sacking of Armis-Caen (1144 AF), the faith absorbs [[Terra]]'s Ezarian cult and evolves into **Erde** — the dominant, near-monotheistic religion of the Aldari Realm across the Cold Centuries (1145–1495 AF).
 - **[[_Ziramati Pantheon|Ziramati Pantheon]]** — Akkadian-Persian with a draconic core; a faith centred on the **living god-queen [[Azhdashar|Azhdašar]]** and the dragon-blood. The faith of [[Ziramat]].
 - **[[_Elven Faith and the Fae|Elven Faith & the Fae]]** — Brythonic-Celtic; not a pantheon but **communion with the Fae** and the Otherworld. The elder faith of the [[Elves]], older than all the rest.
+- **[[_Heroes and Legends|Heroes & Legends of the Elder Days]]**: the demi-god champions of the Age of Heroes, the curses the gods never lifted, and the monsters that outlived the heroes (the Bull-King, the Hydra, the Cyclopes, the Gorgon). This is where myth touches the map.
 - **[[_The Primordial Powers|The Primordial Powers]]** — the older-than-gods layer: dragons, the deep, and the slumbering force the Ziramati name *Tiâmtu* (see [[Adamantis]]).
 
 ## How to Use This Section

@@ -8,6 +8,11 @@ A large landmass forming the **western edge of the known world** — the barrier
 
 ## Settlements
 - **[[Zergas-by-Azure]]** — a far-western Armisian outpost near the landmass's **northern point**, facing the Azurian. Site of **first contact** with the Dwarves of Athregal.
+- **[[Ambrakis and the Horned Court|Ambrakis]]**: an old cliff-town on the **eastern** (Central Sea) coast, older than the Empire, built in a ring around the maze of the **[[The Bull-King of the Horned Court|Bull-King]]**.
+
+## Legends of the Sword
+- The **Bronze Watchman**, a giant of Daedrion's make, still limps along the beaches of the southern cape and stones ships that don't dip their sails. (See [[_Heroes and Legends]].)
+- Off the Sword's southern reach, the short lane to [[Adamantis]] runs past **[[Enneara]]**, the Hydra's isle. Armisian convoys go the long way round.
 
 ## Hooks (GM)
 - A frontier of rival claims, half-mapped interiors, and whatever (or whoever) held this land before either the Empire or the Dwarves arrived.

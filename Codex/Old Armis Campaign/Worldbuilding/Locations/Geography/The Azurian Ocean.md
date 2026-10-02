@@ -14,6 +14,7 @@ The Azurian is crossed not by sail and luck but by **[[Aetherweave Mastery]]**. 
 - To the **south**, across the **[[The Topaz Sea]]**, lies the crimson dragon-empire of **[[Ziramat]]**, only just contacted.
 - Both sit across the ocean, off the edge of the Empire's familiar map.
 - In its western waters lies **[[Adamantis]]** — the dangerous, unexplored island all three powers now race to colonise.
+- Across the short lane from the Titan's Sword to Adamantis lies **[[Enneara]]**, lair of **[[The Hydra of Enneara|the Hydra]]**. It is the reason Armisian convoys sail the **Long Lane** to the north, three days longer.
 - At its far western limit lie the mystical **[[The Hesperine Isles]]** — the westernmost place any expedition has returned from.
 
 ## Hooks (GM)

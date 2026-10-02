@@ -12,7 +12,7 @@ Each power names the Isle in its own tongue, and the name reveals how that cultu
 
 ## The Three-Way Scramble
 All **three great empires** are here at once, each landing from a **different side** of the island and each holding a single fortified **base-town**:
-- **[[The Armisian Empire]]** — approaching from the northeast, off [[The Titan's Sword]]. *(Base-town: TBD.)*
+- **[[The Armisian Empire]]** — approaching from the northeast, off [[The Titan's Sword]], by the **Long Lane**. It is three days longer, but the short lane runs past the Hydra of **[[Enneara]]**. *(Base-town: TBD.)*
 - **[[Athregal]]** (the Dwarves) — approaching from the north. *(Base-town: TBD.)*
 - **[[Ziramat]]** — approaching from the southeast. *(Base-town: TBD.)*
 
