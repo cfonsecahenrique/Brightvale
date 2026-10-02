@@ -37,8 +37,8 @@ The military heart of Pattis. A circular enclosed harbour, its single entrance s
 ### The Emporion
 The commercial port district, ringing the Cothon on its seaward side. Counting-houses, bonded warehouses, factor-offices, foreign enclaves. The **Salt Quarter** here has become the heart of Pattis's growing Dwarven community — forge-smoke and guttural speech in a city of sea-wind and Armisian dialect. The two cultures trade, argue, and occasionally brawl with the particular warmth of people who need each other.
 
-### The Sacred Ring
-A full circuit of twelve temples — one for each god of the [[Armisian Pantheon]], arranged in a ring around the city's upper tier. Each temple was built by a different generation and follows no shared plan; the ring looks less like a sacred district and more like an argument in stone that has been going on for centuries. Thalassos's temple is conspicuously absent from this ring. He has somewhere better.
+### The Shrine Ring
+Pattis, like every city of the Empire, keeps only **one temple** — Thalassos holds that honour absolutely, and no rival structure could be raised to another god without reading as open blasphemy against the sea itself. What rings the city's upper tier instead is a circuit of **shrines**: one for each of the other twelve gods of the [[_Armisian Pantheon|Armisian Pantheon]], modest beside a true temple but often lavish in their own right — a wealthy Pattisian trading house has been known to spend a small fortune gilding a shrine to [[Kalvris]] or [[Aesaris]] in the hope of a little borrowed luck. Each shrine was built by a different generation and follows no shared plan; the ring looks less like a sacred district and more like an argument in stone that has been going on for centuries.
 
 ### The Temple of Thalassos
 The greatest building in Pattis — and one of the great wonders of the age — lies **below the waterline**, in the city's deep undersea quarter. To descend to it is to pass through a series of Aetherweave-sealed airlocks and emerge into a vast vaulted space that feels less like a temple and more like standing inside the ocean itself.
@@ -52,7 +52,7 @@ On a plinth above the deepest pool rests **the Conch of Nerissa**, the great spi
 No other temple in the Empire approaches this one. Even sailors who have spent their whole lives praying to Thalassos describe their first visit as the moment they understood what they had been praying to.
 
 ### The High Terraces
-Pattis's wealthiest residential tier — a series of broad stepped terraces on the city's upper ring, their colonnaded facades facing the open sea. The harbor-temples of fulfilled vows stand here, their walls lined with bronze plaques recording the bargains kept: *I promised Thalassos a silver anchor if I survived the Sword. Here is the anchor.* The temples are also haunted, in a subtler sense, by the plaques that were never installed — the debts of crews who did not come back to pay.
+Pattis's wealthiest residential tier — a series of broad stepped terraces on the city's upper ring, their colonnaded facades facing the open sea. The harbor-shrines of fulfilled vows stand here, their walls lined with bronze plaques recording the bargains kept: *I promised Thalassos a silver anchor if I survived the Sword. Here is the anchor.* The shrines are also haunted, in a subtler sense, by the plaques that were never installed — the debts of crews who did not come back to pay.
 
 ### The Aether-Helm
 The great working that moves the city — and the closest thing Pattis has to a seat of government. Located at the city's centre, directly above the Cothon, the Aether-Helm is a vast circular chamber open to the sky above and the sea below, where the city's master Aetherweavers maintain the continuous planar workings that keep Pattis afloat, dry, and in motion. It is part temple, part engine room, and part throne hall.
