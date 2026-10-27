@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An interactive chronology from the Armisian Age to Brightvale.">
+  <title>From Armis to Brightvale — A Chronicle</title>
+  <style>
+    :root { --ink:#1b1715; --paper:#eee5cf; --paper-deep:#c8b99a; --night:#120f12; --panel:#20191a; --line:rgba(238,229,207,.18); --gold:#e3ae5e; --ember:#d86638; --violet:#9d80c5; --muted:#b9ad9d; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; background:radial-gradient(circle at 80% 0%,#30202a 0,transparent 29rem),var(--night); color:var(--paper); font:17px/1.55 Georgia, 'Times New Roman', serif; }
+    button,input { font:inherit; }
+    .hero { min-height:46vh; padding:5rem max(1.5rem,calc((100% - 1120px)/2)); display:grid; align-content:center; background:linear-gradient(115deg,rgba(0,0,0,.72),rgba(0,0,0,.22)), radial-gradient(ellipse at 72% 62%,rgba(216,102,56,.35),transparent 28%),#1b1213; border-bottom:1px solid var(--line); }
+    .eyebrow { color:var(--gold); font:700 .78rem/1.2 Arial,sans-serif; letter-spacing:.2em; text-transform:uppercase; }
+    h1,h2,h3 { font-family:Georgia,serif; font-weight:normal; line-height:1.08; }
+    h1 { max-width:880px; margin:.45rem 0 1rem; font-size:clamp(2.5rem,7vw,5.8rem); letter-spacing:-.045em; }
+    .hero p { max-width:660px; margin:0; color:var(--paper-deep); font-size:1.18rem; }
+    .layout { width:min(1120px,100%); margin:auto; padding:2rem 1.5rem 5rem; }
+    .controls { position:sticky; top:0; z-index:5; display:grid; grid-template-columns:1fr auto; gap:1rem; padding:1rem 0; background:linear-gradient(var(--night) 78%,transparent); }
+    .search { width:100%; min-width:0; padding:.75rem .95rem; border:1px solid var(--line); border-radius:3px; background:#191416; color:var(--paper); outline-color:var(--gold); }
+    .filters { display:flex; gap:.45rem; flex-wrap:wrap; justify-content:flex-end; }
+    .filter { cursor:pointer; padding:.63rem .8rem; color:var(--paper-deep); background:#191416; border:1px solid var(--line); border-radius:3px; }
+    .filter:hover,.filter[aria-pressed="true"] { color:var(--night); background:var(--gold); border-color:var(--gold); }
+    .summary { display:flex; justify-content:space-between; align-items:baseline; gap:1rem; margin:1rem 0 2.4rem; color:var(--muted); }
+    .summary strong { color:var(--gold); font-weight:normal; }
+    .legend { display:flex; gap:1rem; flex-wrap:wrap; font: .78rem Arial,sans-serif; }
+    .legend i { width:.65rem; height:.65rem; display:inline-block; border-radius:50%; margin-right:.35rem; background:var(--gold); }.legend i.post { background:var(--ember); }.legend i.now { background:var(--violet); }
+    .timeline { position:relative; margin-left:1rem; padding-left:2.5rem; border-left:1px solid var(--line); }
+    .era { position:relative; margin:3.8rem 0 1.2rem; scroll-margin-top:6rem; }.era:first-child { margin-top:0; }
+    .era::before { content:''; position:absolute; left:-2.88rem; top:.45rem; width:.72rem; height:.72rem; border:4px solid var(--night); border-radius:50%; background:var(--gold); }.era.post::before { background:var(--ember); }.era.now::before { background:var(--violet); }
+    .era h2 { margin:0; font-size:clamp(1.65rem,3vw,2.35rem); }.era > p { margin:.32rem 0 1.4rem; color:var(--muted); }
+    .event { position:relative; display:grid; grid-template-columns:120px 1fr; gap:1.25rem; padding:1.25rem 1.2rem; margin:.72rem 0; background:linear-gradient(100deg,rgba(255,255,255,.045),rgba(255,255,255,.015)); border:1px solid transparent; border-radius:4px; transition:transform .18s,border-color .18s,background .18s; }
+    .event:hover { transform:translateX(.35rem); border-color:var(--line); background:rgba(255,255,255,.065); }.event[hidden],.era[hidden] { display:none; }
+    .year { color:var(--gold); font:700 .85rem/1.3 Arial,sans-serif; letter-spacing:.06em; }.post .year { color:#ee9869; }.now .year { color:#c4a6e7; }
+    .event h3 { margin:0 0 .35rem; font-size:1.2rem; }.event p { margin:0; color:var(--paper-deep); }
+    .tag { display:inline-block; margin-top:.65rem; padding:.2rem .45rem; border:1px solid var(--line); border-radius:999px; color:var(--muted); font:.69rem Arial,sans-serif; letter-spacing:.08em; text-transform:uppercase; }
+    .empty { margin:2rem 0; padding:2rem; color:var(--muted); text-align:center; border:1px dashed var(--line); }.empty[hidden] { display:none; }
+    footer { padding:2.3rem max(1.5rem,calc((100% - 1120px)/2)); color:var(--muted); background:#0e0b0d; border-top:1px solid var(--line); font-size:.92rem; } code { color:var(--paper-deep); }
+    @media (max-width:650px) { .hero { min-height:38vh; padding-top:4rem; padding-bottom:4rem; }.controls { grid-template-columns:1fr; }.filters { justify-content:flex-start; }.summary { display:block; }.legend { margin-top:.6rem; }.timeline { margin-left:.45rem; padding-left:1.55rem; }.era::before { left:-1.94rem; }.event { grid-template-columns:1fr; gap:.35rem; padding:1rem; }.event:hover { transform:none; } }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="eyebrow">A historical atlas of Emberdawn</div>
+    <h1>From Old Armis<br>to Brightvale</h1>
+    <p>Trace the empire’s ascent, its collapse into the Apostasy, and four centuries of endurance beneath the Beacon.</p>
+  </header>
+  <main class="layout">
+    <div class="controls" aria-label="Timeline controls">
+      <input class="search" id="search" type="search" placeholder="Search people, places, wars, and events…" aria-label="Search the timeline">
+      <div class="filters" role="group" aria-label="Filter by era">
+        <button class="filter" data-filter="all" aria-pressed="true">All eras</button>
+        <button class="filter" data-filter="armis" aria-pressed="false">Old Armis</button>
+        <button class="filter" data-filter="fall" aria-pressed="false">The fall</button>
+        <button class="filter" data-filter="brightvale" aria-pressed="false">Brightvale</button>
+      </div>
+    </div>
+    <div class="summary"><span id="count"><strong>35 events</strong> across 1,895 years</span><span class="legend"><span><i></i>Armisian age</span><span><i class="post"></i>After Apostasy</span><span><i class="now"></i>Present day</span></span></div>
+    <section class="timeline" id="timeline" aria-live="polite">
+      <div class="era" data-era="armis">
+        <h2>The Armisian Age</h2><p>Dates are AF — After Founding. The Old Armis campaign begins at 994 AF.</p>
+        <article class="event" data-era="armis"><div class="year">0 AF</div><div><h3>The Founding of Armis</h3><p>The Armisian calendar begins as Armis rises into an imperial power.</p><span class="tag">Founding</span></div></article>
+        <article class="event" data-era="armis"><div class="year">EARLY EMPIRE</div><div><h3>The Twin Cities</h3><p>Armis subjugates Caen; the two cities begin their gradual merger into one capital.</p><span class="tag">Rise</span></div></article>
+        <article class="event" data-era="armis"><div class="year">744 AF</div><div><h3>The Aetherweave Awakening</h3><p>Mastery of strongly flowing Aetherweave launches the empire’s golden age.</p><span class="tag">Great Flow</span></div></article>
+        <article class="event" data-era="armis"><div class="year">744 AF →</div><div><h3>The Western Voyages</h3><p>Planar-powered fleets sail from Pattis and return with wealth from across the Azurian Ocean.</p><span class="tag">Golden Age</span></div></article>
+        <article class="event" data-era="armis"><div class="year">POST-744</div><div><h3>The Fall of An'Hiseret</h3><p>Armis uses its new power to subdue the ancient necromantic empire of the Central Sea.</p><span class="tag">Conquest</span></div></article>
+        <article class="event" data-era="armis"><div class="year">POST-744</div><div><h3>The Continental Dominion</h3><p>Imperial influence reaches from Wallia and Alder, its northern shields, to eastern steppe outposts, the puppet capital of An'Hiseret, and colonies across the Titan’s Sword.</p><span class="tag">Golden Age</span></div></article>
+        <article class="event" data-era="armis"><div class="year">c. 900s AF</div><div><h3>First Contact at Zergas-by-Azure</h3><p>Armisian and Athregal dwarven colonists clash on the Titan’s Sword; war slowly becomes uneasy trade.</p><span class="tag">Golden Age</span></div></article>
+        <article class="event" data-era="armis"><div class="year">LATE GOLDEN AGE</div><div><h3>The Scramble for Adamantis</h3><p>Armis, Athregal, and Ziramat plant footholds on the island, racing for its Aether-heavy residuum.</p><span class="tag">Expansion</span></div></article>
+        <article class="event" data-era="armis"><div class="year">LATE GOLDEN AGE</div><div><h3>The Skyship</h3><p>Armisian explorers discover Adamantis’s floating crystals and develop flying devices; the great skyship becomes the pinnacle of their art.</p><span class="tag">Aethercraft</span></div></article>
+        <article class="event" data-era="armis"><div class="year">994 AF</div><div><h3>Old Armis campaign begins</h3><p>The Empire stands at its zenith while the frontier of Adamantis draws competing powers.</p><span class="tag">Campaign present</span></div></article>
+        <article class="event" data-era="armis"><div class="year">1044 AF</div><div><h3>Mastery of the Amun-Orb</h3><p>The empire’s elites gain control of the Orb, and the first begin crafting personal immortality from it.</p><span class="tag">Dark Reign</span></div></article>
+        <article class="event" data-era="armis"><div class="year">1044–1144 AF</div><div><h3>The Hundred Years of Deathless Lords</h3><p>Undying rulers turn from exploration to exploiting Adamantis and its residuum, while the empire overextends.</p><span class="tag">Dark Reign</span></div></article>
+        <article class="event" data-era="fall"><div class="year">LATE DARK REIGN</div><div><h3>The Pattisian Rebellion</h3><p>Ziramati support helps Pattis turn revolt into civil war. City-states choose sides, while Athregal and Ziramat take over Adamantis exploration.</p><span class="tag">Pattisian Wars</span></div></article>
+      </div>
+      <div class="era" data-era="fall">
+        <h2>The breaking of the old world</h2><p>Armis fractures; successor states and gods are drawn into a century of blood.</p>
+        <article class="event" data-era="fall"><div class="year">c. 1100s AF</div><div><h3>Athregal’s Hidden Forge</h3><p>Fearing conquest, Athregal secretly arms dissatisfied Aldari with residuum weapons.</p><span class="tag">The Sundering</span></div></article>
+        <article class="event" data-era="fall"><div class="year">1144 AF</div><div><h3>The Battle of Wulfsgard</h3><p>Hazi Winter Falcon refuses Armis’s recall. With Aldari defenders and Athregali anti-airship weapons, the Winter Horde destroys the two skyships that reach Wulfsgard.</p><span class="tag">The Sundering</span></div></article>
+        <article class="event" data-era="fall"><div class="year">1144 AF</div><div><h3>The Sack of Armis–Caen</h3><p>With the Empire divided, Wallians, Aldari, Aurelians, Orierbans, and the Winter Horde descend from the highlands, sack the capital, and break the old imperial order.</p><span class="tag">The Sundering</span></div></article>
+        <article class="event" data-era="fall"><div class="year">1145 AF</div><div><h3>The Aldari Realm is Founded</h3><p>The Aldari rebuild Ezaro as their capital while Pattis declares itself the empire’s sole legitimate heir.</p><span class="tag">Successor states</span></div></article>
+        <article class="event" data-era="fall"><div class="year">1145–1395 AF</div><div><h3>Two Empires, One Uneasy Peace</h3><p>Pattis and Ezaro endure 250 years of proxy wars, intermittent open conflict, and competition over Adamantis.</p><span class="tag">Cold Centuries</span></div></article>
+        <article class="event" data-era="fall"><div class="year">c. 1395 AF</div><div><h3>The Pattisian Apotheosis</h3><p>Empowered by residuum, the Amun-Orb, Azhdashar’s core, and the Eye of the Desert, Pattis attempts true godhood.</p><span class="tag">The True Bid</span></div></article>
+        <article class="event" data-era="fall"><div class="year">c. 1395 AF</div><div><h3>The Waking of the Gods</h3><p>The Aldari awaken dormant gods catalogued by old Armisian expeditions to warn them of Pattis’s bid.</p><span class="tag">The True Bid</span></div></article>
+        <article class="event" data-era="fall"><div class="year">1395–1495 AF</div><div><h3>The Century of Blood</h3><p>War between mortals and immortals consumes the successor empires.</p><span class="tag">Apostasy</span></div></article>
+        <article class="event" data-era="fall"><div class="year">1495 AF / 0 AA</div><div><h3>The Apostasy</h3><p>The cataclysm ends both empires. A crimson veil descends, the Umbra begins to corrupt life, and a new calendar starts.</p><span class="tag">World changed</span></div></article>
+      </div>
+      <div class="era post" data-era="brightvale">
+        <h2>Brightvale and the Enduring</h2><p>Dates are AA — After Apostasy. The present year is 400 AA.</p>
+        <article class="event" data-era="brightvale"><div class="year">c. 27 AA</div><div><h3>The Sacrifice</h3><p>The Dawnfather’s soul creates the Beacon. Survivors establish their first safe haven in Medsen.</p><span class="tag">The Founding</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">c. 30 AA</div><div><h3>The Eastern Hearth</h3><p>Dwarven refugees consolidate mining operations in the mountain-roots and found Hvergi.</p><span class="tag">The Founding</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">164–165 AA</div><div><h3>The First Archive & Scholars’ Guild</h3><p>Elowen the Wise orders history recorded against Umbra-induced memory loss; a guild forms to reclaim Armisian knowledge.</p><span class="tag">The Founding</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">252 AA</div><div><h3>The Slayers’ Guild</h3><p>After a major breach of Emberfort’s South Palisades, Lord Eadmer organizes elite monster hunters.</p><span class="tag">Age of Strife</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">271 AA</div><div><h3>The Academy’s Dawn</h3><p>The Scholars’ Guild becomes the Aetherweaver Academy, teaching capable initiates Aetherweaving.</p><span class="tag">Age of Strife</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">293–297 AA</div><div><h3>The Brightblood War</h3><p>Civil war divides noble houses, guilds, and Hvergi. The Beacon flickers; Emberfort nearly falls to a Hollowed commander’s Horde.</p><span class="tag">Civil war</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">297 AA</div><div><h3>Battle of Three Bridges</h3><p>Suns and Ravens unite against the Horde. King Aldhelm breaks its hold, then dies of his wounds three days later.</p><span class="tag">Brightblood War</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">297–308 AA</div><div><h3>The Golden Reprieve</h3><p>Under Queen Wendreda, the Beacon is strengthened, Emberfort rebuilt, and aetheric research flourishes.</p><span class="tag">Recovery</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">329 AA</div><div><h3>The Explorers’ Guild</h3><p>King Oswin formalizes exploration of the Wastes and names Ekbert, Prince of Glass, the first Grand Explorer.</p><span class="tag">Venturer Age</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">356–357 AA</div><div><h3>The Cinder Sacrifice & Council</h3><p>King Raedfryd sacrifices himself to end a famine. In the aftermath, the Council of Seven forms and the crown becomes ceremonial.</p><span class="tag">Council Age</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">387 AA</div><div><h3>The Aldred Commission</h3><p>An expedition into the southwestern Wastes ends in disaster; its censored aftermath seeds the Cult of the Goddess.</p><span class="tag">Council Age</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">393 AA</div><div><h3>The Silent Sovereignty</h3><p>King Alfwyn is crowned, then almost immediately retreats into Medsen’s Central Temple-Castle and ceases public appearances.</p><span class="tag">Council Age</span></div></article>
+        <article class="event" data-era="brightvale"><div class="year">399–400 AA</div><div><h3>The Southern Quake & the Chasm</h3><p>An earthquake shifts the southern Wastes; landslides reveal entrances to an ancient underground complex beneath Brightvale.</p><span class="tag">Present day</span></div></article>
+      </div>
+    </section>
+    <p class="empty" id="empty" hidden>No events match that search. Try a place, person, era, or a shorter phrase.</p>
+  </main>
+  <footer>Compiled from <code>Codex/Old Armis Campaign/Worldbuilding/History_and_Lore/Timeline (Armis).md</code>, <code>The Pattisian Wars.md</code>, <code>The Battle of Wulfsgard.md</code>, and <code>Codex/Brightvale Campaign/Worldbuilding/History_and_Lore/Timeline.md</code>. Dates marked “c.” or spanning an era preserve the source’s uncertainty.</footer>
+  <script>
+    const search = document.querySelector('#search'); const buttons = [...document.querySelectorAll('.filter')]; const eras = [...document.querySelectorAll('.era')]; const events = [...document.querySelectorAll('.event')]; const count = document.querySelector('#count'); const empty = document.querySelector('#empty'); let active = 'all';
+    function update() { const term = search.value.trim().toLowerCase(); let visible = 0; events.forEach(event => { const matchEra = active === 'all' || event.dataset.era === active; const matchText = !term || event.textContent.toLowerCase().includes(term); const show = matchEra && matchText; event.hidden = !show; if(show) visible++; }); eras.forEach(era => era.hidden = ![...era.querySelectorAll('.event')].some(event => !event.hidden)); count.innerHTML = `<strong>${visible} ${visible === 1 ? 'event' : 'events'}</strong>${term ? ` matching “${search.value.trim()}”` : ' in this chronicle'}`; empty.hidden = visible !== 0; }
+    buttons.forEach(button => button.addEventListener('click', () => { active = button.dataset.filter; buttons.forEach(item => item.setAttribute('aria-pressed', String(item === button))); update(); })); search.addEventListener('input', update);
+  </script>
+</body>
+</html>
